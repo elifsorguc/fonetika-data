@@ -23,14 +23,14 @@ def search_word(word):
     params = {'searchtext': word}
     response = requests.get(search_url, headers=HEADERS, params=params)
     
-    # Add delay to avoid rate-limiting or blocking
-    time.sleep(1)  # Delay for 1 second between requests
+    # Print the HTML response for debugging
+    print(f"Searching for word: {word}")
+    print(response.text)  # Print the full HTML of the page
     
     soup = BeautifulSoup(response.text, "html.parser")
     
-    # Find the first word link (this will contain the ID for the word)
+    # Look for the first word link (this will contain the ID for the word)
     word_links = soup.find_all("a", {"class": "search-link-class"})  # Adjust with the actual class if needed
-    
     if word_links:
         word_url = urljoin(BASE_URL, word_links[0]["href"])
         
