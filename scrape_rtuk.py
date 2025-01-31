@@ -17,26 +17,24 @@ HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
 
-# Function to search for the word and get the link to its detailed page
+# Function to search for the word and get the word ID using AJAX data
 def search_word(word):
     search_url = f"{BASE_URL}/Home/SozlukSorgula"
     params = {'searchtext': word}
     response = requests.get(search_url, headers=HEADERS, params=params)
     
-    # Print the HTML response for debugging
+    # Add delay to avoid rate-limiting or blocking
+    time.sleep(1)  # Delay for 1 second between requests
+    
+    # Inspect the JSON response to extract the ID
     print(f"Searching for word: {word}")
-    print(response.text)  # Print the full HTML of the page
-    
-    soup = BeautifulSoup(response.text, "html.parser")
-    
-    # Look for the first word link (this will contain the ID for the word)
-    word_links = soup.find_all("a", {"class": "search-link-class"})  # Adjust with the actual class if needed
-    if word_links:
-        word_url = urljoin(BASE_URL, word_links[0]["href"])
-        
-        # Extract the ID from the word URL
-        word_id = word_url.split('/')[-1]  # The ID is in the last part of the URL (e.g., SesKelime/9345)
-        return word_id
+    try:
+        data = response.json()  # The response is in JSON format
+        if data:
+            word_id = data[0]['Id']  # Extract the first result's ID
+            return word_id
+    except ValueError:
+        print("Failed to parse JSON response.")
     return None
 
 # Function to scrape the phonetic transcription using the word ID
@@ -44,7 +42,7 @@ def extract_word_data(word_id):
     # Construct the URL for the word's audio
     audio_url = f"{BASE_URL}/Home/SesKelime/{word_id}"
     
-    # Here, we might want to scrape the phonetic transcription if it's available on the same page
+    # Now construct the URL for the word's phonetic transcription page
     phonetic_url = f"{BASE_URL}/Home/SozlukSorgula/{word_id}"  # Adjust if needed
     response = requests.get(phonetic_url, headers=HEADERS)
     soup = BeautifulSoup(response.text, "html.parser")
