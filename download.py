@@ -1,0 +1,117 @@
+import requests
+import pandas as pd
+from bs4 import BeautifulSoup
+import os
+import time
+from urllib.parse import urljoin
+
+# Base URL for RTÜK Telaffuz Sözlüğü
+BASE_URL = "https://sozluk.rtuk.gov.tr"
+
+# Directory to save audio files
+AUDIO_DIR = "audio_files"
+os.makedirs(AUDIO_DIR, exist_ok=True)
+
+# Headers to simulate a real user request (avoid blocking)
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+}
+
+# Function to search for the word and get the word ID using AJAX data
+def search_word(word):
+    search_url = f"{BASE_URL}/Home/SozlukSorgula"
+    params = {'searchtext': word}
+    response = requests.get(search_url, headers=HEADERS, params=params)
+    
+    # Add delay to avoid rate-limiting or blocking
+    time.sleep(1)  # Delay for 1 second between requests
+    
+    print(f"Searching for word: {word}")
+    try:
+        data = response.json()  # The response is in JSON format
+        if data:
+            word_id = data[0]['Id']  # Extract the first result's ID
+            return word_id
+    except ValueError:
+        print("Failed to parse JSON response for word:", word)
+    return None
+
+# Function to scrape the phonetic transcription and audio URL using the word ID
+def extract_word_data(word_id):
+    # Construct the URL for the word's phonetic transcription page
+    # (This is the same URL that you get when you use "View Page Source" in the browser)
+    word_url = f"{BASE_URL}/Home/SozlukSorgula/{word_id}"
+    
+    response = requests.get(word_url, headers=HEADERS)
+    if response.status_code != 200:
+        print(f"Failed to retrieve page for word id: {word_id}")
+        return "N/A", None
+
+    soup = BeautifulSoup(response.text, "html.parser")
+    
+    # Locate the dt tag with text containing "Fonetik Yazım"
+    phonetic = "N/A"
+    dt_tag = soup.find("dt", string=lambda t: t and "Fonetik Yazım" in t)
+    if dt_tag:
+        # The corresponding dd tag is the next sibling
+        dd_tag = dt_tag.find_next_sibling("dd")
+        if dd_tag:
+            phonetic = dd_tag.get_text(strip=True)
+    
+    # Construct the audio URL using the same word ID
+    audio_url = f"{BASE_URL}/Home/SesKelime/{word_id}"
+    
+    return phonetic, audio_url
+
+# Function to download the audio file
+def download_audio(audio_url, word):
+    try:
+        audio_response = requests.get(audio_url, headers=HEADERS)
+        if audio_response.status_code == 200:
+            audio_filename = os.path.join(AUDIO_DIR, f"{word}.mp3")  # Save as MP3
+            with open(audio_filename, "wb") as audio_file:
+                audio_file.write(audio_response.content)
+            print(f"Downloaded audio for {word}")
+            return audio_filename
+        else:
+            print(f"Failed to download audio for {word} (status code: {audio_response.status_code})")
+    except Exception as e:
+        print(f"Error downloading audio for {word}: {e}")
+    return None
+
+# Function to process words from the cleaned text file and scrape data
+def process_words_from_txt(input_txt, output_csv):
+    # Read the words from the cleaned txt file
+    with open(input_txt, 'r', encoding='utf-8') as file:
+        words = file.readlines()
+
+    # Prepare a list to store the data
+    dataset = []
+
+    # Scrape data for each word
+    for word in words:
+        word = word.strip()  # Remove any extra spaces or newlines
+        if word:  # Only process if the word is not empty
+            word_id = search_word(word)  # Get the word ID
+            if word_id:
+                phonetic, audio_url = extract_word_data(word_id)
+                audio_file = download_audio(audio_url, word) if audio_url else None
+                dataset.append({
+                    "word": word,
+                    "phonetic": phonetic,
+                    "audio_file": audio_file
+                })
+            else:
+                print(f"Skipping invalid word '{word}'")
+
+    # Save the dataset to a new CSV file (only valid words)
+    output_df = pd.DataFrame(dataset)
+    output_df.to_csv(output_csv, index=False)
+    print(f"Dataset saved to {output_csv}")
+
+# Example usage
+input_txt = 'cleaned_words.txt'  # The cleaned txt file with the words
+output_csv = 'scraped_words_dataset.csv'  # Output CSV file to save the scraped data
+
+# Call the function to process and scrape words
+process_words_from_txt(input_txt, output_csv)
