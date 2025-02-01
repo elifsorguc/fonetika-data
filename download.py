@@ -3,7 +3,6 @@ import pandas as pd
 from bs4 import BeautifulSoup
 import os
 import time
-from urllib.parse import urljoin
 
 # Base URL for RTÜK Telaffuz Sözlüğü
 BASE_URL = "https://sozluk.rtuk.gov.tr"
@@ -12,106 +11,156 @@ BASE_URL = "https://sozluk.rtuk.gov.tr"
 AUDIO_DIR = "audio_files"
 os.makedirs(AUDIO_DIR, exist_ok=True)
 
-# Headers to simulate a real user request (avoid blocking)
+# Headers to simulate a real browser
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    'User-Agent': ('Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
+                   'AppleWebKit/537.36 (KHTML, like Gecko) '
+                   'Chrome/91.0.4472.124 Safari/537.36')
 }
 
-# Function to search for the word and get the word ID using AJAX data
-def search_word(word):
-    search_url = f"{BASE_URL}/Home/SozlukSorgula"
-    params = {'searchtext': word}
-    response = requests.get(search_url, headers=HEADERS, params=params)
-    
-    # Add delay to avoid rate-limiting or blocking
-    time.sleep(1)  # Delay for 1 second between requests
-    
-    print(f"Searching for word: {word}")
-    try:
-        data = response.json()  # The response is in JSON format
-        if data:
-            word_id = data[0]['Id']  # Extract the first result's ID
-            return word_id
-    except ValueError:
-        print("Failed to parse JSON response for word:", word)
+# Create a session for persistent cookies and headers
+session = requests.Session()
+session.headers.update(HEADERS)
+
+def get_verification_token():
+    """
+    Get the __RequestVerificationToken from the homepage.
+    """
+    response = session.get(BASE_URL)
+    if response.status_code != 200:
+        print("Error fetching homepage.")
+        return None
+    soup = BeautifulSoup(response.text, "html.parser")
+    token_input = soup.find("input", {"name": "__RequestVerificationToken"})
+    if token_input:
+        return token_input["value"]
     return None
 
-# Function to scrape the phonetic transcription and audio URL using the word ID
-def extract_word_data(word_id):
-    # Construct the URL for the word's phonetic transcription page
-    # (This is the same URL that you get when you use "View Page Source" in the browser)
-    word_url = f"{BASE_URL}/Home/SozlukSorgula/{word_id}"
-    
-    response = requests.get(word_url, headers=HEADERS)
-    if response.status_code != 200:
-        print(f"Failed to retrieve page for word id: {word_id}")
-        return "N/A", None
+def search_word(word):
+    """
+    Use the AJAX endpoint to search for the word and return the first result's ID.
+    """
+    search_url = f"{BASE_URL}/Home/SozlukSorgula"
+    params = {'searchtext': word}
+    try:
+        response = session.get(search_url, params=params)
+        time.sleep(1)  # be polite: delay between requests
+        data = response.json()  # returns JSON data
+        if data:
+            word_id = data[0]['Id']
+            print(f"Found word '{word}' with ID: {word_id}")
+            return word_id
+    except Exception as e:
+        print(f"Error searching for word '{word}': {e}")
+    return None
 
-    soup = BeautifulSoup(response.text, "html.parser")
+def get_word_page(word, token, word_id):
+    """
+    Simulate form submission to get the full HTML page (like view source).
+    """
+    url = BASE_URL  # The search form posts to the homepage
+    form_data = {
+        '__RequestVerificationToken': token,
+        'SearchText': word,
+        'SearchId': word_id
+    }
+    try:
+        response = session.post(url, data=form_data)
+        if response.status_code == 200:
+            return response.text
+        else:
+            print(f"Error: received status {response.status_code} when fetching word page for '{word}'")
+    except Exception as e:
+        print(f"Error fetching word page for '{word}': {e}")
+    return None
+
+def parse_word_page(html):
+    """
+    Parse the HTML page to extract the phonetic text and the audio URL.
+    """
+    soup = BeautifulSoup(html, "html.parser")
     
-    # Locate the dt tag with text containing "Fonetik Yazım"
+    # Find the phonetic text by looking for the <dt> with "Fonetik Yazım"
     phonetic = "N/A"
     dt_tag = soup.find("dt", string=lambda t: t and "Fonetik Yazım" in t)
     if dt_tag:
-        # The corresponding dd tag is the next sibling
         dd_tag = dt_tag.find_next_sibling("dd")
         if dd_tag:
             phonetic = dd_tag.get_text(strip=True)
     
-    # Construct the audio URL using the same word ID
-    audio_url = f"{BASE_URL}/Home/SesKelime/{word_id}"
+    # Find the audio element and extract its src attribute (if present)
+    audio_url = None
+    audio_tag = soup.find("audio", {"id": "player"})
+    if audio_tag and audio_tag.get("src"):
+        # Sometimes the src is a relative URL so we join with BASE_URL
+        audio_url = requests.compat.urljoin(BASE_URL, audio_tag["src"])
     
     return phonetic, audio_url
 
-# Function to download the audio file
 def download_audio(audio_url, word):
+    """
+    Download the audio file given its URL and save it locally.
+    """
     try:
-        audio_response = requests.get(audio_url, headers=HEADERS)
+        audio_response = session.get(audio_url)
         if audio_response.status_code == 200:
-            audio_filename = os.path.join(AUDIO_DIR, f"{word}.mp3")  # Save as MP3
-            with open(audio_filename, "wb") as audio_file:
-                audio_file.write(audio_response.content)
-            print(f"Downloaded audio for {word}")
+            audio_filename = os.path.join(AUDIO_DIR, f"{word}.mp3")
+            with open(audio_filename, "wb") as f:
+                f.write(audio_response.content)
+            print(f"Downloaded audio for '{word}'")
             return audio_filename
         else:
-            print(f"Failed to download audio for {word} (status code: {audio_response.status_code})")
+            print(f"Failed to download audio for '{word}' (status: {audio_response.status_code})")
     except Exception as e:
-        print(f"Error downloading audio for {word}: {e}")
+        print(f"Error downloading audio for '{word}': {e}")
     return None
 
-# Function to process words from the cleaned text file and scrape data
 def process_words_from_txt(input_txt, output_csv):
-    # Read the words from the cleaned txt file
-    with open(input_txt, 'r', encoding='utf-8') as file:
-        words = file.readlines()
+    """
+    For each word in the input text file, search, simulate the form submission,
+    and then extract the phonetic text and audio.
+    """
+    token = get_verification_token()
+    if not token:
+        print("Unable to retrieve __RequestVerificationToken. Exiting.")
+        return
 
-    # Prepare a list to store the data
+    # Read words from the text file
+    with open(input_txt, "r", encoding="utf-8") as f:
+        words = [line.strip() for line in f if line.strip()]
+
     dataset = []
-
-    # Scrape data for each word
     for word in words:
-        word = word.strip()  # Remove any extra spaces or newlines
-        if word:  # Only process if the word is not empty
-            word_id = search_word(word)  # Get the word ID
-            if word_id:
-                phonetic, audio_url = extract_word_data(word_id)
-                audio_file = download_audio(audio_url, word) if audio_url else None
-                dataset.append({
-                    "word": word,
-                    "phonetic": phonetic,
-                    "audio_file": audio_file
-                })
-            else:
-                print(f"Skipping invalid word '{word}'")
+        print(f"\nProcessing word: '{word}'")
+        word_id = search_word(word)
+        if not word_id:
+            print(f"Skipping '{word}' (no ID found)")
+            continue
 
-    # Save the dataset to a new CSV file (only valid words)
-    output_df = pd.DataFrame(dataset)
-    output_df.to_csv(output_csv, index=False)
-    print(f"Dataset saved to {output_csv}")
+        # Get the full HTML page as seen when you view source
+        html = get_word_page(word, token, word_id)
+        if not html:
+            print(f"Skipping '{word}' (could not retrieve page)")
+            continue
 
-# Example usage
-input_txt = 'cleaned_words.txt'  # The cleaned txt file with the words
-output_csv = 'scraped_words_dataset.csv'  # Output CSV file to save the scraped data
+        # Parse the HTML to extract phonetic text and audio URL
+        phonetic, audio_url = parse_word_page(html)
+        audio_file = download_audio(audio_url, word) if audio_url else None
 
-# Call the function to process and scrape words
-process_words_from_txt(input_txt, output_csv)
+        dataset.append({
+            "word": word,
+            "phonetic": phonetic,
+            "audio_file": audio_file
+        })
+        time.sleep(1)  # delay to be nice to the server
+
+    # Save results to CSV
+    df = pd.DataFrame(dataset)
+    df.to_csv(output_csv, index=False)
+    print(f"\nDataset saved to '{output_csv}'")
+
+# Example usage:
+if __name__ == "__main__":
+    input_txt = "cleaned_words.txt"       # your file with one word per line
+    output_csv = "scraped_words_dataset.csv"
+    process_words_from_txt(input_txt, output_csv)

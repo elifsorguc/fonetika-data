@@ -7,10 +7,6 @@ import time
 # Base URL for RTÜK Telaffuz Sözlüğü
 BASE_URL = "https://sozluk.rtuk.gov.tr"
 
-# Directory to save audio files
-AUDIO_DIR = "audio_files"
-os.makedirs(AUDIO_DIR, exist_ok=True)
-
 # Headers to simulate a real browser
 HEADERS = {
     'User-Agent': ('Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
@@ -24,7 +20,7 @@ session.headers.update(HEADERS)
 
 def get_verification_token():
     """
-    Get the __RequestVerificationToken from the homepage.
+    Retrieve the __RequestVerificationToken from the homepage.
     """
     response = session.get(BASE_URL)
     if response.status_code != 200:
@@ -44,8 +40,8 @@ def search_word(word):
     params = {'searchtext': word}
     try:
         response = session.get(search_url, params=params)
-        time.sleep(1)  # be polite: delay between requests
-        data = response.json()  # returns JSON data
+        time.sleep(1)  # Delay to be polite to the server
+        data = response.json()  # JSON response
         if data:
             word_id = data[0]['Id']
             print(f"Found word '{word}' with ID: {word_id}")
@@ -56,9 +52,9 @@ def search_word(word):
 
 def get_word_page(word, token, word_id):
     """
-    Simulate form submission to get the full HTML page (like view source).
+    Simulate the search form submission to retrieve the full HTML page (like View Source).
     """
-    url = BASE_URL  # The search form posts to the homepage
+    url = BASE_URL  # The form posts to the homepage
     form_data = {
         '__RequestVerificationToken': token,
         'SearchText': word,
@@ -69,18 +65,18 @@ def get_word_page(word, token, word_id):
         if response.status_code == 200:
             return response.text
         else:
-            print(f"Error: received status {response.status_code} when fetching word page for '{word}'")
+            print(f"Error: Received status {response.status_code} for word '{word}'")
     except Exception as e:
         print(f"Error fetching word page for '{word}': {e}")
     return None
 
 def parse_word_page(html):
     """
-    Parse the HTML page to extract the phonetic text and the audio URL.
+    Parse the HTML page to extract the phonetic text and the original audio URL.
     """
     soup = BeautifulSoup(html, "html.parser")
     
-    # Find the phonetic text by looking for the <dt> with "Fonetik Yazım"
+    # Locate the phonetic transcription (Fonetik Yazım)
     phonetic = "N/A"
     dt_tag = soup.find("dt", string=lambda t: t and "Fonetik Yazım" in t)
     if dt_tag:
@@ -88,37 +84,18 @@ def parse_word_page(html):
         if dd_tag:
             phonetic = dd_tag.get_text(strip=True)
     
-    # Find the audio element and extract its src attribute (if present)
+    # Locate the audio element and extract its src attribute (original URL)
     audio_url = None
     audio_tag = soup.find("audio", {"id": "player"})
     if audio_tag and audio_tag.get("src"):
-        # Sometimes the src is a relative URL so we join with BASE_URL
         audio_url = requests.compat.urljoin(BASE_URL, audio_tag["src"])
     
     return phonetic, audio_url
 
-def download_audio(audio_url, word):
-    """
-    Download the audio file given its URL and save it locally.
-    """
-    try:
-        audio_response = session.get(audio_url)
-        if audio_response.status_code == 200:
-            audio_filename = os.path.join(AUDIO_DIR, f"{word}.mp3")
-            with open(audio_filename, "wb") as f:
-                f.write(audio_response.content)
-            print(f"Downloaded audio for '{word}'")
-            return audio_filename
-        else:
-            print(f"Failed to download audio for '{word}' (status: {audio_response.status_code})")
-    except Exception as e:
-        print(f"Error downloading audio for '{word}': {e}")
-    return None
-
 def process_words_from_txt(input_txt, output_csv):
     """
-    For each word in the input text file, search, simulate the form submission,
-    and then extract the phonetic text and audio.
+    For each word in the input text file, search and simulate form submission,
+    then extract the phonetic text and the original audio URL.
     """
     token = get_verification_token()
     if not token:
@@ -137,30 +114,31 @@ def process_words_from_txt(input_txt, output_csv):
             print(f"Skipping '{word}' (no ID found)")
             continue
 
-        # Get the full HTML page as seen when you view source
+        # Retrieve the full HTML page as seen via "View Page Source"
         html = get_word_page(word, token, word_id)
         if not html:
             print(f"Skipping '{word}' (could not retrieve page)")
             continue
 
-        # Parse the HTML to extract phonetic text and audio URL
+        # Parse the HTML to extract phonetic text and the original audio URL
         phonetic, audio_url = parse_word_page(html)
-        audio_file = download_audio(audio_url, word) if audio_url else None
+        print(f"Word: '{word}', Phonetic: '{phonetic}', Audio URL: '{audio_url}'")
 
+        # Save the original audio URL (not a local file path) in the CSV
         dataset.append({
             "word": word,
             "phonetic": phonetic,
-            "audio_file": audio_file
+            "audio_file": audio_url
         })
-        time.sleep(1)  # delay to be nice to the server
+        time.sleep(1)  # Delay between requests
 
-    # Save results to CSV
+    # Save the collected data to CSV
     df = pd.DataFrame(dataset)
     df.to_csv(output_csv, index=False)
     print(f"\nDataset saved to '{output_csv}'")
 
 # Example usage:
 if __name__ == "__main__":
-    input_txt = "cleaned_words.txt"       # your file with one word per line
+    input_txt = "cleaned_words.txt"       # Text file with one word per line
     output_csv = "scraped_words_dataset.csv"
     process_words_from_txt(input_txt, output_csv)

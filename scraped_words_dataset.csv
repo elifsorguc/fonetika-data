@@ -1,6 +1,6 @@
 word,phonetic,audio_file
-a,A,audio_files/a.mp3
-ab,A:b,audio_files/ab.mp3
-aba,a:ba,audio_files/aba.mp3
-abad,A:ba:d,audio_files/abad.mp3
-abajur,abajur,audio_files/abajur.mp3
+a,A,https://sozluk.rtuk.gov.tr/Home/SesKelime/1
+ab,A:b,https://sozluk.rtuk.gov.tr/Home/SesKelime/3
+aba,a:ba,https://sozluk.rtuk.gov.tr/Home/SesKelime/12117
+abad,A:ba:d,https://sozluk.rtuk.gov.tr/Home/SesKelime/5
+abajur,abajur,https://sozluk.rtuk.gov.tr/Home/SesKelime/9
