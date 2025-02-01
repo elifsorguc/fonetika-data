@@ -25,7 +25,7 @@ def clean_txt_to_txt(input_txt, output_txt):
     print(f"Cleaned TXT saved to {output_txt}")
 
 # Example usage
-input_txt = 'deneme.txt'  # The name of your input text file with the words
+input_txt = 'words.txt'  # The name of your input text file with the words
 output_txt = 'cleaned_words.txt'  # The output TXT file to save
 
 # Call the function to clean and convert the file
