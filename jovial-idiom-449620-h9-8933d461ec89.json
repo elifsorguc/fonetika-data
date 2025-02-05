@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "jovial-idiom-449620-h9",
+  "private_key_id": "8933d461ec891791dd50a9cbb14797e600d2dc9e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCeod2UXnqulb6m\njTvPuJ7fVmaO+8KuYFVO+EY2NU2FU8iDNgTx42RdFrS5iFvA3sU10QzKvjnZZcsL\nJ1RrcB1gVq77IUJ/epntcSOD1CZY9HNAXVDHq5JslXjoJeSRpKfvFVdIp7e5+haE\nouHZk6zKrHDYCgbNQAJR2XpDEKca0MaAhd+IrwOwxQzlG8SjDfy7BPi9FhIfz43d\ncpEkpDkZfAY2/RX0UU22/LLy45yoZGqchhh9/GgTDx5LaOi+J9Rs3so8nvlfH+Fp\np3KlnhwNWp/4ecOsC96cAUnQg2JCsSduoGmU3CI3jAPDZh0F82+6stigX8EzBHnx\ncGhE1TcpAgMBAAECggEAD5pAHw3D51QXMm6FyYKRLcpjwACHP3t+KIxG66IGg+yf\ntjgj+F6zSmynTfBZhfjjUM3FAlP/gKCAfhJaPU8DtKwR/eVhkwROC4qrQZYmR22T\nwGrtPRZlCoURJVREzQZy9hMVSLImYgZ1HIqgyDO8NRsM5lLmJF39XGuVmO8UYJCs\nsSP8ko6KZ2vDJGIn2Zm3zH5D5OIPhvw9Z6bYKnLmFt0D4Y3PsrJ8zW8tV8TY4523\ngc2EP7FeDwT7PXqtb1JWnRsHqJ5dg4e3Ip93iwxbbZnRrU1vlw+cNQCyHHvOZ6Xb\nYqeLt66R8thKHlqJEjvH2ArIbH9iVZKt8cxKLdN2AQKBgQDKE0yFH1Y0OCpftzDf\nllz61m63nDg1nYK03C8382JwDSn1hilNnCaNPJoE0eYPubOOmTbbc3P5qxRX2Akt\nNdZf+tDCkGxiD4EHe/atr7R8WhUhlNZoyksPhJQ4A00x1VfoNR59+FRL9gPK1X8h\ntNwbrLwyz6yD3B6NCi/bqHTkiQKBgQDI9sSu5wn6hfESrxjf+c3xhaqm/YXCGNPc\nlWNx7EUt7rqkzawZBjBU7yWl1KbJrWBGEeJCeUW4f4dauf1c7rYYF3C64PAGMr0q\nscbsapkQVRkzcWohb1PcfZ2OdV3J/DsuhjLz+2/dMIZbdJaK+TVty+7YXFgZ9Jql\nUZkxa/BVoQKBgC648ZtiGHtwdRO2dp1r1cnFpMndW/3BkoQg2OYV5y/DS21SfOBN\n93f2iCIPKiN+q26QLGfnNOyISubYs555cTy18GjcHcM6lHnXhry4AII0Dei60ixe\ngaZv4BlnYgTgsDeneIplzY/WrR/L514yxCW99bHF5LyEO6ger9wZAhYJAoGAbedO\nnxxpP6H6ui4aG3thHoHsVxD1ErZDPzJPxWDiYIFbf3+fa7wPuJNk8nD+mfMAYLGt\nHI94CrNr0bk/j5BY84n2M62KdslO3MeGs4qElQMFGjYfRZO9uCrWfK9BEJKpxwLL\nYNUUU1ITWHbFUdGCX76Uq6ys3d0AqgKbFgUi1aECgYB8iUAU5C9j6zRJYo1PSD1l\n+pvVoS8rxJCoD6S+PkBXLpzhYUPTUBoD0M9e5S5xY9H6vTgG5wWVkS2WybpMGmSi\nvLm1krjuzdvX75ZYumDzKcL6kcDeEDqAF9wd2J3hhRT6pXGzs1eU+BbpG6UyxwEq\nZyaca87l2W6OSGreShpOvw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "fonetika-access@jovial-idiom-449620-h9.iam.gserviceaccount.com",
+  "client_id": "102396856596016887808",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fonetika-access%40jovial-idiom-449620-h9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
