@@ -1,0 +1,3 @@
+mfa validate processed_audio turkish_dict.txt lab_files   
+
+mfa validate --clean corpus turkish_dict.txt turkish_mfa

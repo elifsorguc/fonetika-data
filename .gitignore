@@ -4,7 +4,9 @@
 # .python-version
 hf_audio_env
 mfa_align_habibe/venv
+
 # Byte-compiled / optimized / DLL files
+mfa_align_elif/.DS_Store
 __pycache__/
 *.py[cod]
 *$py.class
