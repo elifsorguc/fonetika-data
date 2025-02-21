@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "jovial-idiom-449620-h9",
+  "private_key_id": "46d4b239dcb5637cd58a921261cf3d343130aac6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDW7EhwwRjFO8lN\n4Hp3AKRz+aSuqTdfxm0v+oV0GbKiRMRmjk8epWYZX3yk12aHju2thacGc49DQhxr\nO7Fttczvi2h2oPF/S8eWgQfLba5VViuPMc2U+Wzn3YoHMoL7jrTwsDq/DlO9ZGJd\nzMgRHvhGNEclVZXETvmwtF2lHR/e6rophaJbvaPU/2UDtVpj6xOBmpfLm/0k99u4\n0CcW+uVPQHdTx2oT4gZl3XFKSLOBcQmTThr6DovrVluhNLXh08PNjJiVpq9Zjlxb\n2KbZn3zWljCzB7xAxBxWI+hIbOfGGD9AUGkt4fuVBrsWB3aFOobCDuXHsui5nt8o\nfFmRHpy7AgMBAAECggEAVYskZiSlXFOokyOm+ti5nCOgJZjanndXHEKlfYmA7U9b\nsMoxuavxkGXOMbo+Z/Q+q9NHoKy8N/QHZbMTsuwqjqm5QYZbuOQLo97loFWejv7G\nRa93+TSx4TPvbV/wfHnXkPlD2Km2MOrUsCsC8rWV8jN6oeSHwOQCRA/2OfL2rX2a\n98Wi1Z1gMTx75hEXwquFT04ZoIOPsBwp7Do7FLwruLSk1e8fB5JFHOlxvrPYQXrT\nOYriXdzmGc1eU53nE78p44VyPMnmZf98rRw1QWtSQIEoXW2H7PziNabffqd7cxfj\nDCGsK02wjmSVEPJXoTjZ4zyqy/vqhujx6mWvVnBl6QKBgQD2nAIABiMawnRJ0H4g\n0QdcfwOn76JR3r9SuLxZIRZsG3bNkGXScn6Lz4m2lMUKjXnq0EVd+10RykQqVmkL\nVMzqRnzOK5qEaJ6mUD6cr/BJ7SF8YL9kztjkkqGrZmbbfEh8p+XSnZoWeeVt0z6K\nZAzdJM3XP/yUnkKvZyEAYlAIZwKBgQDfG2Poum5sT6soXXml8Wz5gw/CNUCDy6eF\nq2PnaKLXn+pjQ1joPwdvkHFmj9ALFKe6LIE/AR1fkMAlSipL5crrNLBcbPiEpIt2\nrgkXlRL2TUzZySlTXff75wZpiqOuOYHQv0Ddlpe5VZxbHPecsGFrvtogYCKIkJWj\nyyK0RBikjQKBgQDZabzRrJdyVhETqn4oDGDDCS999ORT7V8bXMaghW0xLh1VKYK7\nQDmUpQmyMAJvRT9A5xDgxGTO9FWYRcoiNUbbG/2X/hUhuuJzmbc5iFr9sdOdxeW2\nyC2rhiKF66euxSlazOLvBgb83caJRn2SoJY+uN3IcR8LH2OHJBKSNhp87QKBgGzv\nE74rYQUTdS+VTHNAyQOfAY/CrohrZJU4lOQFTBVaKHhlBsEHHVtUvHnmWB9A65BU\ncJrRsYTayWarqrE6NvTW2hGWx1UEfm/pE9lm2UZXgeGIfdwNsqpVJ+VaYwcLXx4M\nc+B9ygEdEuXN4/ymhjq0ig5qwhHJ/rZl1cEMyrd1AoGAbZYYBgOzciWYCmaigP3x\nOgP/QoqldvJX1Mv/ZPnivFffyC/wzZ3QpzryzLcDyYlVVwD8hgoC4jkCFtd4YSt2\n3fAizgpE4x19x9G1OLLoAkIxtpbGhueMfFP8NIEju31ZItg0iuLeCh9bh2DN0EzP\nMfBuc8wOxWqtR3Ww7J2aSyw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "colab-access@jovial-idiom-449620-h9.iam.gserviceaccount.com",
+  "client_id": "115329228993715262761",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/colab-access%40jovial-idiom-449620-h9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
