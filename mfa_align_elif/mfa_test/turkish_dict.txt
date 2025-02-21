@@ -14,7 +14,7 @@ abdesthane a b d e s t h aː n e
 abdestlik a b d e s t l i k
 Abdülkadir a b d y l k aː d i ɾ
 abes a b e s
-abıhayat aː b ɯ h a j a t   ( aː b ɯ h a j aː t - ɯ )
+abıhayat aː b ɯ h a j a t
 abıkevser aː b ɯ k e v s ɛ ɾ
 abid aː b i d
 Abidin aː b i d iː n
@@ -58,7 +58,7 @@ adabımuaşeret aː d aː b ɯ m u ‿ aː ʃ e ɾ e t
 adale a d a l e
 adalet a d aː l e t
 adamcağız a d a m d͡ʒ aː z
-adap aː d aː p   ( aː d aː b ɯ )
+adap aː d aː p
 adaptasyon a d a p t a s j o n
 adaptör a d a p t œ ɾ
 addetme aː d d e t m e
@@ -115,7 +115,7 @@ ağustos a ‿ u s t o s
 ağyar aː j aː ɾ
 ah aː h
 ahali a h aː l iː
-ahbap a h b a p   ( a h b aː b ɯ )
+ahbap a h b a p
 ahdetmek a h d e t m e k
 ahenk aː h e n k
 ahenktar aː h e n k t a ɾ
@@ -127,15 +127,15 @@ ahir aː h i ɾ
 ahiret aː h i ɾ e t
 ahize aː h i z e
 ahkâm a h k ɑː m
-ahlak a h l ɑ k   ( a h l ɑː k - ɯ )
+ahlak a h l ɑ k
 ahlaken a h l ɑː k ɛ n
 ahlaki a h l ɑː k iː
 Ahmet a h m e t   j e s e v iː
 ahraz a h ɾ a z
 ahu aː h uː
 ahududu aː h u d u d u
-ahval a h v ɑ l   ( a h v ɑː l - i )
-aidat aː ‿ i d a t   ( aː ‿ i d aː t - ɯ )
+ahval a h v ɑ l
+aidat aː ‿ i d a t
 aidiyet aː ‿ i d i j e t
 aile aː ‿ i l e
 ailevi aː ‿ i l e v iː
@@ -165,8 +165,8 @@ akort a k o ɾ t
 akran a k ɾ a n
 akreditasyon a k ɾ e d i t a s j o n
 akrobasi a k ɾ o b a s i
-aksam a k s aː m   ( a k s aː m ɯ )
-aksan a k s a n   ( a k s aː n ɯ )
+aksam a k s aː m
+aksan a k s a n
 aksesuar a k s e s u ‿ a ɾ
 aksi a k s i
 aksiseda a k s i s e d aː
@@ -229,7 +229,7 @@ alimallah a l i m a l l a h
 Aliye a l i j e
 aliyyülâlâ a l i j j y l aː l ɑː
 alkol aː l k oː l
-Allah a l l a h   ( a l l aː h - ɯ )
+Allah a l l a h
 Allahuekber a l l aː h u e k b ɛ ɾ
 Allahutaala a l l aː h u t a aː l ɑː
 allame a l l ɑː m e
@@ -256,7 +256,7 @@ amcazade a m d͡ʒ a z aː d e
 amel a m ɛ l
 amele a m e l e
 ameli a m e l iː
-ameliyat a m e l i j a t   ( a m e l i j aː t - ɯ )
+ameliyat a m e l i j a t
 ameliyathane a m e l i j a t h aː n e
 amenna aː m e n n aː
 amentü aː m ɛ n t y
@@ -506,9 +506,9 @@ avret a v ɾ e t
 avurt a v u ɾ t
 aya a j a
 ayakkabı a j a k k a b ɯ
-ayal a j ɑ l   ( a j ɑː l i )
+ayal a j ɑ l
 ayan a j a n
-ayar a j a ɾ   ( a j aː ɾ ɯ )
+ayar a j a ɾ
 aydın a j d ɯ n
 ayet aː j e t
 ayin aː j i n
@@ -1128,7 +1128,7 @@ celep d͡ʒ e l e p
 celi d͡ʒ e l iː
 celil d͡ʒ e l iː l
 cellat d͡ʒ e l l ɑ t
-celp d͡ʒ ɛ l p   ( d͡ʒ ɛ l b - i )
+celp d͡ʒ ɛ l p
 celpname d͡ʒ ɛ l p n aː m e
 celse d͡ʒ ɛ l s e
 Celvetiye d͡ʒ ɛ l v e t iː j e
@@ -1882,7 +1882,7 @@ edebî e d e b iː
 edebiyat e d e b i j a t
 Edebiyat-ı e d e b i j aː t ɯ   d͡ʒ e d iː d e
 edep e d e p
-edevat e d e v a t   ( e d e v aː t - ɯ )
+edevat e d e v a t
 edibane e d iː b aː n e
 edibe e d iː b e
 edim e d i m
@@ -2027,7 +2027,7 @@ emir ɛ m i ɾ
 emirname e m i ɾ n aː m e
 emir-ül e m iː ɾ y l   m y ’ m i n iː n
 emmi e m m i
-emlak e m l ɑ k   ( e m l ɑː k - i )
+emlak e m l ɑ k
 emniyet e m n i j e t
 emperyalizm e m p ɛ ɾ j a l i z m
 empoze e m p o z e   e t m e k
@@ -2370,7 +2370,7 @@ fazıl f aː z ɯ l
 fazilet f a z iː l e t
 faziletkâr f a z iː l e t k ɑː ɾ
 fazla f a z l a
-fecaat f e d͡ʒ aː ɑ t   ( - ɑ t i )
+fecaat f e d͡ʒ aː ɑ t
 feci f e d͡ʒ iː
 fecir f e d͡ʒ i ɾ
 fecrikâzip f e d͡ʒ ɾ i k ɑː z i p
@@ -2834,7 +2834,7 @@ gurbetzede ɡ u ɾ b e t z e d e
 gureba ɡ u ɾ e b aː
 gurme ɡ u ɾ m e
 guru ɡ u ɾ u
-gurup ɡ u ɾ uː p   ( ɡ u ɾ uː b )
+gurup ɡ u ɾ uː p
 gurur ɡ u ɾ u ɾ
 gururu ɡ u ɾ uː ɾ u   i n d͡ʒ i n m e k
 gusletmek ɡ u s l ‿ e t m e k
@@ -2966,7 +2966,7 @@ hafi h a f iː
 hafif h a f i f
 hafifmeşrep h a f i f m e ʃ ɾ e p
 hafiye h a f i j e
-hafriyat h a f ɾ i j a t   ( h a f ɾ i j aː t - ɯ )
+hafriyat h a f ɾ i j a t
 Hafsa h a f s a
 hafta h a f t a
 haftalıkçı h a f t a l ɯ k t͡ʃ ɯ
@@ -3846,7 +3846,7 @@ ideoloji i d e ‿ o l oː ʒ i
 İdil i d i l
 idman i d m a n
 idol i d oː l
-idrak i d ɾ ɑ k   ( i d ɾ ɑː k - i )
+idrak i d ɾ ɑ k
 idrar i d ɾ aː ɾ
 İdris i d ɾ i s
 ifa iː f aː
@@ -3899,7 +3899,7 @@ ihlal i h l ɑː l
 ihmal i h m ɑː l
 ihmalkâr i h m ɑ l k ɑː ɾ
 ihmirar i h m i ɾ aː ɾ
-ihracat i h ɾ aː d͡ʒ a t   ( i h ɾ aː d͡ʒ aː t - ɯ )
+ihracat i h ɾ aː d͡ʒ a t
 ihraç i h ɾ aː t͡ʃ
 ihram i h ɾ a m
 ihrama i h ɾ aː m a   ɡ i ɾ m e k
@@ -4120,7 +4120,7 @@ inidam i n ’ i d aː m
 inikâs i n ’ i k ɑː s
 inisiyatif i n i s i j a t i f
 inkâr i n k ɑː ɾ
-inkılâp i n k ɯ l ɑ p   ( i n k ɯ l ɑː b ɯ )
+inkılâp i n k ɯ l ɑ p
 inkıraz i n k ɯ ɾ aː z
 inkısam i n k ɯ s aː m
 inkıta i n k ɯ t aː
@@ -4359,7 +4359,7 @@ iştigal i ʃ t i ɡ ɑː l
 iştiha i ʃ t i h aː
 iştihar i ʃ t i h aː ɾ
 iştikak i ʃ t i k aː k
-iştirak i ʃ t i ɾ a k   ( i ʃ t i ɾ aː k - i )
+iştirak i ʃ t i ɾ a k
 iştiyak i ʃ t i j aː k
 işve i ʃ v e
 ita iː t aː
@@ -4991,7 +4991,7 @@ kıta-i K ɯ t a j i   a ɾ z
 kıtal K ɯ t ɑː l
 Kıtmir K ɯ t m i ɾ
 kıtipiyoz K ɯ t i p i j o z
-kıvam k ɯ v a m   ( k ɯ v aː m ɯ )
+kıvam k ɯ v a m
 kıvanç K ɯ v a n t͡ʃ
 kıyafet K ɯ j aː f e t
 kıyafetname K ɯ j aː f e t n aː m e
@@ -5461,7 +5461,7 @@ leğen L e j ɛ n
 Leh L e h
 lehçe l e h t͡ʃ e
 lehim L e h i m
-lehinde L e h i n d ɛ   ( L ɛ h i n d ɛ   o l m a k   o l a d͡ʒ a k )
+lehinde L e h i n d ɛ 
 lehtar l e h t aː ɾ
 lejyoner L e ʒ j o n ɛ ɾ
 lem’a L ɛ m ’ a
@@ -6579,7 +6579,7 @@ muhal m u h ɑː l
 muhalefet m u h aː l e f e t
 muhalif m u h aː l i f
 muhallebi m u h ɑ l l e b i
-Muhammed m u h a m m e d   ( m u h a m m e t )
+Muhammed m u h a m m e d
 Muhammedî m u h a m m e d iː
 Muhammediye m u h a m m e d iː j e
 muhammen m u h a m m ɛ n
@@ -7377,7 +7377,7 @@ nasir n aː s i ɾ
 Nasr n a s ɾ
 Nasrani n a s ɾ aː n iː
 Nasraniyet n a s ɾ aː n i j e t
-Nasrettin n a s ɾ e t t i n   ( n a s ɾ e d d i n )
+Nasrettin n a s ɾ e t t i n
 Nasturi n a s t uː ɾ iː
 Nasuh n a s uː h
 Nasuhi n a s uː h iː
@@ -7425,7 +7425,7 @@ nazil n aː z i l
 nazire n a z iː ɾ e
 nazmen n a z m ɛ n
 ne n ɛ b aː h ɑ t
-nebat n e b a t   ( n e b aː t - ɯ )
+nebat n e b a t
 nebatat n e b aː t aː t
 nebati n e b aː t i
 nebbaş n e b b a ʃ
@@ -7614,7 +7614,7 @@ niza n i z aː
 nizam n i z a m
 nizamat n i z aː m aː t
 nizam-ı n i z aː m ɯ   aː l e m
-Nizamettin n i z aː m e t t i n   ( n i z aː m ɛ d d i n )
+Nizamettin n i z aː m e t t i n
 Nizami n i z aː m iː
 nizamiye n i z aː m i j e
 nizamname n i z a m n aː m e
@@ -7658,7 +7658,7 @@ nutku n u t k u   t u t u l m a k
 nutuk n u t u k
 nüans n y a n s
 nübüvvet n y b y v v e t
-nüfus n y f u s   ( n y f uː s - u )
+nüfus n y f u s
 nüfuz n y f uː z
 nühüft n y h y f t
 nüket n y k e t
@@ -8609,7 +8609,7 @@ saray s a ɾ a j
 sardalya s a ɾ d ɑ l j a
 sardunya s a ɾ d u n j a
 sarfınazar s a ɾ f ɯ n a z a ɾ
-sarfiyat s a ɾ f i j a t   ( s a ɾ f i j aː t - ɯ )
+sarfiyat s a ɾ f i j a t
 sarhoş s a ɾ h o ʃ
 sarımsak s a ɾ ɯ m s a k
 sari s a ɾ i
@@ -9527,7 +9527,7 @@ Tahir t aː h i ɾ
 tahirbuselik t aː h i ɾ b uː s e l i k
 Tahire t aː h i ɾ e
 tahkik t a h k iː k
-tahkikat t a h k iː k a t   ( t a h k iː k aː t - ɯ )
+tahkikat t a h k iː k a t
 tahkiki t a h k iː k iː
 tahkim t a h k i m
 tahkimat t a h k iː m a t
@@ -9866,8 +9866,8 @@ teferrüç t e f e ɾ ɾ y t͡ʃ
 tefessüh t e f e s s y h
 tefrik t e f ɾ i k
 tefrika t e f ɾ i k a
-tefriş t ɛ f ɾ i ʃ   ( t e f ɾ iː ʃ - i )
-tefrişat t e f ɾ iː ʃ a t   ( t e f ɾ iː ʃ aː t - ɯ )
+tefriş t ɛ f ɾ i ʃ
+tefrişat t e f ɾ iː ʃ a t
 tefrit t e f ɾ i t
 tefsih t e f s iː h
 tefsir t e f s i ɾ
@@ -10011,7 +10011,7 @@ temettü t e m e t t yː
 temevvüç t e m ɛ v v y t͡ʃ
 temeyyüz t e m e j j y z
 temin t eː m i n
-teminat t eː m iː n a t   ( t ɛː m iː n aː t - ɯ )
+teminat t eː m iː n a t
 teminen t eː m iː n ɛ n
 temkin t e m k i n
 temlik t e m l i k
@@ -10266,7 +10266,7 @@ tezviç t e z v iː t͡ʃ
 tezvir t e z v iː ɾ
 tezvirat t e z v iː ɾ aː t
 tezviren t e z v iː ɾ ɛ n
-tezyif t e z j iː f   ( ɛ t m ɛ k )
+tezyif t e z j iː f
 tezyin t e z j i n
 tezyinat t e z j iː n aː t
 tezyinî t e z j iː n iː
@@ -10515,7 +10515,7 @@ Uranüs u ɾ a n y s
 usare u s aː ɾ e
 uskumru u s k u m ɾ u
 uskur u s k u ɾ
-uslamlamak u s l a m l a m a k   ( u s l u m l a m a k   o l a d͡ʒ a k )
+uslamlamak u s l a m l a m a k
 ustura u s t u ɾ a
 usturlap u s t u ɾ l ɑ p
 usturmaça u s t u ɾ m a t͡ʃ a
@@ -10571,7 +10571,7 @@ uzviyet u z v i j e t
 üroloji y ɾ o l oː ʒ i
 üryan y ɾ j a n
 üslup y s l uː p
-üs y s   ( y s s - y )
+üs y s
 üstad-ı y s t aː d ɯ   aː z aː m
 üstadane y s t aː d aː n e
 üstat y s t a t
@@ -10892,7 +10892,7 @@ yaraşmak j a ɾ a ʃ m a k
 yare j aː ɾ e
 yâren j ɑː ɾ ɛ n
 yârenlik j ɑ ɾ ɛ n l i k
-yarlıgamak j a ɾ l ɯ ɡ a m a k   ( j a ɾ ɡ ɯ l a m a k   o l a d͡ʒ a k )
+yarlıgamak j a ɾ l ɯ ɡ a m a k
 yarpuz j a ɾ p u z
 yasemen j aː s e m ɛ n
 Yasemin j aː s e m i n
@@ -11368,7 +11368,7 @@ kalan k a l a n
 kalın k a l ɯ n
 kan k a n
 karakter k a ɾ a k t ɛ ɾ
-karar k aː ɾ a ɾ   ( k a ɾ aː ɾ ɯ )
+karar k aː ɾ a ɾ
 karış k a ɾ ɯ ʃ ɯ k
 karşı k a ɾ ʃ ɯ
 karşılık k a ɾ ʃ ɯ l ɯ k
