@@ -578,7 +578,6 @@ bağımsızlık b aː m s ɯ z l ɯ k
 bağıntı b a ‿ ɯ n t ɯ
 bağırmak b aː ɾ m a k
 bağırsak b aː ɾ s a k
-bağış b aː ʃ
 bağışlamak b aː ʃ l a m a k
 bağlaç b aː l a t͡ʃ
 bağlama b aː l a m a
@@ -2294,7 +2293,6 @@ fak f a k
 faka f a k a   b a s m a k
 fakat f a k ɑ t
 fakih f a k iː h
-fakir f a k i ɾ
 fakirane f a k iː ɾ aː n e
 faktör f a k t œ ɾ
 fakülte f a k y l t e
@@ -5977,7 +5975,6 @@ meclup m e d͡ʒ l uːː p
 mecmu m e d͡ʒ m uː
 mecmua m e d͡ʒ m u ‿ a
 mecmuan m e d͡ʒ m uː   ‿ a n
-mecnun m e d͡ʒ n uː n
 mecnunane m e d͡ʒ n uː n aː n e
 mecra m e d͡ʒ ɾ aː
 mecruf m e d͡ʒ ɾ uː f
@@ -6082,7 +6079,6 @@ melekzat m e l e k z aː t
 melhuz m ɛ l h uː z
 melih m e l iː h
 Meliha m e l iː h a
-melik m e l i k
 Melike m e l iː k e
 Melikşah m e l i k ʃ aː h
 mellah m e l l ɑː h
@@ -6223,7 +6219,6 @@ mesh m e s h
 meshur m ɛ s h uː ɾ
 Mesih m e s i h
 mesire m e s iː ɾ e
-mesken m e s k ɛ n
 meskenet m e s k e n e t
 meskûkât m e s k uːː k ɑː t
 meskûn m e s k uː n
@@ -6324,7 +6319,6 @@ mevt m e v t
 mevta m e v t aː
 mevut m e v ’ uː d
 mevvac m e v v aː d͡ʒ
-mevzi m e v z iː
 mevzii m e v z i iː
 mevzu m e v z uː
 mevzuat m e v z u aː t
@@ -6743,7 +6737,6 @@ muştu m u ʃ t u
 muştuluk m u ʃ t u l u k
 mutaassıp m u t a a s s ɯ p
 muta m u t a   n i k ɑ h ɯ
-mutabakat m u t aː b a k a t
 mutabık m u t aː b ɯ k
 mutahhar m u t a h h a ɾ
 mutallaka m u t a l l ɑ k a
@@ -6941,7 +6934,6 @@ mülkiye m y l k i j e
 mülkiyet m y l k i j e t
 mülteci m y l t e d͡ʒ iː
 mültefit m y l t e f i t
-mültefitane m y l t e f i t aː n e
 mültezim m y l t e z i m
 mümarese m y m aː ɾ e s e
 mümasil m y m aː s i l
@@ -7602,7 +7594,6 @@ Nişabur n i ʃ aː b u ɾ
 nişaburek n i ʃ aː b u ɾ e k
 nişadır n i ʃ a d ɯ ɾ
 nişan n i ʃ a n
-nişane n i ʃ aː n e
 nişangâh n i ʃ a n ɡ ɑː h
 nişasta n i ʃ a s t a
 nitekim n i t e k i m
@@ -8314,7 +8305,6 @@ reverans ɾ e v e ɾ a n s
 revize ɾ e v i z e   e t m ɛ k
 revizyonist ɾ e v i z j o n i s t
 revnak ɾ e v n a k
-rey ɾ e j
 reyb ɾ e j b
 reybî ɾ e j b iː
 Reyhan ɾ e j h a n
@@ -8396,7 +8386,6 @@ Ruhi ɾ uː h iː
 ruhiyat ɾ uː h i j a t
 ruhsal ɾ u h s a l
 Ruhsar ɾ u h s aː ɾ
-ruhsat ɾ u h s a t
 ruhsatname ɾ u h s a t n aː m e
 Ruhullah ɾ uː h u l l a h
 ruhumücerret ɾ uː h u m y d͡ʒ e ɾ ɾ e t
@@ -8411,7 +8400,6 @@ rutubet ɾ u t uː b e t
 ru-yi ɾ uː j i   z e m iː n
 ruz ɾ uː z
 ruz-i ɾ uː z i   m a h ʃ ɛ ɾ
-ruzname ɾ uː z n aː m e
 ruzuşeb ɾ uː z u ʃ e b
 Rübab-ı ɾ y b aː b ɯ   ʃ i k e s t e
 rüçhan ɾ y t͡ʃ h aː n
@@ -9303,7 +9291,6 @@ süveyda s y v e j d aː
 şekva ʃ e k v aː
 şelale ʃ e l ɑː l e
 şem ʃ ɛ m
-şemail ʃ e m aː i l
 şematik ʃ e m a t i k
 şempanze ʃ e m p a n z e
 Şems ʃ e m s
@@ -10681,7 +10668,6 @@ varyasyon v a ɾ j a s j o n
 varyemez v a ɾ j e m ɛ z
 varyete v a ɾ j e t e
 varyeteci v a ɾ j e t e d͡ʒ i
-vasat v a s a t
 vasati v a s a t iː
 vasf-ı v a s f ɯ   m y m e j j i z
 Vasfi v a s f iː
@@ -10710,7 +10696,6 @@ vazııkanun v aː z ɯ ɯ k aː n u n
 vazife v a z iː f e
 vazifeşinas v a z iː f e ʃ i n aː s
 vazifeten v a z iː f e t ɛ n
-vaziyet v a z i j ɛ t
 vazo v a z o
 ve v e b aː
 vebal v e b ɑ l
@@ -10790,7 +10775,6 @@ vezaret v e z aː ɾ ê t
 vezin v e z i n
 vezir v e z i ɾ
 veziriazam v e z iː ɾ i   aː z a m
-vezne v e z n e
 veznedar v e z n e d aː ɾ
 vibratör v i b ɾ a t œ ɾ
 vicahen v i d͡ʒ aː h ɛ n
@@ -10834,7 +10818,6 @@ vukuat v u k u aː t
 vukuf v u k u f
 vukufiyet v u k uː f i j e t
 vulgarize v uː l ɡ a ɾ i z e
-vuslat v u s l a t
 vusul v u s uːː l
 vuzuh v u z u h
 vücuda v y d͡ʒ uː d a   ɡ ɛ l m e k
@@ -10846,7 +10829,6 @@ vüsat v y s ’ a t
 vüzera v y z e ɾ aː
 Ya j aː
 yaba j a b a
-yaban j a b a n
 yabancı j a b a n d͡ʒ ɯ
 yabani j a b aː n iː
 yâd j aː d
@@ -10860,7 +10842,6 @@ yağma j aː m a
 yağmur j aː m u ɾ
 yahni j a h n i
 yahşi j a h ʃ iː
-yahut j aː h u t
 Yahudi j a h u d i
 yakaza j a k a z a
 yakamoz j a k a m o z
@@ -11069,7 +11050,6 @@ zaruri z a ɾ uː ɾ iː
 zaruriyat z a ɾ uː ɾ i j aː t
 zat z aː t
 zaten z aː t ɛ n
-zatıalileri z aː t ɯ aː l iː l e ɾ i
 Zati z aː t i
 zatülcenp z aː t y l d͡ʒ ɛ n p
 zaviye z aː v i j e
@@ -11359,7 +11339,6 @@ iptal i p t aː l
 irca i ɾ d͡ʒ aː
 irtihal i ɾ t i h aː ͜ l
 isnat i s n aː t
-ispat i s p aː t
 istifade i s t i f aː d ɛ
 iyi i j i
 iyilik i j i l i k
@@ -11414,7 +11393,6 @@ sert s ɛ ɾ t
 son s o n
 sözlü s œ z l y
 su s u
-şirden ʃ i ɾ d ɛ n
 tek t e k
 tür t y ɾ
 türlü t y ɾ l y
