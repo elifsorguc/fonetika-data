@@ -1,0 +1,47 @@
+4583, corpus: 0.0-1.47: i, s, l, a, m
+39, corpus: 0.0-1.521: s, a, b, u, k
+4535, corpus: 0.0-1.346: i, r, e, m
+4305, corpus: 0.0-1.353: i, l, a, h
+1326, corpus: 0.0-1.459: c, i, d, d, i
+4586, corpus: 0.0-1.867: i, s, m, a, i, l, i, y, e
+4371, corpus: 0.0-1.533: i, l, y, a, s
+64, corpus: 0.0-1.577: ö, ğ, r, e, t, i, m
+4561, corpus: 0.0-1.57: i, s, a
+4409, corpus: 0.0-1.427: i, m, r, a, n
+4566, corpus: 0.0-1.952: i, s, f, e, n, d, i, y, a, r
+4579, corpus: 0.0-2.026: i, s, k, e, n, d, e, r, n, a, m, e
+1307, corpus: 0.0-1.566: c, e, z, e, r, i
+4453, corpus: 0.0-1.771: i, n, h, i, s, a, r
+4330, corpus: 0.0-1.655: i, l, h, a, n, l, ı, l, a, r
+4610, corpus: 0.0-1.613: i, s, r, a, i, l
+4217, corpus: 0.0-1.606: i, h, l, a, s
+4531, corpus: 0.0-1.429: i, r, a, n
+4622, corpus: 0.0-1.599: i, s, t, e, m, i
+63, corpus: 0.0-1.527: o, t, u, r, u, m
+4585, corpus: 0.0-1.678: i, s, l, a, m, i, y, e, t
+4124, corpus: 0.0-1.488: i, c, l, a, l
+4433, corpus: 0.0-1.444: i, n, c, i, l
+4567, corpus: 0.0-1.475: i, s, h, a, k
+4588, corpus: 0.0-1.478: i, s, m, e, t
+4096, corpus: 0.0-1.718: i, b, r, a, n, i
+4229, corpus: 0.0-1.754: i, h, s, a, n, i, y, e
+4607, corpus: 0.0-1.478: i, s, r, a
+4161, corpus: 0.0-1.325: i, d, i, l
+4565, corpus: 0.0-1.684: i, s, e, v, i
+4167, corpus: 0.0-1.504: i, d, r, i, s
+1328, corpus: 0.0-1.41: c, i, f, e
+4081, corpus: 0.0-1.392: i, b, e, r
+4093, corpus: 0.0-1.591: i, b, r, a, h, i, m
+4097, corpus: 0.0-1.701: i, b, r, a, n, i, c, e
+137, corpus: 0.0-1.523: e, t, m, e, k
+4329, corpus: 0.0-1.484: i, l, h, a, n
+4609, corpus: 0.0-1.711: i, s, r, a, f, i, l
+4753, corpus: 0.0-1.571: i, t, t, i, h, a, t
+4090, corpus: 0.0-1.794: i, b, n, -, i
+4602, corpus: 0.0-1.52: i, s, p, i, r
+4578, corpus: 0.0-1.725: i, s, k, e, n, d, e, r
+4584, corpus: 0.0-1.679: i, s, l, a, m, i
+4386, corpus: 0.0-2.12: ı
+4614, corpus: 0.0-1.688: i, s, t, a, n, b, u, l, i, n
+421, corpus: 0.0-1.507: e, t, m, e, k
+4613, corpus: 0.0-1.524: i, s, t, a, n, b, u, l

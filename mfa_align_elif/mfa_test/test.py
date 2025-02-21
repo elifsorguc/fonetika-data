@@ -42,7 +42,7 @@ def phonetic_to_ipa(phonetic):
 
 # Paths
 dataset_path = "dataset.csv"
-output_dict_path = "turkish_dict.txt"
+output_dict_path = "turkish_dict_2.txt"
 corpus_dir = "corpus"
 
 # Ensure corpus directory exists

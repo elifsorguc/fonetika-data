@@ -14,6 +14,7 @@ __pycache__/
 # C extensions
 *.so
 *.wav
+*.lab
 # Distribution / packaging
 .Python
 build/
