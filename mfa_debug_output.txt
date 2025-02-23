@@ -1,0 +1,70 @@
+ INFO     Setting up corpus information...                                                                                                                          
+ INFO     Loading corpus from source files...                                                                                                                       
+ 100% ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 10,062/100  [ 0:00:00 < 0:00:00 , 4,512 it/s ]
+ INFO     Found 1 speaker across 10062 files, average number of utterances per speaker: 10062.0                                                                     
+ INFO     Initializing multiprocessing jobs...                                                                                                                      
+ WARNING  Number of jobs was specified as 3, but due to only having 1 speakers, MFA will only use 1 jobs. Use the --single_speaker flag if you would like to split  
+          utterances across jobs regardless of their speaker.                                                                                                       
+ INFO     Normalizing text...                                                                                                                                       
+ 100% ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 10,062/10,062  [ 0:00:01 < 0:00:00 , ? it/s ]
+ INFO     Generating MFCCs...                                                                                                                                       
+ 100% ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 10,062/10,062  [ 0:00:12 < 0:00:00 , 550 it/s ]
+ INFO     Calculating CMVN...                                                                                                                                       
+ INFO     Generating final features...                                                                                                                              
+ 100% ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 10,062/10,062  [ 0:00:01 < 0:00:00 , ? it/s ]
+ INFO     Creating corpus split...                                                                                                                                  
+ 100% ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 10,062/10,062  [ 0:00:01 < 0:00:00 , ? it/s ]
+ INFO     Corpus                                                                                                                                                    
+ INFO     10062 sound files                                                                                                                                         
+ INFO     10062 text files                                                                                                                                          
+ INFO     1 speakers                                                                                                                                                
+ INFO     10062 utterances                                                                                                                                          
+ INFO     15002.294 seconds total duration                                                                                                                          
+ INFO     Sound file read errors                                                                                                                                    
+ INFO     There were no issues reading sound files.                                                                                                                 
+ INFO     Feature generation                                                                                                                                        
+ INFO     There were no utterances missing features.                                                                                                                
+ INFO     Files without transcriptions                                                                                                                              
+ INFO     There were no sound files missing transcriptions.                                                                                                         
+ INFO     Transcriptions without sound files                                                                                                                        
+ INFO     There were no transcription files missing sound files.                                                                                                    
+ INFO     Dictionary                                                                                                                                                
+ INFO     Out of vocabulary words                                                                                                                                   
+ INFO     There were no missing words from the dictionary. If you plan on using the a model trained on this dataset to align other datasets in the future, it is    
+          recommended that there be at least some missing words.                                                                                                    
+ INFO     Training                                                                                                                                                  
+ INFO     Creating subset directory with 2000 utterances...                                                                                                         
+   0%                                                                                                                        0/2,000  [ 0:00:01 < -:--:-- , ? it/s ]
+ INFO     Initializing training for monophone...                                                                                                                    
+ ERROR    There was an error in the run, please see the log.                                                                                                        
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/Users/aysegulyildiz/miniconda3/envs/aligner/bin/mfa", line 10, in <module>
+    sys.exit(mfa_cli())
+  File "/Users/aysegulyildiz/miniconda3/envs/aligner/lib/python3.9/site-packages/rich_click/rich_command.py", line 367, in __call__
+    return super().__call__(*args, **kwargs)
+  File "/Users/aysegulyildiz/miniconda3/envs/aligner/lib/python3.9/site-packages/click/core.py", line 1161, in __call__
+    return self.main(*args, **kwargs)
+  File "/Users/aysegulyildiz/miniconda3/envs/aligner/lib/python3.9/site-packages/rich_click/rich_command.py", line 152, in main
+    rv = self.invoke(ctx)
+  File "/Users/aysegulyildiz/miniconda3/envs/aligner/lib/python3.9/site-packages/click/core.py", line 1697, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/Users/aysegulyildiz/miniconda3/envs/aligner/lib/python3.9/site-packages/click/core.py", line 1443, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/Users/aysegulyildiz/miniconda3/envs/aligner/lib/python3.9/site-packages/click/core.py", line 788, in invoke
+    return __callback(*args, **kwargs)
+  File "/Users/aysegulyildiz/miniconda3/envs/aligner/lib/python3.9/site-packages/click/decorators.py", line 33, in new_func
+    return f(get_current_context(), *args, **kwargs)
+  File "/Users/aysegulyildiz/miniconda3/envs/aligner/lib/python3.9/site-packages/montreal_forced_aligner/command_line/validate.py", line 144, in validate_corpus_cli
+    validator.validate(output_directory=output_directory)
+  File "/Users/aysegulyildiz/miniconda3/envs/aligner/lib/python3.9/site-packages/montreal_forced_aligner/validation/corpus_validator.py", line 576, in validate
+    self.train()
+  File "/Users/aysegulyildiz/miniconda3/envs/aligner/lib/python3.9/site-packages/montreal_forced_aligner/acoustic_modeling/trainer.py", line 619, in train
+    trainer.train()
+  File "/Users/aysegulyildiz/miniconda3/envs/aligner/lib/python3.9/site-packages/montreal_forced_aligner/acoustic_modeling/base.py", line 386, in train
+    self.initialize_training()
+  File "/Users/aysegulyildiz/miniconda3/envs/aligner/lib/python3.9/site-packages/montreal_forced_aligner/acoustic_modeling/base.py", line 214, in initialize_training
+    self._trainer_initialization()
+  File "/Users/aysegulyildiz/miniconda3/envs/aligner/lib/python3.9/site-packages/montreal_forced_aligner/acoustic_modeling/monophone.py", line 305, in _trainer_initialization
+    job = self.jobs[0]
+IndexError: list index out of range

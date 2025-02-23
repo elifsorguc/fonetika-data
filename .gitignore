@@ -4,6 +4,14 @@
 # .python-version
 hf_audio_env
 mfa_align_habibe/venv
+mfa_align_aysegul/audio_files
+mfa_align_aysegul/lab_files
+mfa_align_aysegul/audio_files
+mfa_align_aysegul/corpus
+mfa_align_aysegul/corpus_deneme
+mfa_align_aysegul/corpus_5000
+
+
 
 # Byte-compiled / optimized / DLL files
 mfa_align_elif/.DS_Store
