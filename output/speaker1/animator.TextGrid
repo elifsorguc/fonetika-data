@@ -18,10 +18,10 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.48 
-            xmax = 1.14 
+            xmax = 1.13 
             text = "animatör" 
         intervals [3]:
-            xmin = 1.14 
+            xmin = 1.13 
             xmax = 1.584 
             text = "" 
     item [2]:
@@ -36,9 +36,9 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.48 
-            xmax = 1.14 
+            xmax = 1.13 
             text = "spn" 
         intervals [3]:
-            xmin = 1.14 
+            xmin = 1.13 
             xmax = 1.584 
             text = "" 

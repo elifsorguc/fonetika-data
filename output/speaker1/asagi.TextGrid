@@ -18,10 +18,10 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.42 
-            xmax = 0.98 
+            xmax = 0.96 
             text = "aşağı" 
         intervals [3]:
-            xmin = 0.98 
+            xmin = 0.96 
             xmax = 1.253878 
             text = "" 
     item [2]:
@@ -44,9 +44,9 @@ item []:
             text = "ʃ" 
         intervals [4]:
             xmin = 0.67 
-            xmax = 0.98 
+            xmax = 0.96 
             text = "aː" 
         intervals [5]:
-            xmin = 0.98 
+            xmin = 0.96 
             xmax = 1.253878 
             text = "" 

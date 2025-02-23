@@ -18,10 +18,10 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.47 
-            xmax = 1.02 
+            xmax = 1.03 
             text = "mecruh" 
         intervals [3]:
-            xmin = 1.02 
+            xmin = 1.03 
             xmax = 1.464 
             text = "" 
     item [2]:
@@ -36,9 +36,9 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.47 
-            xmax = 1.02 
+            xmax = 1.03 
             text = "spn" 
         intervals [3]:
-            xmin = 1.02 
+            xmin = 1.03 
             xmax = 1.464 
             text = "" 

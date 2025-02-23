@@ -18,10 +18,10 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.48 
-            xmax = 1.24 
+            xmax = 1.25 
             text = "memuriyet" 
         intervals [3]:
-            xmin = 1.24 
+            xmin = 1.25 
             xmax = 1.554 
             text = "" 
     item [2]:
@@ -36,9 +36,9 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.48 
-            xmax = 1.24 
+            xmax = 1.25 
             text = "spn" 
         intervals [3]:
-            xmin = 1.24 
+            xmin = 1.25 
             xmax = 1.554 
             text = "" 

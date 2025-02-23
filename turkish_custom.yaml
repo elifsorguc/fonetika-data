@@ -1,0 +1,10 @@
+# turkish_custom.yaml
+phone_set:
+  # Use your curated list of phones here.
+  phones: ["a", "aː", "aːː", "b", "c", "d", "e", "eː", "f", "fː", "h", "hː", "i", "iː", "j", "k", "kː", "l", "m", "n", "nː", "o", "oː", "p", "s", "t", "tː", "u", "uː", "uːː", "v", "y", "yː", "z", "zː", "è", "ê", "îː", "ā", "āː", "ŋ", "ō", "œ", "œː", "ū", "ż", "ɛ", "ɛː", "ɡ", "ɫ", "ɫː", "ɯ", "ɯː", "ɾ", "ɾː", "ʃ", "ʒ", "͜", "͡", "і", "ḥ", "ḫ", "‘", "’", "‿"]
+  silence_phone: "sil"
+  optional_silence: "optional_sil"
+  
+train:
+  num_iterations: 40
+  # You can add more training parameters here if needed.
