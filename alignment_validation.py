@@ -3,7 +3,7 @@ import pandas as pd
 import textgrid
 
 # Set paths
-textgrid_folder = "mfa_align_aysegul/aligned_output"  # Folder containing aligned TextGrid files
+textgrid_folder = "output/speaker2"  # Folder containing aligned TextGrid files
 dictionary_path = "mfa_align_aysegul/dict/filtered_turkish_dict.txt"  # Turkish dictionary file
 
 # Function to load Turkish dictionary
