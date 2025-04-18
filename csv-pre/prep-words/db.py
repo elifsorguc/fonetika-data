@@ -2,7 +2,7 @@ import json
 from pymongo import MongoClient
 
 # === Step 1: Load structured JSON file ===
-with open('final_output.json', 'r', encoding='utf-8') as f:
+with open('final_output_cleaned.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 # === Step 2: Connect to MongoDB Atlas ===
