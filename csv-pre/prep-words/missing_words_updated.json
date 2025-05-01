@@ -1,0 +1,189 @@
+[
+  {
+    "word": "bilakis",
+    "subword": "bi-lɑ-cis",
+    "subwordIpa": "bi-lɑ-cis",
+    "phoneticWriting": "bilɑcis",
+    "phonemes": [
+      "i",
+      "ɑ",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/964"
+  },
+  {
+    "word": "bostancı",
+    "subword": "bos-tan-d͡ʒɯ",
+    "subwordIpa": "bos-tan-d͡ʒɯ",
+    "phoneticWriting": "bostand͡ʒɯ",
+    "phonemes": [
+      "o",
+      "a",
+      "ɯ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1060"
+  },
+  {
+    "word": "dermek",
+    "subword": "dɛɾ-mek",
+    "subwordIpa": "dɛɾ-mek",
+    "phoneticWriting": "dɛɾmek",
+    "phonemes": [
+      "ɛ",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1718"
+  },
+  {
+    "word": "diyetisyen",
+    "subword": "di-je-tis-jɛn",
+    "subwordIpa": "di-je-tis-jɛn",
+    "phoneticWriting": "dijetisjɛn",
+    "phonemes": [
+      "i",
+      "e",
+      "i",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1898"
+  },
+  {
+    "word": "horon",
+    "subword": "ho-ɾon",
+    "subwordIpa": "ho-ɾon",
+    "phoneticWriting": "hoɾon",
+    "phonemes": [
+      "o",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/3869"
+  },
+  {
+    "word": "kılıbık",
+    "subword": "kɯ-ɫɯ-bɯk",
+    "subwordIpa": "kɯ-ɫɯ-bɯk",
+    "phoneticWriting": "kɯɫɯbɯk",
+    "phonemes": [
+      "ɯ",
+      "ɯ",
+      "ɯ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/5359"
+  },
+  {
+    "word": "kudüs",
+    "subword": "ku-dys",
+    "subwordIpa": "ku-dys",
+    "phoneticWriting": "kudys",
+    "phonemes": [
+      "u",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/5614"
+  },
+  {
+    "word": "külah",
+    "subword": "cy-lɑh",
+    "subwordIpa": "cy-lɑh",
+    "phoneticWriting": "cylɑh",
+    "phonemes": [
+      "y",
+      "ɑ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/5710"
+  },
+  {
+    "word": "muallak",
+    "subword": "mu-aɫ-lɑk",
+    "subwordIpa": "mu-aɫ-lɑk",
+    "phoneticWriting": "muaɫlɑk",
+    "phonemes": [
+      "u",
+      "a",
+      "ɑ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7022"
+  },
+  {
+    "word": "nakış",
+    "subword": "naː-kɯs",
+    "subwordIpa": "naː-kɯs",
+    "phoneticWriting": "naːkɯs",
+    "phonemes": [
+      "a",
+      "ɯ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7855"
+  },
+  {
+    "word": "penaltı",
+    "subword": "pe-naɫ-tɯ",
+    "subwordIpa": "pe-naɫ-tɯ",
+    "phoneticWriting": "penaɫtɯ",
+    "phonemes": [
+      "e",
+      "a",
+      "ɯ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/8532"
+  },
+  {
+    "word": "şelale",
+    "subword": "ʃe-lɑː-le",
+    "subwordIpa": "ʃe-lɑː-le",
+    "phoneticWriting": "ʃelɑːle",
+    "phonemes": [
+      "e",
+      "ɑ",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/9977"
+  },
+  {
+    "word": "selanik",
+    "subword": "se-lɑː-nik",
+    "subwordIpa": "se-lɑː-nik",
+    "phoneticWriting": "selɑːnik",
+    "phonemes": [
+      "e",
+      "ɑ",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/9351"
+  },
+  {
+    "word": "şöbiyet",
+    "subword": "ʃœ-bi-jet",
+    "subwordIpa": "ʃœ-bi-jet",
+    "phoneticWriting": "ʃœbijet",
+    "phonemes": [
+      "œ",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10104"
+  },
+  {
+    "word": "söğüt",
+    "subword": "sœ-yt",
+    "subwordIpa": "sœ-yt",
+    "phoneticWriting": "sœyt",
+    "phonemes": [
+      "œ",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/9659"
+  },
+  {
+    "word": "yumurcak",
+    "subword": "ju-muɾ-d͡ʒak",
+    "subwordIpa": "ju-muɾ-d͡ʒak",
+    "phoneticWriting": "jumuɾd͡ʒak",
+    "phonemes": [
+      "u",
+      "u",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11792"
+  }
+]
