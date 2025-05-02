@@ -1,0 +1,5103 @@
+[
+  {
+    "word": "acente",
+    "subword": "a-cen-te",
+    "subwordIpa": "a-d͡ʒen-te",
+    "phoneticWriting": "ad͡ʒente",
+    "phonemes": [
+      "a",
+      "e",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/51",
+    "meaning": "Ticari mümessil ticari vekil, satış memuru veya müstahdem gibi bir sıfatı olmaksızın bir sözleşmeye dayanarak belirli bir bölge içinde daimi bir suretle ticari bir işletmeyi ilgilendiren akitlerde aracılık etmeyi veya bunları o işletme adına yapmayı meslek edinen kimse (TTK 116 vd.)"
+  },
+  {
+    "word": "aciz",
+    "subword": "a-ciz",
+    "subwordIpa": "aː-d͡ʒiz",
+    "phoneticWriting": "aːd͡ʒiz",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/57",
+    "meaning": "Bir şahsın borçlarını ödeyemeyecek durumda bulunması"
+  },
+  {
+    "word": "adalet",
+    "subword": "a-da-let",
+    "subwordIpa": "a-daː-let",
+    "phoneticWriting": "adaːlet",
+    "phonemes": [
+      "a",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/68",
+    "meaning": "Haklılık; hakka uygunluk"
+  },
+  {
+    "word": "ahit",
+    "subword": "a-hit",
+    "subwordIpa": "a-hit",
+    "phoneticWriting": "ahit",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/139",
+    "meaning": "Söz verme"
+  },
+  {
+    "word": "akamet",
+    "subword": "a-ka-met",
+    "subwordIpa": "a-kaː-mɛt",
+    "phoneticWriting": "akaːmɛt",
+    "phonemes": [
+      "a",
+      "a",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/164",
+    "meaning": "Neticesizlik, kısırlık, sonuç alınmama."
+  },
+  {
+    "word": "alelusul",
+    "subword": "a-le-lu-sul",
+    "subwordIpa": "a-le-ɫu-suːːl",
+    "phoneticWriting": "aleɫusuːːl",
+    "phonemes": [
+      "a",
+      "e",
+      "u",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/223",
+    "meaning": "Usulüne uygun;"
+  },
+  {
+    "word": "aleniyet",
+    "subword": "a-le-ni-yet",
+    "subwordIpa": "a-le-ni-jet",
+    "phoneticWriting": "alenijet",
+    "phonemes": [
+      "a",
+      "e",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/232",
+    "meaning": "Açıklık"
+  },
+  {
+    "word": "amade",
+    "subword": "a-ma-de",
+    "subwordIpa": "aː-maː-de",
+    "phoneticWriting": "aːmaːde",
+    "phonemes": [
+      "a",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/273",
+    "meaning": "Bir işi yapmaya hazır; hazırlanmış"
+  },
+  {
+    "word": "amel",
+    "subword": "a-mel",
+    "subwordIpa": "a-mɛl",
+    "phoneticWriting": "amɛl",
+    "phonemes": [
+      "a",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/282",
+    "meaning": "İş; edim; fiil"
+  },
+  {
+    "word": "amele",
+    "subword": "a-me-le",
+    "subwordIpa": "a-me-le",
+    "phoneticWriting": "amele",
+    "phonemes": [
+      "a",
+      "e",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/283",
+    "meaning": "İşçi; emekçi, ırgat"
+  },
+  {
+    "word": "amme",
+    "subword": "am-me",
+    "subwordIpa": "am-me",
+    "phoneticWriting": "amme",
+    "phonemes": [
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/302",
+    "meaning": "Kamu"
+  },
+  {
+    "word": "angaje",
+    "subword": "an-ga-je",
+    "subwordIpa": "an-ɡa-ʒe",
+    "phoneticWriting": "anɡaʒe",
+    "phonemes": [
+      "a",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/330",
+    "meaning": "Sözle veya yazılı olarak bağlanan; bağımlı"
+  },
+  {
+    "word": "arz",
+    "subword": "arz",
+    "subwordIpa": "aɾz",
+    "phoneticWriting": "aɾz",
+    "phonemes": [
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/420",
+    "meaning": "Sunma; gösterme; bildirme; önüne koyma; anlatma (bir büyüğe)"
+  },
+  {
+    "word": "atıf",
+    "subword": "a-tıf",
+    "subwordIpa": "a-tɯf",
+    "phoneticWriting": "atɯf",
+    "phonemes": [
+      "a",
+      "ɯ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/527",
+    "meaning": "Yollama; yöneltme; yükleme; bağlama; eğme; meylettirme; ilişkili bulma"
+  },
+  {
+    "word": "atıf",
+    "subword": "a-tıf",
+    "subwordIpa": "a-tɯf",
+    "phoneticWriting": "atɯf",
+    "phonemes": [
+      "a",
+      "ɯ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/527",
+    "meaning": "Yollama; yöneltme; yükleme; bağlama; eğme; meylettirme; ilişkili bulma"
+  },
+  {
+    "word": "aval",
+    "subword": "a-val",
+    "subwordIpa": "a-val",
+    "phoneticWriting": "aval",
+    "phonemes": [
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/543",
+    "meaning": "Bonoya imza atarak sorumluluk altına girmiş kişiler lehine verilen bir tür kefalettir."
+  },
+  {
+    "word": "avdet",
+    "subword": "av-det",
+    "subwordIpa": "av-det",
+    "phoneticWriting": "avdet",
+    "phonemes": [
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/549",
+    "meaning": "Dönüş; geri gelme; dönme"
+  },
+  {
+    "word": "azil",
+    "subword": "a-zil",
+    "subwordIpa": "a-zil",
+    "phoneticWriting": "azil",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/596",
+    "meaning": "Verilen temsil yetkisinin ortadan kaldırılması"
+  },
+  {
+    "word": "azimet",
+    "subword": "a-zi-met",
+    "subwordIpa": "a-ziː-met",
+    "phoneticWriting": "aziːmet",
+    "phonemes": [
+      "a",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/599",
+    "meaning": "Gidiş; yola çıkma"
+  },
+  {
+    "word": "bahri",
+    "subword": "bah-ri",
+    "subwordIpa": "bah-ɾiː",
+    "phoneticWriting": "bahɾiː",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/668",
+    "meaning": "Denize ait"
+  },
+  {
+    "word": "baki",
+    "subword": "ba-ki",
+    "subwordIpa": "baː-ci",
+    "phoneticWriting": "baːci",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/680",
+    "meaning": "Sürekli; daimî; artan; kalan; kalımlı; kalıcı; ölümsüz; saklı duran"
+  },
+  {
+    "word": "bakiye",
+    "subword": "ba-ki-ye",
+    "subwordIpa": "ba-ci-je",
+    "phoneticWriting": "bacije",
+    "phonemes": [
+      "a",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/683",
+    "meaning": "Artan"
+  },
+  {
+    "word": "baliğ",
+    "subword": "ba-liğ",
+    "subwordIpa": "baː-liː",
+    "phoneticWriting": "baːliː",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/703",
+    "meaning": "Eren; varan; bulan; yetişen; toplam; büluğa; ergin;"
+  },
+  {
+    "word": "bariz",
+    "subword": "ba-riz",
+    "subwordIpa": "baː-ɾiz",
+    "phoneticWriting": "baːɾiz",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/729",
+    "meaning": "Açık; göze çarpan; belirgin"
+  },
+  {
+    "word": "basiret",
+    "subword": "ba-si-ret",
+    "subwordIpa": "ba-siː-ɾet",
+    "phoneticWriting": "basiːɾet",
+    "phonemes": [
+      "a",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/739",
+    "meaning": "Doğru görüş; uzağı görüş; önceden görüş; seziş; uyanıklık; anlayış; kavrayış; dikkat; sağgörü"
+  },
+  {
+    "word": "batıl",
+    "subword": "ba-tıl",
+    "subwordIpa": "baː-tɯl",
+    "phoneticWriting": "baːtɯl",
+    "phonemes": [
+      "a",
+      "ɯ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/755",
+    "meaning": "Doğru ve haklı olmayan; çürük; bozuk; sakat; boş; hukuken geçersiz; dayanaksız; temelsiz; beyhude; hüküm ifade etmeyen"
+  },
+  {
+    "word": "bayi",
+    "subword": "ba-yi",
+    "subwordIpa": "baː-ji",
+    "phoneticWriting": "baːji",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/767",
+    "meaning": "Bazı maddeleri satma izni olan kimse; satıcı; satış yeri"
+  },
+  {
+    "word": "beher",
+    "subword": "be-her",
+    "subwordIpa": "be-hɛɾ",
+    "phoneticWriting": "behɛɾ",
+    "phonemes": [
+      "e",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/798",
+    "meaning": "Her biri"
+  },
+  {
+    "word": "belagat",
+    "subword": "be-la-gat",
+    "subwordIpa": "be-lɑː-ɡat",
+    "phoneticWriting": "belɑːɡat",
+    "phonemes": [
+      "e",
+      "ɑ",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/819",
+    "meaning": "İyi konuşma; sözle inandırma yeteneği; söz sanatlarını inceleyen bilgi dalı"
+  },
+  {
+    "word": "beraat",
+    "subword": "be-ra-at",
+    "subwordIpa": "be-ɾa-ːɑt",
+    "phoneticWriting": "beɾaːɑt",
+    "phonemes": [
+      "e",
+      "a",
+      "ɑ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/852",
+    "meaning": "Aklanma"
+  },
+  {
+    "word": "berhava",
+    "subword": "ber-ha-va",
+    "subwordIpa": "bɛɾ-ha-vaː",
+    "phoneticWriting": "bɛɾhavaː",
+    "phonemes": [
+      "ɛ",
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/869",
+    "meaning": "Havaya gitmiş; kaybolmuş; uçurulmuş; yararsız; boş"
+  },
+  {
+    "word": "beşerî",
+    "subword": "be-şerî",
+    "subwordIpa": "be-ʃe-ɾiː",
+    "phoneticWriting": "beʃeɾiː",
+    "phonemes": [
+      "e",
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/893",
+    "meaning": "İnsanoğlu ile ilgili; insanî; insana mensup"
+  },
+  {
+    "word": "beyanname",
+    "subword": "be-yan-na-me",
+    "subwordIpa": "be-jan-naː-me",
+    "phoneticWriting": "bejannaːme",
+    "phonemes": [
+      "e",
+      "a",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/904",
+    "meaning": "Bir makama veya kamuoyuna yapılan açıklama belgesi."
+  },
+  {
+    "word": "beytülmal",
+    "subword": "bey-tül-mal",
+    "subwordIpa": "bɛj-tyɫ-mɑːl",
+    "phoneticWriting": "bɛjtyɫmɑːl",
+    "phonemes": [
+      "ɛ",
+      "y",
+      "ɑ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/917",
+    "meaning": "Maliye hazinesi"
+  },
+  {
+    "word": "bilahare",
+    "subword": "bi-la-ha-re",
+    "subwordIpa": "bi-lɑː-ha-ɾe",
+    "phoneticWriting": "bilɑːhaɾe",
+    "phonemes": [
+      "i",
+      "ɑ",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/961",
+    "meaning": "sonradan"
+  },
+  {
+    "word": "bilanço",
+    "subword": "bi-lan-ço",
+    "subwordIpa": "bi-lɑn-t͡ʃo",
+    "phoneticWriting": "bilɑnt͡ʃo",
+    "phonemes": [
+      "i",
+      "ɑ",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/965",
+    "meaning": "Bir kuruluşun, belli bir tarihte, alacaklı ve borçlu bulunduğu değerleri gösteren özet muhasebe cetveli; işletmenin finansal durumu ve faaliyet sonuçlarını gösteren tablo."
+  },
+  {
+    "word": "bilfiil",
+    "subword": "bil-fi-il",
+    "subwordIpa": "biɫ-fi-ːil",
+    "phoneticWriting": "biɫfiːil",
+    "phonemes": [
+      "i",
+      "i",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/975",
+    "meaning": "Gerçekten; fiilen; hakiki olarak; iş olarak; iş edinerek"
+  },
+  {
+    "word": "bililtizam",
+    "subword": "bi-lil-ti-zam",
+    "subwordIpa": "bi-liɫ-ti-zaːm",
+    "phoneticWriting": "biliɫtizaːm",
+    "phonemes": [
+      "i",
+      "i",
+      "i",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/979",
+    "meaning": "Bile bile"
+  },
+  {
+    "word": "cari",
+    "subword": "ca-ri",
+    "subwordIpa": "d͡ʒaː-ɾiː",
+    "phoneticWriting": "d͡ʒaːɾiː",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1179",
+    "meaning": "Uygulanan; yürürlükte olan"
+  },
+  {
+    "word": "cebel",
+    "subword": "ce-bel",
+    "subwordIpa": "d͡ʒe-bɛl",
+    "phoneticWriting": "d͡ʒebɛl",
+    "phonemes": [
+      "e",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1191",
+    "meaning": "Dağ, yüksek tepe."
+  },
+  {
+    "word": "cebrî",
+    "subword": "cebrî",
+    "subwordIpa": "d͡ʒeb-ɾiː",
+    "phoneticWriting": "d͡ʒebɾiː",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1201",
+    "meaning": "Zorla yapılan; zor kullanarak yaptırılan; zor altında; güç kullanarak"
+  },
+  {
+    "word": "celpname",
+    "subword": "celp-na-me",
+    "subwordIpa": "d͡ʒɛɫp-naː-me",
+    "phoneticWriting": "d͡ʒɛɫpnaːme",
+    "phonemes": [
+      "ɛ",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1227",
+    "meaning": "Yargılamada,davacı,davalı,tanık,bilirkişi gibi kimseleri mahkemeye getirtmek için yapılan çağrı"
+  },
+  {
+    "word": "cenup",
+    "subword": "ce-nup",
+    "subwordIpa": "d͡ʒe-nuːp",
+    "phoneticWriting": "d͡ʒenuːp",
+    "phonemes": [
+      "e",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1263",
+    "meaning": "güney"
+  },
+  {
+    "word": "cereme",
+    "subword": "ce-re-me",
+    "subwordIpa": "d͡ʒe-ɾe-me",
+    "phoneticWriting": "d͡ʒeɾeme",
+    "phonemes": [
+      "e",
+      "e",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1271",
+    "meaning": "Başkası tarafından yapılan veya kaza sonucu ortaya çıkan zararı ödeme; para cezası"
+  },
+  {
+    "word": "cevher",
+    "subword": "cev-her",
+    "subwordIpa": "d͡ʒev-hɛɾ",
+    "phoneticWriting": "d͡ʒevhɛɾ",
+    "phonemes": [
+      "e",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1296",
+    "meaning": "Maya; öz; değerli taş; elmas"
+  },
+  {
+    "word": "ceza",
+    "subword": "ce-za",
+    "subwordIpa": "d͡ʒe-zaː",
+    "phoneticWriting": "d͡ʒezaː",
+    "phonemes": [
+      "e",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1301",
+    "meaning": "Suç işleyen kişilerin karşılaşacakları tepkidir,yani kanunun suç işleyen kimseye uygulanmasını öngördüğü müeyyidedir."
+  },
+  {
+    "word": "cihet",
+    "subword": "ci-het",
+    "subwordIpa": "d͡ʒi-het",
+    "phoneticWriting": "d͡ʒihet",
+    "phonemes": [
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1343",
+    "meaning": "Yön; taraf; amaç"
+  },
+  {
+    "word": "ciro",
+    "subword": "ci-ro",
+    "subwordIpa": "d͡ʒi-ɾo",
+    "phoneticWriting": "d͡ʒiɾo",
+    "phonemes": [
+      "i",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1367",
+    "meaning": "Çifte yetki veren havale; ticari senedin, arkasına yazılan yazı veya imza ile başkasına devri."
+  },
+  {
+    "word": "cüz",
+    "subword": "cüz",
+    "subwordIpa": "d͡ʒyz",
+    "phoneticWriting": "d͡ʒyz",
+    "phonemes": [
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1410",
+    "meaning": "Bir bütünü oluşturan bölümlerden her biri; kısım; parça; bölük"
+  },
+  {
+    "word": "delil",
+    "subword": "de-lil",
+    "subwordIpa": "de-lil",
+    "phoneticWriting": "delil",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1669",
+    "meaning": "Kanıt; tanıt; ipucu"
+  },
+  {
+    "word": "depozito",
+    "subword": "de-po-zi-to",
+    "subwordIpa": "de-po-zi-to",
+    "phoneticWriting": "depozito",
+    "phonemes": [
+      "e",
+      "o",
+      "i",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1693",
+    "meaning": "Bir sözleşmeden dolayı doğabilecek zararlara karşı verilen teminat; bir taahhüt sırasında yatırılan güvence parası."
+  },
+  {
+    "word": "desise",
+    "subword": "de-si-se",
+    "subwordIpa": "de-siː-se",
+    "phoneticWriting": "desiːse",
+    "phonemes": [
+      "e",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1740",
+    "meaning": "Hile; oyun; entrika"
+  },
+  {
+    "word": "eda",
+    "subword": "e-da",
+    "subwordIpa": "e-daː",
+    "phoneticWriting": "edaː",
+    "phonemes": [
+      "e",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2020",
+    "meaning": "Edim; borçlanılan şey; borcun konusu"
+  },
+  {
+    "word": "edim",
+    "subword": "e-dim",
+    "subwordIpa": "e-dim",
+    "phoneticWriting": "edim",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2032",
+    "meaning": "Aralarındaki borç ilişkisi dolayısıyla alacaklının isteyebileceği, borçlunun da yerine getirmekle yükümlü bulunduğu bir davranış biçimi"
+  },
+  {
+    "word": "ekseriyet",
+    "subword": "ek-se-ri-yet",
+    "subwordIpa": "ek-se-ɾi-jet",
+    "phoneticWriting": "ekseɾijet",
+    "phonemes": [
+      "e",
+      "e",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2120",
+    "meaning": "Çoğunluk"
+  },
+  {
+    "word": "elfaz",
+    "subword": "el-faz",
+    "subwordIpa": "eɫ-faːz",
+    "phoneticWriting": "eɫfaːz",
+    "phonemes": [
+      "e",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2146",
+    "meaning": "Kelimeler; sözler"
+  },
+  {
+    "word": "emtia",
+    "subword": "em-ti-a",
+    "subwordIpa": "em-ti-a",
+    "phoneticWriting": "emtia",
+    "phonemes": [
+      "e",
+      "i",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2192",
+    "meaning": "eşya, mallar."
+  },
+  {
+    "word": "emval",
+    "subword": "em-val",
+    "subwordIpa": "em-vɑːl",
+    "phoneticWriting": "emvɑːl",
+    "phonemes": [
+      "e",
+      "ɑ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2193",
+    "meaning": "Mallar; mülkler"
+  },
+  {
+    "word": "enfüsi",
+    "subword": "en-fü-si",
+    "subwordIpa": "en-fy-siː",
+    "phoneticWriting": "enfysiː",
+    "phonemes": [
+      "e",
+      "y",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2220",
+    "meaning": "Öznel; subjektif"
+  },
+  {
+    "word": "enkaz",
+    "subword": "en-kaz",
+    "subwordIpa": "en-kaːz",
+    "phoneticWriting": "enkaːz",
+    "phonemes": [
+      "e",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2231",
+    "meaning": "Bina yıkıntıları; yıkıntı; moloz; eski hayvanların bakiyeleri"
+  },
+  {
+    "word": "eşcar",
+    "subword": "eş-car",
+    "subwordIpa": "eʃ-d͡ʒaːɾ",
+    "phoneticWriting": "eʃd͡ʒaːɾ",
+    "phonemes": [
+      "e",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2338",
+    "meaning": "Ağaçlar"
+  },
+  {
+    "word": "esham",
+    "subword": "es-ham",
+    "subwordIpa": "es-haːm",
+    "phoneticWriting": "eshaːm",
+    "phonemes": [
+      "e",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2306",
+    "meaning": "Pay senedi; hisse senedi"
+  },
+  {
+    "word": "eşhas",
+    "subword": "eş-has",
+    "subwordIpa": "eʃ-haːs",
+    "phoneticWriting": "eʃhaːs",
+    "phonemes": [
+      "e",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2341",
+    "meaning": "Şahıslar; kişiler; kimseler"
+  },
+  {
+    "word": "eşkâl",
+    "subword": "eşkâl",
+    "subwordIpa": "eʃ-cɑl",
+    "phoneticWriting": "eʃcɑl",
+    "phonemes": [
+      "e",
+      "ɑ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2343",
+    "meaning": "Biçimler; suretler; tarzlar"
+  },
+  {
+    "word": "esnaf",
+    "subword": "es-naf",
+    "subwordIpa": "es-naf",
+    "phoneticWriting": "esnaf",
+    "phonemes": [
+      "e",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2316",
+    "meaning": "İster gezici, ister bir dükkan veya bir sokağın belli bir yerinde sabit olsun, iktisadi faaliyeti nakdi sermayeden ziyade bedeni çalışmasına dayanan ve kazancı ancak geçimini sağlamaya yetecek derecede az olan sanat ve ticaret sahipleridir."
+  },
+  {
+    "word": "etfal",
+    "subword": "et-fal",
+    "subwordIpa": "et-fɑːl",
+    "phoneticWriting": "etfɑːl",
+    "phonemes": [
+      "e",
+      "ɑ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2353",
+    "meaning": "Çocuklar, sübyanlar."
+  },
+  {
+    "word": "evkaf",
+    "subword": "ev-kaf",
+    "subwordIpa": "ev-kaːf",
+    "phoneticWriting": "evkaːf",
+    "phonemes": [
+      "e",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2367",
+    "meaning": "Vakıflar"
+  },
+  {
+    "word": "evsaf",
+    "subword": "ev-saf",
+    "subwordIpa": "ev-saːf",
+    "phoneticWriting": "evsaːf",
+    "phonemes": [
+      "e",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2383",
+    "meaning": "Nitelikler"
+  },
+  {
+    "word": "evvelemirde",
+    "subword": "ev-ve-le-mir-de",
+    "subwordIpa": "ev-vɛ-le-miɾ-de",
+    "phoneticWriting": "evvɛlemiɾde",
+    "phonemes": [
+      "e",
+      "ɛ",
+      "e",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2389",
+    "meaning": "Herşeyden evvel; işin başlangıcında; ilk iş olarak"
+  },
+  {
+    "word": "ezcümle",
+    "subword": "ez-cüm-le",
+    "subwordIpa": "ez-d͡ʒym-le",
+    "phoneticWriting": "ezd͡ʒymle",
+    "phonemes": [
+      "e",
+      "y",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2424",
+    "meaning": "Özellikle; özet olarak; sözün kısası; toplucası"
+  },
+  {
+    "word": "fariğ",
+    "subword": "fa-riğ",
+    "subwordIpa": "faː-ɾiː",
+    "phoneticWriting": "faːɾiː",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2488",
+    "meaning": "Bir şeyi veya hakkı başkasına devreden; ferağda bulunan; feragat eden; taşınmaz maldaki tasarruf hakkını başkasına bırakan kişi"
+  },
+  {
+    "word": "farz",
+    "subword": "farz",
+    "subwordIpa": "faɾz",
+    "phoneticWriting": "faɾz",
+    "phonemes": [
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2499",
+    "meaning": "Zorunlu; baş koşul; boyun borcu; çok gerekli; varsayma"
+  },
+  {
+    "word": "ferağ",
+    "subword": "fe-rağ",
+    "subwordIpa": "fe-ɾaː",
+    "phoneticWriting": "feɾaː",
+    "phonemes": [
+      "e",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2600",
+    "meaning": "Devir; devretme; bir hakkı birine geçirme; mirî veya vakıf arazinin yararlanma hakkının satışı"
+  },
+  {
+    "word": "fesih",
+    "subword": "fe-sih",
+    "subwordIpa": "fe-sih",
+    "phoneticWriting": "fesih",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2647",
+    "meaning": "Devam etmekte olan bir hukuki ilişkiyi, tek taraflı olarak ve ileriye dönük olmak üzere sonlandıran bozucu yenilik doğurucu irade beyanı."
+  },
+  {
+    "word": "fetret",
+    "subword": "fet-ret",
+    "subwordIpa": "fet-ɾet",
+    "phoneticWriting": "fetɾet",
+    "phonemes": [
+      "e",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2659",
+    "meaning": "zayıflık,uyuşukluk"
+  },
+  {
+    "word": "fevk",
+    "subword": "fevk",
+    "subwordIpa": "fevk",
+    "phoneticWriting": "fevk",
+    "phonemes": [
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2670",
+    "meaning": "Üst,üst dereceli, astın üstünde yer alan"
+  },
+  {
+    "word": "filhakika",
+    "subword": "fil-ha-ki-ka",
+    "subwordIpa": "fiɫ-ha-ciː-ka",
+    "phoneticWriting": "fiɫhaciːka",
+    "phonemes": [
+      "i",
+      "a",
+      "i",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2736",
+    "meaning": "Hakikatte; gerçekte; doğrusu"
+  },
+  {
+    "word": "fırka",
+    "subword": "fır-ka",
+    "subwordIpa": "fɯɾ-ka",
+    "phoneticWriting": "fɯɾka",
+    "phonemes": [
+      "ɯ",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2692",
+    "meaning": "İnsan kalabalığı grubu; parti"
+  },
+  {
+    "word": "gaip",
+    "subword": "ga-ip",
+    "subwordIpa": "ɡa-ːip",
+    "phoneticWriting": "ɡaːip",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2838",
+    "meaning": "Görünmeyen; hazır olmayan; yitik; yok olan kişi; kaybolan ve kendisinden uzun zaman haber alınamayan kişi"
+  },
+  {
+    "word": "garaz",
+    "subword": "ga-raz",
+    "subwordIpa": "ɡa-ɾaz",
+    "phoneticWriting": "ɡaɾaz",
+    "phonemes": [
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2872",
+    "meaning": "(garez)gizli düşmanlık; asıl maksat; erek; amaç; hınç"
+  },
+  {
+    "word": "garp",
+    "subword": "garp",
+    "subwordIpa": "ɡaɾp",
+    "phoneticWriting": "ɡaɾp",
+    "phonemes": [
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2878",
+    "meaning": "batı"
+  },
+  {
+    "word": "gasp",
+    "subword": "gasp",
+    "subwordIpa": "ɡasp",
+    "phoneticWriting": "ɡasp",
+    "phonemes": [
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2892",
+    "meaning": "Başkasının bir eşya, para yada kıymetli malını elinden veya tasarrufundan zorla ve haksız alınması"
+  },
+  {
+    "word": "gaybubet",
+    "subword": "gay-bu-bet",
+    "subwordIpa": "ɡaj-buː-bet",
+    "phoneticWriting": "ɡajbuːbet",
+    "phonemes": [
+      "a",
+      "u",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2897",
+    "meaning": "Kaybolma; yokluk; göz önünde olmayış; yitiklik"
+  },
+  {
+    "word": "gayrimenkul",
+    "subword": "gay-ri-men-kul",
+    "subwordIpa": "ɡaj-ɾi-men-cuːːl",
+    "phoneticWriting": "ɡajɾimencuːːl",
+    "phonemes": [
+      "a",
+      "i",
+      "e",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2915",
+    "meaning": "Bir yerden bir yere taşınması olanaksız (taşınmaz) mal."
+  },
+  {
+    "word": "gerçi",
+    "subword": "ger-çi",
+    "subwordIpa": "ɡɛɾ-t͡ʃi",
+    "phoneticWriting": "ɡɛɾt͡ʃi",
+    "phonemes": [
+      "ɛ",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2952",
+    "meaning": "Gerçekten; vakıa"
+  },
+  {
+    "word": "girift",
+    "subword": "gi-rift",
+    "subwordIpa": "ɡi-ɾift",
+    "phoneticWriting": "ɡiɾift",
+    "phonemes": [
+      "i",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2982",
+    "meaning": "Dolaşık; karışık; bir birinin içine girgin; tutma; yakalama"
+  },
+  {
+    "word": "hacet",
+    "subword": "ha-cet",
+    "subwordIpa": "haː-d͡ʒet",
+    "phoneticWriting": "haːd͡ʒet",
+    "phonemes": [
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/3138",
+    "meaning": "Gerek; gereklilik"
+  },
+  {
+    "word": "haciz",
+    "subword": "ha-ciz",
+    "subwordIpa": "ha-d͡ʒiz",
+    "phoneticWriting": "had͡ʒiz",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/3146",
+    "meaning": "Borçlunun, borcunu kendi arzusu ile ödememesi durumunda, alacaklının talebiyle, borçlunun (borca yetecek miktardaki) mal ve haklarına devlet aracılığıyla (icra dairesi tarafından) el konulması."
+  },
+  {
+    "word": "hafriyat",
+    "subword": "haf-ri-yat",
+    "subwordIpa": "haf-ɾi-jat",
+    "phoneticWriting": "hafɾijat",
+    "phonemes": [
+      "a",
+      "i",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/3190",
+    "meaning": "Kazı; kazılar; toprak kazma; toprak çıkarma"
+  },
+  {
+    "word": "hail",
+    "subword": "ha-il",
+    "subwordIpa": "ha-ːil",
+    "phoneticWriting": "haːil",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/3197",
+    "meaning": "Duvar, çit, parmaklık, tahta perde gibi taşınmazları birbirinden ayıran işaret ve engeller"
+  },
+  {
+    "word": "haiz",
+    "subword": "ha-iz",
+    "subwordIpa": "ha-ːiz",
+    "phoneticWriting": "haːiz",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/3201",
+    "meaning": "Sahip; elde bulunduran; taşıyan"
+  },
+  {
+    "word": "hak",
+    "subword": "hak",
+    "subwordIpa": "hak",
+    "phoneticWriting": "hak",
+    "phonemes": [
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/3202",
+    "meaning": "Hukuk düzeni tarafından şahıslara tanınmış olan yetkilerdir"
+  },
+  {
+    "word": "hakkaniyet",
+    "subword": "hak-ka-ni-yet",
+    "subwordIpa": "hak-kaː-ni-jet",
+    "phoneticWriting": "hakkaːnijet",
+    "phonemes": [
+      "a",
+      "a",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/3232",
+    "meaning": "Hak ve adalete uygunluk; doğruluk"
+  },
+  {
+    "word": "halel",
+    "subword": "ha-lel",
+    "subwordIpa": "ha-lel",
+    "phoneticWriting": "halel",
+    "phonemes": [
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/3261",
+    "meaning": "Bozma; bozukluk; eksiklik; zarar"
+  },
+  {
+    "word": "halita",
+    "subword": "ha-li-ta",
+    "subwordIpa": "ha-liː-ta",
+    "phoneticWriting": "haliːta",
+    "phonemes": [
+      "a",
+      "i",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/3286",
+    "meaning": "Karışım"
+  },
+  {
+    "word": "harnup",
+    "subword": "har-nup",
+    "subwordIpa": "haɾ-nup",
+    "phoneticWriting": "haɾnup",
+    "phonemes": [
+      "a",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/3433",
+    "meaning": "Keçi boynuzu"
+  },
+  {
+    "word": "has",
+    "subword": "has",
+    "subwordIpa": "has",
+    "phoneticWriting": "has",
+    "phonemes": [
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/3437",
+    "meaning": "Sıkıştırmadan bir yerin içine alma; hareketten menetme; etrafını çevirme; vakfetme"
+  },
+  {
+    "word": "hasebiyle",
+    "subword": "ha-se-biy-le",
+    "subwordIpa": "ha-se-bij-le",
+    "phoneticWriting": "hasebijle",
+    "phonemes": [
+      "a",
+      "e",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/3447",
+    "meaning": "Yüzünden; dolayısıyla; bu nedenle"
+  },
+  {
+    "word": "havale",
+    "subword": "ha-va-le",
+    "subwordIpa": "ha-vaː-le",
+    "phoneticWriting": "havaːle",
+    "phonemes": [
+      "a",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/3532",
+    "meaning": "Yollama ödeyicisinin, para, değerli kağıtlar veya benzeri nesneleri, yollayıcı hesabına yollama alıcısına ödemek ve yollama alıcısının da bunları kendi adına teslim almak üzere yetkili kılındığı sözleşme."
+  },
+  {
+    "word": "hazine",
+    "subword": "ha-zi-ne",
+    "subwordIpa": "ha-ziː-ne",
+    "phoneticWriting": "haziːne",
+    "phonemes": [
+      "a",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/3621",
+    "meaning": "Devletten ayrı bir kişilik oluşturmamakla beraber, bir taraftan bütçenin uygulanmasına ilişkin işlemleri, diğer taraftan da kamu gelir ve giderlerinin zaman olarak uygunluğunu sağlayan merkezi örgüt; Maliye Bakanlığı ve maliye dairelerinden oluşan örgüt; devlet kasası."
+  },
+  {
+    "word": "hibe",
+    "subword": "hi-be",
+    "subwordIpa": "hi-be",
+    "phoneticWriting": "hibe",
+    "phonemes": [
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/3760",
+    "meaning": "Bağışlama"
+  },
+  {
+    "word": "hilkat",
+    "subword": "hil-kat",
+    "subwordIpa": "hiɫ-cɑt",
+    "phoneticWriting": "hiɫcɑt",
+    "phonemes": [
+      "i",
+      "ɑ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/3798",
+    "meaning": "Yaratılma; yaratılış; tabiat"
+  },
+  {
+    "word": "himaye",
+    "subword": "hi-ma-ye",
+    "subwordIpa": "hi-maː-je",
+    "phoneticWriting": "himaːje",
+    "phonemes": [
+      "i",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/3805",
+    "meaning": "Koruma; korunma; birine arka çıkma"
+  },
+  {
+    "word": "hüccet",
+    "subword": "hüc-cet",
+    "subwordIpa": "hyd͡ʒ-d͡ʒet",
+    "phoneticWriting": "hyd͡ʒd͡ʒet",
+    "phonemes": [
+      "y",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/3951",
+    "meaning": "Senet; delil; belge"
+  },
+  {
+    "word": "hüsnüniyet",
+    "subword": "hüs-nü-ni-yet",
+    "subwordIpa": "hys-ny-ni-jet",
+    "phoneticWriting": "hysnynijet",
+    "phonemes": [
+      "y",
+      "y",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/4003",
+    "meaning": "İyiniyet"
+  },
+  {
+    "word": "kabil",
+    "subword": "ka-bil",
+    "subwordIpa": "kaː-bil",
+    "phoneticWriting": "kaːbil",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/4840",
+    "meaning": "Kabul eden; kabul edici; olan; olabilir"
+  },
+  {
+    "word": "kabil",
+    "subword": "ka-bil",
+    "subwordIpa": "kaː-bil",
+    "phoneticWriting": "kaːbil",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/4840",
+    "meaning": "Kabul eden; kabul edici; olan; olabilir"
+  },
+  {
+    "word": "kabz",
+    "subword": "kabz",
+    "subwordIpa": "kab",
+    "phoneticWriting": "kab",
+    "phonemes": [
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/4856",
+    "meaning": "Alma; elde tutma; edinme"
+  },
+  {
+    "word": "kadastro",
+    "subword": "ka-dast-ro",
+    "subwordIpa": "ka-dast-ɾo",
+    "phoneticWriting": "kadastɾo",
+    "phonemes": [
+      "a",
+      "a",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/4859",
+    "meaning": "Arazilerin,arsaların yerini, alanını, sınırlarını ve sahiplerini belirtip plana bağlama işi;"
+  },
+  {
+    "word": "kâfi",
+    "subword": "kâfi",
+    "subwordIpa": "cɑː-fiː",
+    "phoneticWriting": "cɑːfiː",
+    "phonemes": [
+      "ɑ",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/4885",
+    "meaning": "Yeter; yeterli"
+  },
+  {
+    "word": "kaide",
+    "subword": "ka-i-de",
+    "subwordIpa": "ka-ːi-de",
+    "phoneticWriting": "kaːide",
+    "phonemes": [
+      "a",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/4914",
+    "meaning": "Kural; usul; ilke; prensip; esas; temel;yol; taban; ayaklık"
+  },
+  {
+    "word": "kaim",
+    "subword": "ka-im",
+    "subwordIpa": "ka-ːim",
+    "phoneticWriting": "kaːim",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/4918",
+    "meaning": "Başka bir şeyin ya da kişinin yerine geçen"
+  },
+  {
+    "word": "kaime",
+    "subword": "ka-i-me",
+    "subwordIpa": "ka-ːi-me",
+    "phoneticWriting": "kaːime",
+    "phonemes": [
+      "a",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/4919",
+    "meaning": "Kağıt para"
+  },
+  {
+    "word": "kanun",
+    "subword": "ka-nun",
+    "subwordIpa": "kaː-nun",
+    "phoneticWriting": "kaːnun",
+    "phonemes": [
+      "a",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/5014",
+    "meaning": "Anayasanın yetkili kıldığı organ tarafından bir şekilde ve bu ad altında tespit edilmiş bulunangenel, sürekli ve soyut hukuk kurallarıdır."
+  },
+  {
+    "word": "kanun",
+    "subword": "ka-nun",
+    "subwordIpa": "kaː-nun",
+    "phoneticWriting": "kaːnun",
+    "phonemes": [
+      "a",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/5014",
+    "meaning": "Anayasanın yetkili kıldığı organ tarafından bir şekilde ve bu ad altında tespit edilmiş bulunangenel, sürekli ve soyut hukuk kurallarıdır."
+  },
+  {
+    "word": "karabet",
+    "subword": "ka-ra-bet",
+    "subwordIpa": "ka-ɾaː-bet",
+    "phoneticWriting": "kaɾaːbet",
+    "phonemes": [
+      "a",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/5042",
+    "meaning": "Yakınlık"
+  },
+  {
+    "word": "karye",
+    "subword": "kar-ye",
+    "subwordIpa": "kaɾ-je",
+    "phoneticWriting": "kaɾje",
+    "phonemes": [
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/5085",
+    "meaning": "Köy"
+  },
+  {
+    "word": "kast",
+    "subword": "kast",
+    "subwordIpa": "kast",
+    "phoneticWriting": "kast",
+    "phonemes": [
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/5107",
+    "meaning": "Kanunun suç saydığı bir eylemi ve onu meydana getirecek hareketin sonuçlarını bilerek ve isteyerek işlemek iradesi"
+  },
+  {
+    "word": "kavi",
+    "subword": "ka-vi",
+    "subwordIpa": "ka-viː",
+    "phoneticWriting": "kaviː",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/5153",
+    "meaning": "Kuvvetli"
+  },
+  {
+    "word": "kefalet",
+    "subword": "ke-fa-let",
+    "subwordIpa": "ce-faː-let",
+    "phoneticWriting": "cefaːlet",
+    "phonemes": [
+      "e",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/5200",
+    "meaning": "Kefil olma; kefillik, bir kimsenin alacaklısına karşı, o kimsenin borcunun yerine getirilmesini sağlamak yükümlülüğü altına girmek."
+  },
+  {
+    "word": "kerhen",
+    "subword": "ker-hen",
+    "subwordIpa": "cɛɾ-hɛn",
+    "phoneticWriting": "cɛɾhɛn",
+    "phonemes": [
+      "ɛ",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/5285",
+    "meaning": "İğrenerek; istemeyerek; hoşlanmayarak; zorla; zoraki"
+  },
+  {
+    "word": "keyfiyet",
+    "subword": "key-fi-yet",
+    "subwordIpa": "cej-fi-jet",
+    "phoneticWriting": "cejfijet",
+    "phonemes": [
+      "e",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/5346",
+    "meaning": "İş; durum; mesele"
+  },
+  {
+    "word": "külfet",
+    "subword": "kül-fet",
+    "subwordIpa": "cyɫ-fet",
+    "phoneticWriting": "cyɫfet",
+    "phonemes": [
+      "y",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/5712",
+    "meaning": "Sıkıntı; zorluk; yük; zahmet; eziyet"
+  },
+  {
+    "word": "küsur",
+    "subword": "kü-sur",
+    "subwordIpa": "ku-suɾ",
+    "phoneticWriting": "kusuɾ",
+    "phonemes": [
+      "u",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/5758",
+    "meaning": "Artık"
+  },
+  {
+    "word": "kütüb",
+    "subword": "kü-tüb",
+    "subwordIpa": "cy-tyb",
+    "phoneticWriting": "cytyb",
+    "phonemes": [
+      "y",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/5766",
+    "meaning": "Kitaplar"
+  },
+  {
+    "word": "laakal",
+    "subword": "la-a-kal",
+    "subwordIpa": "lɑ-ːa-caːl",
+    "phoneticWriting": "lɑːacaːl",
+    "phonemes": [
+      "ɑ",
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/5771",
+    "meaning": "en az"
+  },
+  {
+    "word": "layiha",
+    "subword": "la-yi-ha",
+    "subwordIpa": "lɑː-ji-ha",
+    "phoneticWriting": "lɑːjiha",
+    "phonemes": [
+      "ɑ",
+      "i",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/5865",
+    "meaning": "Dilekçe; yazılı dilek; istek; tasarı"
+  },
+  {
+    "word": "lokavt",
+    "subword": "lo-kavt",
+    "subwordIpa": "loː-kavt",
+    "phoneticWriting": "loːkavt",
+    "phonemes": [
+      "o",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/5985",
+    "meaning": "İşveren tarafından kendi teşebbüsüyle veya bir işveren kuruluşun kararına uyarak işçilerin topluca işten uzaklaştırılmasıdır"
+  },
+  {
+    "word": "mafevk",
+    "subword": "ma-fevk",
+    "subwordIpa": "maː-fevk",
+    "phoneticWriting": "maːfevk",
+    "phonemes": [
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6060",
+    "meaning": "Üst"
+  },
+  {
+    "word": "mahdut",
+    "subword": "mah-dut",
+    "subwordIpa": "mah-dut",
+    "phoneticWriting": "mahdut",
+    "phonemes": [
+      "a",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6090",
+    "meaning": "Sınırlanmış; tahdit edilmiş"
+  },
+  {
+    "word": "mahfuz",
+    "subword": "mah-fuz",
+    "subwordIpa": "mah-fuz",
+    "phoneticWriting": "mahfuz",
+    "phonemes": [
+      "a",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6094",
+    "meaning": "Saklı; gizli"
+  },
+  {
+    "word": "mahiyet",
+    "subword": "ma-hi-yet",
+    "subwordIpa": "maː-hi-jet",
+    "phoneticWriting": "maːhijet",
+    "phonemes": [
+      "a",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6101",
+    "meaning": "Nitelik; bir şeyin aslı, esası, içyüzü"
+  },
+  {
+    "word": "mahrum",
+    "subword": "mah-rum",
+    "subwordIpa": "mah-ɾum",
+    "phoneticWriting": "mahɾum",
+    "phonemes": [
+      "a",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6128",
+    "meaning": "Yoksun; dilediğini, istediğini elde edemeyen"
+  },
+  {
+    "word": "mahsup",
+    "subword": "mah-sup",
+    "subwordIpa": "mah-sup",
+    "phoneticWriting": "mahsup",
+    "phonemes": [
+      "a",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6136",
+    "meaning": "Hesap edilmiş; hesaba dahil edilmiş"
+  },
+  {
+    "word": "mahsus",
+    "subword": "mah-sus",
+    "subwordIpa": "mah-sus",
+    "phoneticWriting": "mahsus",
+    "phonemes": [
+      "a",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6138",
+    "meaning": "Özgü; özel; müstakil; özel olarak"
+  },
+  {
+    "word": "maktu",
+    "subword": "mak-tu",
+    "subwordIpa": "mak-tuː",
+    "phoneticWriting": "maktuː",
+    "phonemes": [
+      "a",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6202",
+    "meaning": "Götürü; belirli; miktarda; değeri biçilmiş; pazarlıksız"
+  },
+  {
+    "word": "makule",
+    "subword": "ma-ku-le",
+    "subwordIpa": "ma-kuː-le",
+    "phoneticWriting": "makuːle",
+    "phonemes": [
+      "a",
+      "u",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6207",
+    "meaning": "Çeşit; tür; soy"
+  },
+  {
+    "word": "malik",
+    "subword": "ma-lik",
+    "subwordIpa": "maː-lik",
+    "phoneticWriting": "maːlik",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6216",
+    "meaning": "Mülkiyet hakkı sahibi; bir şeye sahip olan kişi."
+  },
+  {
+    "word": "malik",
+    "subword": "ma-lik",
+    "subwordIpa": "maː-lik",
+    "phoneticWriting": "maːlik",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6216",
+    "meaning": "Mülkiyet hakkı sahibi; bir şeye sahip olan kişi."
+  },
+  {
+    "word": "mamelek",
+    "subword": "ma-me-lek",
+    "subwordIpa": "maː-me-lek",
+    "phoneticWriting": "maːmelek",
+    "phonemes": [
+      "a",
+      "e",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6233",
+    "meaning": "Malvarlığı"
+  },
+  {
+    "word": "maruz",
+    "subword": "ma-ruz",
+    "subwordIpa": "maː-ɾuz",
+    "phoneticWriting": "maːɾuz",
+    "phonemes": [
+      "a",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6293",
+    "meaning": "Arz olunmuş; bir şeyin karşısında etki altında bulunan"
+  },
+  {
+    "word": "masarif",
+    "subword": "ma-sa-rif",
+    "subwordIpa": "ma-saː-ɾif",
+    "phoneticWriting": "masaːɾif",
+    "phonemes": [
+      "a",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6298",
+    "meaning": "Masraflar; giderler"
+  },
+  {
+    "word": "maslahat",
+    "subword": "mas-la-hat",
+    "subwordIpa": "mas-ɫa-hat",
+    "phoneticWriting": "masɫahat",
+    "phonemes": [
+      "a",
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6303",
+    "meaning": "Emir; buyruk; madde; husus; dirlik düzenlik; iş"
+  },
+  {
+    "word": "matbu",
+    "subword": "mat-bu",
+    "subwordIpa": "mat-buː",
+    "phoneticWriting": "matbuː",
+    "phonemes": [
+      "a",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6341",
+    "meaning": "Basılı; basılmış"
+  },
+  {
+    "word": "matrah",
+    "subword": "mat-rah",
+    "subwordIpa": "mat-ɾah",
+    "phoneticWriting": "matɾah",
+    "phonemes": [
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6351",
+    "meaning": "Bir verginin miktarını belirtmek için esas alınan değer."
+  },
+  {
+    "word": "matuf",
+    "subword": "ma-tuf",
+    "subwordIpa": "maː-tuf",
+    "phoneticWriting": "maːtuf",
+    "phonemes": [
+      "a",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6358",
+    "meaning": "Yöneltilmiş; yönelik"
+  },
+  {
+    "word": "mazarrat",
+    "subword": "ma-zar-rat",
+    "subwordIpa": "ma-zaɾ-ɾat",
+    "phoneticWriting": "mazaɾɾat",
+    "phonemes": [
+      "a",
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6376",
+    "meaning": "Zarar; zararlar; zarar verici; zarar verme"
+  },
+  {
+    "word": "mazbata",
+    "subword": "maz-ba-ta",
+    "subwordIpa": "maz-ba-ta",
+    "phoneticWriting": "mazbata",
+    "phonemes": [
+      "a",
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6377",
+    "meaning": "Tutanak"
+  },
+  {
+    "word": "mazhar",
+    "subword": "maz-har",
+    "subwordIpa": "maz-haɾ",
+    "phoneticWriting": "mazhaɾ",
+    "phonemes": [
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6381",
+    "meaning": "Erişen; bir şeyden yararlanma; ulaşma"
+  },
+  {
+    "word": "maznun",
+    "subword": "maz-nun",
+    "subwordIpa": "maz-nuːn",
+    "phoneticWriting": "maznuːn",
+    "phonemes": [
+      "a",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6390",
+    "meaning": "Zanlı; sanık"
+  },
+  {
+    "word": "mebde",
+    "subword": "meb-de",
+    "subwordIpa": "meb-de",
+    "phoneticWriting": "mebde",
+    "phonemes": [
+      "e",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6404",
+    "meaning": "Evvel;başlangıç; prensip; ilk unsur"
+  },
+  {
+    "word": "meçhul",
+    "subword": "meç-hul",
+    "subwordIpa": "met͡ʃ-huːːl",
+    "phoneticWriting": "met͡ʃhuːːl",
+    "phonemes": [
+      "e",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6454",
+    "meaning": "Bilinmeyen; tanınmayan"
+  },
+  {
+    "word": "mecra",
+    "subword": "mec-ra",
+    "subwordIpa": "med͡ʒ-ɾaː",
+    "phoneticWriting": "med͡ʒɾaː",
+    "phonemes": [
+      "e",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6445",
+    "meaning": "Bir işin gidiş, oluş yolu; akarsu yatağı; su yolu"
+  },
+  {
+    "word": "medar",
+    "subword": "me-dar",
+    "subwordIpa": "me-daːɾ",
+    "phoneticWriting": "medaːɾ",
+    "phonemes": [
+      "e",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6458",
+    "meaning": "Dayanak; yardım; elverişli"
+  },
+  {
+    "word": "mefruşat",
+    "subword": "mef-ru-şat",
+    "subwordIpa": "mef-ɾuː-ʃaːt",
+    "phoneticWriting": "mefɾuːʃaːt",
+    "phonemes": [
+      "e",
+      "u",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6486",
+    "meaning": "Döşeme; ev eşyası."
+  },
+  {
+    "word": "mehil",
+    "subword": "me-hil",
+    "subwordIpa": "me-hil",
+    "phoneticWriting": "mehil",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6501",
+    "meaning": "Süre; önel"
+  },
+  {
+    "word": "melhuz",
+    "subword": "mel-huz",
+    "subwordIpa": "mɛɫ-huːz",
+    "phoneticWriting": "mɛɫhuːz",
+    "phonemes": [
+      "ɛ",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6555",
+    "meaning": "Muhtemel; gerekebilecek; umulur; beklenir"
+  },
+  {
+    "word": "memalik",
+    "subword": "me-ma-lik",
+    "subwordIpa": "me-maː-lik",
+    "phoneticWriting": "memaːlik",
+    "phonemes": [
+      "e",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6568",
+    "meaning": "Ülke"
+  },
+  {
+    "word": "memnu",
+    "subword": "mem-nu",
+    "subwordIpa": "mem-nuː",
+    "phoneticWriting": "memnuː",
+    "phonemes": [
+      "e",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6580",
+    "meaning": "Menedilmiş; yasaklanmış; yasak"
+  },
+  {
+    "word": "memur",
+    "subword": "me-mur",
+    "subwordIpa": "meː-muɾ",
+    "phoneticWriting": "meːmuɾ",
+    "phonemes": [
+      "e",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6586",
+    "meaning": "Kamu hizmetlerinin gerektirdiği asli ve sürekli görevleri yapmak üzere atanmış olan kişilerdir."
+  },
+  {
+    "word": "men",
+    "subword": "men",
+    "subwordIpa": "mɛn",
+    "phoneticWriting": "mɛn",
+    "phonemes": [
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6591",
+    "meaning": "Yasak etme; bırakmama; durdurma; esirgeme; vermeme; önleme"
+  },
+  {
+    "word": "menkul",
+    "subword": "men-kul",
+    "subwordIpa": "men-cuːl",
+    "phoneticWriting": "mencuːl",
+    "phonemes": [
+      "e",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6627",
+    "meaning": "Taşınır; taşınır mal"
+  },
+  {
+    "word": "menşe",
+    "subword": "men-şe",
+    "subwordIpa": "meŋ-ʃeː",
+    "phoneticWriting": "meŋʃeː",
+    "phonemes": [
+      "e",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6636",
+    "meaning": "Kaynak; kök; başlangıç"
+  },
+  {
+    "word": "mera",
+    "subword": "me-ra",
+    "subwordIpa": "me-ɾa",
+    "phoneticWriting": "meɾa",
+    "phonemes": [
+      "e",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6645",
+    "meaning": "Bir veya birkaç köy veya beldeye ayrı ayrı veya ortak olarak,hayvanları otlatmaları ve otundan yararlanmaları için tahsis edilen veya öteden beri bu amaçla kullanılagelen arazi"
+  },
+  {
+    "word": "merbut",
+    "subword": "mer-but",
+    "subwordIpa": "mɛɾ-but",
+    "phoneticWriting": "mɛɾbut",
+    "phonemes": [
+      "ɛ",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6652",
+    "meaning": "Bağlı"
+  },
+  {
+    "word": "meskûn",
+    "subword": "meskûn",
+    "subwordIpa": "mes-kuːn",
+    "phoneticWriting": "meskuːn",
+    "phonemes": [
+      "e",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6715",
+    "meaning": "İçinde insan oturan; oturulan; yerleşilmiş"
+  },
+  {
+    "word": "mesmu",
+    "subword": "mes-mu",
+    "subwordIpa": "mes-muː",
+    "phoneticWriting": "mesmuː",
+    "phonemes": [
+      "e",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6719",
+    "meaning": "Dinlenen; dinlenebilir; karar için incelenebilir"
+  },
+  {
+    "word": "meşrut",
+    "subword": "meş-rut",
+    "subwordIpa": "meʃ-ɾuːt",
+    "phoneticWriting": "meʃɾuːt",
+    "phonemes": [
+      "e",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6753",
+    "meaning": "Şart koşulmuş; şartlı; şarta bağlı"
+  },
+  {
+    "word": "mesul",
+    "subword": "me-sul",
+    "subwordIpa": "mɛ-suːːl",
+    "phoneticWriting": "mɛsuːːl",
+    "phonemes": [
+      "ɛ",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6731",
+    "meaning": "Sorumlu"
+  },
+  {
+    "word": "mevkuf",
+    "subword": "mev-kuf",
+    "subwordIpa": "mev-kuːf",
+    "phoneticWriting": "mevkuːf",
+    "phonemes": [
+      "e",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6803",
+    "meaning": "Vakfedilen şey"
+  },
+  {
+    "word": "mezkûr",
+    "subword": "mezkûr",
+    "subwordIpa": "mez-cuːːɾ",
+    "phoneticWriting": "mezcuːːɾ",
+    "phonemes": [
+      "e",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6861",
+    "meaning": "Zikredilen; sözü edilen; anılan"
+  },
+  {
+    "word": "mezun",
+    "subword": "me-zun",
+    "subwordIpa": "meː-zun",
+    "phoneticWriting": "meːzun",
+    "phonemes": [
+      "e",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6865",
+    "meaning": "İzinli; yetkili; bir okulu (kursu) bitiren kişi"
+  },
+  {
+    "word": "minval",
+    "subword": "min-val",
+    "subwordIpa": "min-vɑːl",
+    "phoneticWriting": "minvɑːl",
+    "phonemes": [
+      "i",
+      "ɑ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6951",
+    "meaning": "Şekil"
+  },
+  {
+    "word": "muaccel",
+    "subword": "mu-ac-cel",
+    "subwordIpa": "mu-ad͡ʒ-d͡ʒɛl",
+    "phoneticWriting": "muad͡ʒd͡ʒɛl",
+    "phonemes": [
+      "u",
+      "a",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7008",
+    "meaning": "İvedi; peşin; vadesi (eceli) gelmiş; ödenmesi gereken hale gelmiş."
+  },
+  {
+    "word": "muadil",
+    "subword": "mu-a-dil",
+    "subwordIpa": "mu-aː-dil",
+    "phoneticWriting": "muaːdil",
+    "phonemes": [
+      "u",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7013",
+    "meaning": "Denk; eşit"
+  },
+  {
+    "word": "muafiyet",
+    "subword": "mu-a-fi-yet",
+    "subwordIpa": "mu-aː-fi-jet",
+    "phoneticWriting": "muaːfijet",
+    "phonemes": [
+      "u",
+      "a",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7015",
+    "meaning": "Affedilmiş olma; bağışıklık; yükümlülük dışında tutulmuş"
+  },
+  {
+    "word": "muahhar",
+    "subword": "mu-ah-har",
+    "subwordIpa": "mu-ah-haːɾ",
+    "phoneticWriting": "muahhaːɾ",
+    "phonemes": [
+      "u",
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7018",
+    "meaning": "Sonraya bırakılmış; tehir edilmiş; sonraki"
+  },
+  {
+    "word": "muallak",
+    "subword": "mu-al-lak",
+    "subwordIpa": "mu-aɫ-lɑk",
+    "phoneticWriting": "muaɫlɑk",
+    "phonemes": [
+      "u",
+      "a",
+      "ɑ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7022",
+    "meaning": "Havada boşta duran; sürüncemede kalmış"
+  },
+  {
+    "word": "muamelat",
+    "subword": "mu-a-me-lat",
+    "subwordIpa": "mu-aː-mɛ-lɑːt",
+    "phoneticWriting": "muaːmɛlɑːt",
+    "phonemes": [
+      "u",
+      "a",
+      "ɛ",
+      "ɑ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7028",
+    "meaning": "Muameleler; işlemler"
+  },
+  {
+    "word": "muavin",
+    "subword": "mu-a-vin",
+    "subwordIpa": "mu-aː-vin",
+    "phoneticWriting": "muaːvin",
+    "phonemes": [
+      "u",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7043",
+    "meaning": "Yardımcı"
+  },
+  {
+    "word": "muayyen",
+    "subword": "mu-ay-yen",
+    "subwordIpa": "mu-aj-jɛn",
+    "phoneticWriting": "muajjɛn",
+    "phonemes": [
+      "u",
+      "a",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7048",
+    "meaning": "Belirli; belli; saptanmış"
+  },
+  {
+    "word": "mübayaa",
+    "subword": "mü-ba-ya-a",
+    "subwordIpa": "my-baː-ja-a",
+    "phoneticWriting": "mybaːjaa",
+    "phonemes": [
+      "y",
+      "a",
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7329",
+    "meaning": "Satın alma"
+  },
+  {
+    "word": "mübeyyin",
+    "subword": "mü-bey-yin",
+    "subwordIpa": "my-bej-jin",
+    "phoneticWriting": "mybejjin",
+    "phonemes": [
+      "y",
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7337",
+    "meaning": "Gösterir"
+  },
+  {
+    "word": "mücbir",
+    "subword": "müc-bir",
+    "subwordIpa": "myd͡ʒ-biɾ",
+    "phoneticWriting": "myd͡ʒbiɾ",
+    "phonemes": [
+      "y",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7346",
+    "meaning": "Zorlayıcı; zorlayan"
+  },
+  {
+    "word": "mucibince",
+    "subword": "mu-ci-bin-ce",
+    "subwordIpa": "muː-d͡ʒi-bin-d͡ʒe",
+    "phoneticWriting": "muːd͡ʒibind͡ʒe",
+    "phonemes": [
+      "u",
+      "i",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7052",
+    "meaning": "Gereğince; uyarınca"
+  },
+  {
+    "word": "mucip",
+    "subword": "mu-cip",
+    "subwordIpa": "muː-d͡ʒip",
+    "phoneticWriting": "muːd͡ʒip",
+    "phonemes": [
+      "u",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7054",
+    "meaning": "Gerektiren; gerektirici; icapcı; öneri sahibi"
+  },
+  {
+    "word": "mücmel",
+    "subword": "müc-mel",
+    "subwordIpa": "myd͡ʒ-mɛl",
+    "phoneticWriting": "myd͡ʒmɛl",
+    "phonemes": [
+      "y",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7357",
+    "meaning": "Kısa ve öz olarak anlatılmış; açıklanmadıkça ne anlama geldiği anlaşılamayan ibare"
+  },
+  {
+    "word": "müdafi",
+    "subword": "mü-da-fi",
+    "subwordIpa": "my-daː-fiː",
+    "phoneticWriting": "mydaːfiː",
+    "phonemes": [
+      "y",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7365",
+    "meaning": "Savunucu; savunan"
+  },
+  {
+    "word": "müddea",
+    "subword": "müd-de-a",
+    "subwordIpa": "myd-de-aː",
+    "phoneticWriting": "myddeaː",
+    "phonemes": [
+      "y",
+      "e",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7374",
+    "meaning": "Davacının dava ettiği şey; dava konusu"
+  },
+  {
+    "word": "müddei",
+    "subword": "müd-de-i",
+    "subwordIpa": "myd-dɛ-iː",
+    "phoneticWriting": "myddɛiː",
+    "phonemes": [
+      "y",
+      "ɛ",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7375",
+    "meaning": "Davacı; iddia eden kişi"
+  },
+  {
+    "word": "müebbet",
+    "subword": "mü-eb-bet",
+    "subwordIpa": "my-eb-bet",
+    "phoneticWriting": "myebbet",
+    "phonemes": [
+      "y",
+      "e",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7388",
+    "meaning": "Sonsuz; süresiz"
+  },
+  {
+    "word": "müeccel",
+    "subword": "mü-ec-cel",
+    "subwordIpa": "my-ed͡ʒ-d͡ʒɛl",
+    "phoneticWriting": "myed͡ʒd͡ʒɛl",
+    "phonemes": [
+      "y",
+      "e",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7389",
+    "meaning": "Vadeli; vadeye bağlanmış; zamanı henüz gelmemiş"
+  },
+  {
+    "word": "müesses",
+    "subword": "mü-es-ses",
+    "subwordIpa": "my-es-ses",
+    "phoneticWriting": "myesses",
+    "phonemes": [
+      "y",
+      "e",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7395",
+    "meaning": "Kurulmuş; kurulu; tesis edilmiş"
+  },
+  {
+    "word": "müessir",
+    "subword": "mü-es-sir",
+    "subwordIpa": "my-es-siɾ",
+    "phoneticWriting": "myessiɾ",
+    "phonemes": [
+      "y",
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7398",
+    "meaning": "Tesir eden; etkili; tesirli"
+  },
+  {
+    "word": "müeyyide",
+    "subword": "mü-ey-yi-de",
+    "subwordIpa": "my-ej-ji-de",
+    "phoneticWriting": "myejjide",
+    "phonemes": [
+      "y",
+      "e",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7403",
+    "meaning": "Yaptırım; destek; hukuk kurallarının uygulanmasını sağlamak ve zorlamak için yasalara konulan hükümler; bir kuralın emir ve yasaklarına uyulmadığı zaman karşılaşılacak olan tepkidir."
+  },
+  {
+    "word": "müflis",
+    "subword": "müf-lis",
+    "subwordIpa": "myf-lis",
+    "phoneticWriting": "myflis",
+    "phonemes": [
+      "y",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7413",
+    "meaning": "İflas eden kişi; mahkemelerce iflasına karar verilen kimsedir"
+  },
+  {
+    "word": "mugayir",
+    "subword": "mu-ga-yir",
+    "subwordIpa": "mu-ɡaː-jiɾ",
+    "phoneticWriting": "muɡaːjiɾ",
+    "phonemes": [
+      "u",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7065",
+    "meaning": "Aykırı; zıt; ters"
+  },
+  {
+    "word": "muhakeme",
+    "subword": "mu-ha-ke-me",
+    "subwordIpa": "mu-haː-ce-me",
+    "phoneticWriting": "muhaːceme",
+    "phonemes": [
+      "u",
+      "a",
+      "e",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7085",
+    "meaning": "Yargılama"
+  },
+  {
+    "word": "muhammen",
+    "subword": "mu-ham-men",
+    "subwordIpa": "mu-ham-mɛn",
+    "phoneticWriting": "muhammɛn",
+    "phonemes": [
+      "u",
+      "a",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7096",
+    "meaning": "Tahmin edilen"
+  },
+  {
+    "word": "muharrer",
+    "subword": "mu-har-rer",
+    "subwordIpa": "mu-haɾ-ɾɛɾ",
+    "phoneticWriting": "muhaɾɾɛɾ",
+    "phonemes": [
+      "u",
+      "a",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7105",
+    "meaning": "Yazılı; yazılmış"
+  },
+  {
+    "word": "muhatara",
+    "subword": "mu-ha-ta-ra",
+    "subwordIpa": "mu-haː-ta-ɾa",
+    "phoneticWriting": "muhaːtaɾa",
+    "phonemes": [
+      "u",
+      "a",
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7121",
+    "meaning": "Riziko; zarara uğrama tehlikesi; tehlike; zarar ve ziyan"
+  },
+  {
+    "word": "muhik",
+    "subword": "mu-hik",
+    "subwordIpa": "mu-hik",
+    "phoneticWriting": "muhik",
+    "phonemes": [
+      "u",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7132",
+    "meaning": "Haklı; geçerli; uygun; gerekli"
+  },
+  {
+    "word": "muhtar",
+    "subword": "muh-tar",
+    "subwordIpa": "muh-taɾ",
+    "phoneticWriting": "muhtaɾ",
+    "phonemes": [
+      "u",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7143",
+    "meaning": "Özerk; bağımsız; köyde devlet işlerini gören köyün başı"
+  },
+  {
+    "word": "muhtelif",
+    "subword": "muh-te-lif",
+    "subwordIpa": "muh-te-lif",
+    "phoneticWriting": "muhtelif",
+    "phonemes": [
+      "u",
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7151",
+    "meaning": "Çeşitli; değişik; farklı"
+  },
+  {
+    "word": "mühür",
+    "subword": "mü-hür",
+    "subwordIpa": "my-hyɾ",
+    "phoneticWriting": "myhyɾ",
+    "phonemes": [
+      "y",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7434",
+    "meaning": "Bazı kişi ve kurumların, yaptıkları işlemi veya koruma altına aldıkları eşyayı belgelendirmek için kullandıkları kazılı damga vb. araç."
+  },
+  {
+    "word": "mukabil",
+    "subword": "mu-ka-bil",
+    "subwordIpa": "mu-kaː-bil",
+    "phoneticWriting": "mukaːbil",
+    "phonemes": [
+      "u",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7164",
+    "meaning": "Karşılık; karşı"
+  },
+  {
+    "word": "mukaddem",
+    "subword": "mu-kad-dem",
+    "subwordIpa": "mu-kad-dɛm",
+    "phoneticWriting": "mukaddɛm",
+    "phonemes": [
+      "u",
+      "a",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7165",
+    "meaning": "Önce; önce gelen; daha öncede bulunan"
+  },
+  {
+    "word": "mukadderat",
+    "subword": "mu-kad-de-rat",
+    "subwordIpa": "mu-kad-de-ɾaːt",
+    "phoneticWriting": "mukaddeɾaːt",
+    "phonemes": [
+      "u",
+      "a",
+      "e",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7169",
+    "meaning": "Kader; yazgı; ölçülebilen,sayılabilen şeyler"
+  },
+  {
+    "word": "mukarrer",
+    "subword": "mu-kar-rer",
+    "subwordIpa": "mu-kaɾ-ɾɛɾ",
+    "phoneticWriting": "mukaɾɾɛɾ",
+    "phonemes": [
+      "u",
+      "a",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7177",
+    "meaning": "Kararlaştırılmış"
+  },
+  {
+    "word": "mukarrerat",
+    "subword": "mu-kar-re-rat",
+    "subwordIpa": "mu-kaɾ-ɾe-ɾaːt",
+    "phoneticWriting": "mukaɾɾeɾaːt",
+    "phonemes": [
+      "u",
+      "a",
+      "e",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7178",
+    "meaning": "Kararlar; kararlaştırılan şeyler"
+  },
+  {
+    "word": "mukataa",
+    "subword": "mu-ka-ta-a",
+    "subwordIpa": "mu-kaː-ta-aː",
+    "phoneticWriting": "mukaːtaaː",
+    "phonemes": [
+      "u",
+      "a",
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7185",
+    "meaning": "Arazinin belli bir ücret karşılığında kiraya verilmesi; bağ,bahçe,arsa durumuna getirilen ekim toprağı için verilen vergi"
+  },
+  {
+    "word": "mukavele",
+    "subword": "mu-ka-ve-le",
+    "subwordIpa": "mu-kaː-ve-le",
+    "phoneticWriting": "mukaːvele",
+    "phonemes": [
+      "u",
+      "a",
+      "e",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7187",
+    "meaning": "Sözleşme; akit; bağıt"
+  },
+  {
+    "word": "mukayyet",
+    "subword": "mu-kay-yet",
+    "subwordIpa": "mu-kaj-jet",
+    "phoneticWriting": "mukajjet",
+    "phonemes": [
+      "u",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7196",
+    "meaning": "Kayıtlı; sınırlı; kaydolunmuş; deftere geçirilmiş"
+  },
+  {
+    "word": "mükellef",
+    "subword": "mü-kel-lef",
+    "subwordIpa": "my-ceɫ-lef",
+    "phoneticWriting": "myceɫlef",
+    "phonemes": [
+      "y",
+      "e",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7443",
+    "meaning": "Yükümlü; ödevli; görevli"
+  },
+  {
+    "word": "müktesip",
+    "subword": "mük-te-sip",
+    "subwordIpa": "myk-te-sip",
+    "phoneticWriting": "myktesip",
+    "phonemes": [
+      "y",
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7460",
+    "meaning": "İktisap eden; kazanan; edinen"
+  },
+  {
+    "word": "mülki",
+    "subword": "mül-ki",
+    "subwordIpa": "myɫ-ciː",
+    "phoneticWriting": "myɫciː",
+    "phonemes": [
+      "y",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7474",
+    "meaning": "Ülke ile ilgili; ülke yönetimine ilişkin"
+  },
+  {
+    "word": "mümasil",
+    "subword": "mü-ma-sil",
+    "subwordIpa": "my-maː-sil",
+    "phoneticWriting": "mymaːsil",
+    "phonemes": [
+      "y",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7483",
+    "meaning": "Örnek; misâl; benzeyen; andıran"
+  },
+  {
+    "word": "mümessil",
+    "subword": "mü-mes-sil",
+    "subwordIpa": "my-mes-sil",
+    "phoneticWriting": "mymessil",
+    "phonemes": [
+      "y",
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7485",
+    "meaning": "Temsil eden; temsilci"
+  },
+  {
+    "word": "mümeyyiz",
+    "subword": "mü-mey-yiz",
+    "subwordIpa": "my-mej-jiz",
+    "phoneticWriting": "mymejjiz",
+    "phonemes": [
+      "y",
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7486",
+    "meaning": "Sezgin; temyiz eden; iyiyi kötüden ayırma yeteneğine (temyiz gücüne) sahip kimse."
+  },
+  {
+    "word": "mümteni",
+    "subword": "müm-te-ni",
+    "subwordIpa": "mym-te-niː",
+    "phoneticWriting": "mymteniː",
+    "phonemes": [
+      "y",
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7495",
+    "meaning": "Çekinen; imtina eden; olamaz;"
+  },
+  {
+    "word": "müncer",
+    "subword": "mün-cer",
+    "subwordIpa": "myn-d͡ʒɛɾ",
+    "phoneticWriting": "mynd͡ʒɛɾ",
+    "phonemes": [
+      "y",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7508",
+    "meaning": "Sonuçlanan; şu veya bu sonuca varan"
+  },
+  {
+    "word": "münderecat",
+    "subword": "mün-de-re-cat",
+    "subwordIpa": "myn-de-ɾe-d͡ʒaːt",
+    "phoneticWriting": "myndeɾed͡ʒaːt",
+    "phonemes": [
+      "y",
+      "e",
+      "e",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7511",
+    "meaning": "İçerik; kapsam; içindekiler"
+  },
+  {
+    "word": "münferiden",
+    "subword": "mün-fe-ri-den",
+    "subwordIpa": "myn-fe-ɾi-den",
+    "phoneticWriting": "mynfeɾiden",
+    "phonemes": [
+      "y",
+      "e",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7517",
+    "meaning": "Tek tek; ayrı ayrı; tek başına"
+  },
+  {
+    "word": "münfesih",
+    "subword": "mün-fe-sih",
+    "subwordIpa": "myn-fe-sih",
+    "phoneticWriting": "mynfesih",
+    "phonemes": [
+      "y",
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7519",
+    "meaning": "İnfisah etmiş; bozulmuş; dağılmış"
+  },
+  {
+    "word": "münhal",
+    "subword": "mün-hal",
+    "subwordIpa": "myn-haːl",
+    "phoneticWriting": "mynhaːl",
+    "phonemes": [
+      "y",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/13286",
+    "meaning": "boş, görevlisi bulunmayan"
+  },
+  {
+    "word": "münhasır",
+    "subword": "mün-ha-sır",
+    "subwordIpa": "myn-ha-sɯɾ",
+    "phoneticWriting": "mynhasɯɾ",
+    "phonemes": [
+      "y",
+      "a",
+      "ɯ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7521",
+    "meaning": "..ye özgü; ..ye ayrılmış; ..ye mahsus; sınırlanmış; ayrılmış"
+  },
+  {
+    "word": "münkir",
+    "subword": "mün-kir",
+    "subwordIpa": "myn-ciɾ",
+    "phoneticWriting": "mynciɾ",
+    "phonemes": [
+      "y",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7531",
+    "meaning": "İnkar eden"
+  },
+  {
+    "word": "müntakil",
+    "subword": "mün-ta-kil",
+    "subwordIpa": "myn-ta-cil",
+    "phoneticWriting": "myntacil",
+    "phonemes": [
+      "y",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7534",
+    "meaning": "İntikal eden; geçen"
+  },
+  {
+    "word": "muntazır",
+    "subword": "mun-ta-zır",
+    "subwordIpa": "mun-ta-zɯɾ",
+    "phoneticWriting": "muntazɯɾ",
+    "phonemes": [
+      "u",
+      "a",
+      "ɯ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7215",
+    "meaning": "Bekleyen; gözetleyen"
+  },
+  {
+    "word": "müntehap",
+    "subword": "mün-te-hap",
+    "subwordIpa": "myn-te-hap",
+    "phoneticWriting": "myntehap",
+    "phonemes": [
+      "y",
+      "e",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7537",
+    "meaning": "şeçilen,seçilmiş bulunan"
+  },
+  {
+    "word": "murakabe",
+    "subword": "mu-ra-ka-be",
+    "subwordIpa": "mu-ɾaː-ka-be",
+    "phoneticWriting": "muɾaːkabe",
+    "phonemes": [
+      "u",
+      "a",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7224",
+    "meaning": "Denetleme; kontrol; gözetme"
+  },
+  {
+    "word": "mürettep",
+    "subword": "mü-ret-tep",
+    "subwordIpa": "my-ɾet-tep",
+    "phoneticWriting": "myɾettep",
+    "phonemes": [
+      "y",
+      "e",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7556",
+    "meaning": "Tertip edilmiş; düzenlenmiş"
+  },
+  {
+    "word": "mürtefi",
+    "subword": "mür-te-fi",
+    "subwordIpa": "myɾ-te-fiː",
+    "phoneticWriting": "myɾtefiː",
+    "phonemes": [
+      "y",
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7569",
+    "meaning": "Kaldırma kaldırılmış"
+  },
+  {
+    "word": "musaddak",
+    "subword": "mu-sad-dak",
+    "subwordIpa": "mu-sad-dak",
+    "phoneticWriting": "musaddak",
+    "phonemes": [
+      "u",
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7232",
+    "meaning": "Tasdikli; onaylı"
+  },
+  {
+    "word": "müsadere",
+    "subword": "mü-sa-de-re",
+    "subwordIpa": "my-saː-de-ɾe",
+    "phoneticWriting": "mysaːdeɾe",
+    "phonemes": [
+      "y",
+      "a",
+      "e",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7580",
+    "meaning": "Zoralım; bir kimsenin taşınır veya taşınmaz bir malının, kendi isteği olmaksızın devlet tarafından elinden alınması"
+  },
+  {
+    "word": "musakka",
+    "subword": "mu-sak-ka",
+    "subwordIpa": "mu-sak-ka",
+    "phoneticWriting": "musakka",
+    "phonemes": [
+      "u",
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7238",
+    "meaning": "sulu tarla;suyu bulunan taşınmaz"
+  },
+  {
+    "word": "müsamaha",
+    "subword": "mü-sa-ma-ha",
+    "subwordIpa": "my-saː-ma-ha",
+    "phoneticWriting": "mysaːmaha",
+    "phonemes": [
+      "y",
+      "a",
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7583",
+    "meaning": "Hoş görme; göz yumma; tolerans tanıma"
+  },
+  {
+    "word": "müsavi",
+    "subword": "mü-sa-vi",
+    "subwordIpa": "my-saː-viː",
+    "phoneticWriting": "mysaːviː",
+    "phonemes": [
+      "y",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7587",
+    "meaning": "Eşit; eş düzeyde; aynı seviyede"
+  },
+  {
+    "word": "müseccel",
+    "subword": "mü-sec-cel",
+    "subwordIpa": "my-sed͡ʒ-d͡ʒɛl",
+    "phoneticWriting": "mysed͡ʒd͡ʒɛl",
+    "phonemes": [
+      "y",
+      "e",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7590",
+    "meaning": "Tescilli; yazılmış; kayıtlı; damgalanmış"
+  },
+  {
+    "word": "müstacel",
+    "subword": "müs-ta-cel",
+    "subwordIpa": "mys-taː-d͡ʒel",
+    "phoneticWriting": "mystaːd͡ʒel",
+    "phonemes": [
+      "y",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7608",
+    "meaning": "İvedi; tez; hemen yapılması gerekli"
+  },
+  {
+    "word": "müstacelen",
+    "subword": "müs-ta-ce-len",
+    "subwordIpa": "mys-taː-d͡ʒe-lɛn",
+    "phoneticWriting": "mystaːd͡ʒelɛn",
+    "phonemes": [
+      "y",
+      "a",
+      "e",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7609",
+    "meaning": "İvedi olarak; acele olarak"
+  },
+  {
+    "word": "müsteniden",
+    "subword": "müs-te-ni-den",
+    "subwordIpa": "mys-te-ni-dɛn",
+    "phoneticWriting": "mystenidɛn",
+    "phonemes": [
+      "y",
+      "e",
+      "i",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7634",
+    "meaning": "Dayanarak; bir şeye dayanarak; delil göstererek"
+  },
+  {
+    "word": "müstesna",
+    "subword": "müs-tes-na",
+    "subwordIpa": "mys-tes-naː",
+    "phoneticWriting": "mystesnaː",
+    "phonemes": [
+      "y",
+      "e",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7637",
+    "meaning": "Ayrık; istisna olan; kural dışı"
+  },
+  {
+    "word": "mutasarrıf",
+    "subword": "mu-ta-sar-rıf",
+    "subwordIpa": "mu-ta-saɾ-ɾɯf",
+    "phoneticWriting": "mutasaɾɾɯf",
+    "phonemes": [
+      "u",
+      "a",
+      "a",
+      "ɯ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7268",
+    "meaning": "Tasarruf eden; sancakların en büyük mülki amiri"
+  },
+  {
+    "word": "mutavassıt",
+    "subword": "mu-ta-vas-sıt",
+    "subwordIpa": "mu-ta-vas-sɯt",
+    "phoneticWriting": "mutavassɯt",
+    "phonemes": [
+      "u",
+      "a",
+      "a",
+      "ɯ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7275",
+    "meaning": "Aracı; aracılık eden; vasıta olan"
+  },
+  {
+    "word": "müteaddit",
+    "subword": "mü-te-ad-dit",
+    "subwordIpa": "my-te-ad-dit",
+    "phoneticWriting": "myteaddit",
+    "phonemes": [
+      "y",
+      "e",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7671",
+    "meaning": "Birden fazla; çeşitli"
+  },
+  {
+    "word": "müteahhit",
+    "subword": "mü-te-ah-hit",
+    "subwordIpa": "my-te-ah-hit",
+    "phoneticWriting": "myteahhit",
+    "phonemes": [
+      "y",
+      "e",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7672",
+    "meaning": "Taahhüt eden; yüklenici; belli bir inşaatı (eseri) yapmayı üstlenen"
+  },
+  {
+    "word": "müteallik",
+    "subword": "mü-te-al-lik",
+    "subwordIpa": "my-te-ɑɫ-lik",
+    "phoneticWriting": "myteɑɫlik",
+    "phonemes": [
+      "y",
+      "e",
+      "ɑ",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7675",
+    "meaning": "İlişkin; bir şeye dair; ilgili"
+  },
+  {
+    "word": "mütedavil",
+    "subword": "mü-te-da-vil",
+    "subwordIpa": "my-te-daː-vil",
+    "phoneticWriting": "mytedaːvil",
+    "phonemes": [
+      "y",
+      "e",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7688",
+    "meaning": "Elden ele geçen; dönen; dolaşan; tedavül eden"
+  },
+  {
+    "word": "müteferrik",
+    "subword": "mü-te-fer-rik",
+    "subwordIpa": "my-te-feɾ-ɾik",
+    "phoneticWriting": "mytefeɾɾik",
+    "phonemes": [
+      "y",
+      "e",
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7696",
+    "meaning": "Dağınık; çeşitli; ayrı ayrı; türlü"
+  },
+  {
+    "word": "mütehammil",
+    "subword": "mü-te-ham-mil",
+    "subwordIpa": "my-te-ham-mil",
+    "phoneticWriting": "mytehammil",
+    "phonemes": [
+      "y",
+      "e",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7705",
+    "meaning": "Tahammüllü; dayanıklı"
+  },
+  {
+    "word": "mütehavvil",
+    "subword": "mü-te-hav-vil",
+    "subwordIpa": "my-te-hav-vil",
+    "phoneticWriting": "mytehavvil",
+    "phonemes": [
+      "y",
+      "e",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7709",
+    "meaning": "Değişken; kararsız"
+  },
+  {
+    "word": "mütenakıs",
+    "subword": "mü-te-na-kıs",
+    "subwordIpa": "my-te-naː-kɯs",
+    "phoneticWriting": "mytenaːkɯs",
+    "phonemes": [
+      "y",
+      "e",
+      "a",
+      "ɯ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7733",
+    "meaning": "Çelişik"
+  },
+  {
+    "word": "mütenasip",
+    "subword": "mü-te-na-sip",
+    "subwordIpa": "my-te-naː-sip",
+    "phoneticWriting": "mytenaːsip",
+    "phonemes": [
+      "y",
+      "e",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7736",
+    "meaning": "Uygun; denk"
+  },
+  {
+    "word": "müteselsil",
+    "subword": "mü-te-sel-sil",
+    "subwordIpa": "my-te-sɛɫ-sil",
+    "phoneticWriting": "mytesɛɫsil",
+    "phonemes": [
+      "y",
+      "e",
+      "ɛ",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7747",
+    "meaning": "Zincirleme; dayanışmalı; ardı ardına"
+  },
+  {
+    "word": "mütevakkıf",
+    "subword": "mü-te-vak-kıf",
+    "subwordIpa": "my-te-vak-kɯf",
+    "phoneticWriting": "mytevakkɯf",
+    "phonemes": [
+      "y",
+      "e",
+      "a",
+      "ɯ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7757",
+    "meaning": "Bağlı"
+  },
+  {
+    "word": "mütevelli",
+    "subword": "mü-te-vel-li",
+    "subwordIpa": "my-te-vɛɫ-liː",
+    "phoneticWriting": "mytevɛɫliː",
+    "phonemes": [
+      "y",
+      "e",
+      "ɛ",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7769",
+    "meaning": "Bir vakfın yönetiminin kendisine verildiği kişi; vakıf yönetim kurulu"
+  },
+  {
+    "word": "mütevellit",
+    "subword": "mü-te-vel-lit",
+    "subwordIpa": "my-te-veɫ-lit",
+    "phoneticWriting": "myteveɫlit",
+    "phonemes": [
+      "y",
+      "e",
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7771",
+    "meaning": "Doğan; ileri gelen"
+  },
+  {
+    "word": "muttali",
+    "subword": "mut-ta-li",
+    "subwordIpa": "mut-ta-liː",
+    "phoneticWriting": "muttaliː",
+    "phonemes": [
+      "u",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7291",
+    "meaning": "Öğrenme; haberdar olma; bilgilenme"
+  },
+  {
+    "word": "muvacehe",
+    "subword": "mu-va-ce-he",
+    "subwordIpa": "mu-vaː-d͡ʒɛ-hɛ",
+    "phoneticWriting": "muvaːd͡ʒɛhɛ",
+    "phonemes": [
+      "u",
+      "a",
+      "ɛ",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7294",
+    "meaning": "yüzleştirme"
+  },
+  {
+    "word": "muvafakat",
+    "subword": "mu-va-fa-kat",
+    "subwordIpa": "mu-vaː-fa-kat",
+    "phoneticWriting": "muvaːfakat",
+    "phonemes": [
+      "u",
+      "a",
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7295",
+    "meaning": "Uygun görme; onama; razı olma; rızası olma"
+  },
+  {
+    "word": "muvafık",
+    "subword": "mu-va-fık",
+    "subwordIpa": "mu-vaː-fɯk",
+    "phoneticWriting": "muvaːfɯk",
+    "phonemes": [
+      "u",
+      "a",
+      "ɯ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7299",
+    "meaning": "Uygun; yerinde"
+  },
+  {
+    "word": "muvakkat",
+    "subword": "mu-vak-kat",
+    "subwordIpa": "mu-vak-kat",
+    "phoneticWriting": "muvakkat",
+    "phonemes": [
+      "u",
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7301",
+    "meaning": "Geçici; süreksiz"
+  },
+  {
+    "word": "müvekkil",
+    "subword": "mü-vek-kil",
+    "subwordIpa": "my-vek-cil",
+    "phoneticWriting": "myvekcil",
+    "phonemes": [
+      "y",
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7776",
+    "meaning": "Kendisini vekil ile temsil ettiren kişi; vekil eden."
+  },
+  {
+    "word": "müvezzi",
+    "subword": "mü-vez-zi",
+    "subwordIpa": "my-vez-ziː",
+    "phoneticWriting": "myvezziː",
+    "phonemes": [
+      "y",
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7779",
+    "meaning": "Dağıtıcı"
+  },
+  {
+    "word": "müzayede",
+    "subword": "mü-za-ye-de",
+    "subwordIpa": "my-zaː-je-de",
+    "phoneticWriting": "myzaːjede",
+    "phonemes": [
+      "y",
+      "a",
+      "e",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7784",
+    "meaning": "Artırma; açık artırma"
+  },
+  {
+    "word": "nahiye",
+    "subword": "na-hi-ye",
+    "subwordIpa": "naː-hi-je",
+    "phoneticWriting": "naːhije",
+    "phonemes": [
+      "a",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7837",
+    "meaning": "Bucak; bölge; kenar; kısım; çevre"
+  },
+  {
+    "word": "navlun",
+    "subword": "nav-lun",
+    "subwordIpa": "nav-ɫun",
+    "phoneticWriting": "navɫun",
+    "phonemes": [
+      "a",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7962",
+    "meaning": "Deniz yoluyla yapılan taşıma karşılığında ödenen ücret"
+  },
+  {
+    "word": "nema",
+    "subword": "ne-ma",
+    "subwordIpa": "ne-maː",
+    "phoneticWriting": "nemaː",
+    "phonemes": [
+      "e",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/8051",
+    "meaning": "Büyüme; gelişme; kazanç; kâr; getiri; faiz"
+  },
+  {
+    "word": "nevi",
+    "subword": "ne-vi",
+    "subwordIpa": "ne-viː",
+    "phoneticWriting": "neviː",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/8099",
+    "meaning": "Çeşit; tür"
+  },
+  {
+    "word": "nezaret",
+    "subword": "ne-za-ret",
+    "subwordIpa": "ne-zaː-ɾet",
+    "phoneticWriting": "nezaːɾet",
+    "phonemes": [
+      "e",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/8125",
+    "meaning": "Denetim; gözetim; bakanlık"
+  },
+  {
+    "word": "nisap",
+    "subword": "ni-sap",
+    "subwordIpa": "ni-sap",
+    "phoneticWriting": "nisap",
+    "phonemes": [
+      "i",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/8169",
+    "meaning": "Derece; istenilen had; asıl; esas; yeter sayı; bir kurulun toplanabilmesi veya karar alabilmesi için gerekli sayıda üyenin bir araya gelmiş olması"
+  },
+  {
+    "word": "nısf",
+    "subword": "nısf",
+    "subwordIpa": "nɯsf",
+    "phoneticWriting": "nɯsf",
+    "phonemes": [
+      "ɯ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/8133",
+    "meaning": "Yarım; yarı; yarısı"
+  },
+  {
+    "word": "niza",
+    "subword": "ni-za",
+    "subwordIpa": "ni-zaː",
+    "phoneticWriting": "nizaː",
+    "phonemes": [
+      "i",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/8193",
+    "meaning": "İhtilaf; çekişme; uyuşmazlık"
+  },
+  {
+    "word": "pafta",
+    "subword": "paf-ta",
+    "subwordIpa": "paf-ta",
+    "phoneticWriting": "pafta",
+    "phonemes": [
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/8431",
+    "meaning": "Kadastrosu yapılan yerlerin ada ve parsellerinin, belli ölçülerle çizilmiş haritaları."
+  },
+  {
+    "word": "parsel",
+    "subword": "par-sel",
+    "subwordIpa": "paɾ-sɛl",
+    "phoneticWriting": "paɾsɛl",
+    "phonemes": [
+      "a",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/8479",
+    "meaning": "İmar düzeni bakımından belli ölçüler gözönüne alınarak sınırlandırılmış arazi parçalarından her biri."
+  },
+  {
+    "word": "rayiç",
+    "subword": "ra-yiç",
+    "subwordIpa": "ɾaː-jit͡ʃ",
+    "phoneticWriting": "ɾaːjit͡ʃ",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/8820",
+    "meaning": "Sürüm değeri; geçerli olan"
+  },
+  {
+    "word": "refik",
+    "subword": "re-fik",
+    "subwordIpa": "ɾe-fik",
+    "phoneticWriting": "ɾefik",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/8858",
+    "meaning": "Arkadaş"
+  },
+  {
+    "word": "rehin",
+    "subword": "re-hin",
+    "subwordIpa": "ɾe-hin",
+    "phoneticWriting": "ɾehin",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/8869",
+    "meaning": "Bir borcun yerine getirilmemesi halinde, alacaklarının teminatı olmak üzere ve paraya çevirtme hakkıyla birlikte alacaklı lehine verilen taşınır veya taşınmaz mal güvencesi."
+  },
+  {
+    "word": "resen",
+    "subword": "re-sen",
+    "subwordIpa": "ɾeː-sɛn",
+    "phoneticWriting": "ɾeːsɛn",
+    "phonemes": [
+      "e",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/8899",
+    "meaning": "Kendiliğinden; herhangi bir isteğe gerek olmadan; otomatikman"
+  },
+  {
+    "word": "resim",
+    "subword": "re-sim",
+    "subwordIpa": "ɾe-sim",
+    "phoneticWriting": "ɾesim",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/8903",
+    "meaning": "Devlet daire ve kurumlarında görülen hizmet ve yapılan giderlerin karşılığı olarak, sadece o işle ilgisi bulunan kişilerden alınan bir gelir."
+  },
+  {
+    "word": "reşit",
+    "subword": "re-şit",
+    "subwordIpa": "ɾe-ʃit",
+    "phoneticWriting": "ɾeʃit",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/8917",
+    "meaning": "Ergin; rüşt yaşını doldurmuş; onsekiz yaşını dolduran veya onsekiz yaşını doldurmamasına rağmen evlenen veya yasal olarak erginliğine mahkemece karar verilen kişi"
+  },
+  {
+    "word": "rüçhan",
+    "subword": "rüç-han",
+    "subwordIpa": "ɾyt͡ʃ-haːn",
+    "phoneticWriting": "ɾyt͡ʃhaːn",
+    "phonemes": [
+      "y",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/9034",
+    "meaning": "Öncelik; üstünlük; imtiyaz"
+  },
+  {
+    "word": "rücu",
+    "subword": "rü-cu",
+    "subwordIpa": "ɾy-d͡ʒuː",
+    "phoneticWriting": "ɾyd͡ʒuː",
+    "phonemes": [
+      "y",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/9035",
+    "meaning": "Dönme; geri dönme; cayma; sözünden dönme; sözünü geri alma; bir ödemede bulunan kimsenin, bu bedeli, asıl ödeme yapması gereken kişiden istemesi;"
+  },
+  {
+    "word": "rüsum",
+    "subword": "rü-sum",
+    "subwordIpa": "ɾy-suːm",
+    "phoneticWriting": "ɾysuːm",
+    "phonemes": [
+      "y",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/9041",
+    "meaning": "Resimler; devlet dairelerinde ve diğer kamu kuruluşlarında görülen hizmet ve harcamaların karşılığı olarak alınan vergiler"
+  },
+  {
+    "word": "sahih",
+    "subword": "sa-hih",
+    "subwordIpa": "sa-hih",
+    "phoneticWriting": "sahih",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/9128",
+    "meaning": "Sıhhatli; gerçek; düzgün; doğru; legal; hukuka uygun"
+  },
+  {
+    "word": "salih",
+    "subword": "sa-lih",
+    "subwordIpa": "saː-lih",
+    "phoneticWriting": "saːlih",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/9177",
+    "meaning": "Elverişli; uygun"
+  },
+  {
+    "word": "şamil",
+    "subword": "şa-mil",
+    "subwordIpa": "ʃaː-mil",
+    "phoneticWriting": "ʃaːmil",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/9867",
+    "meaning": "İçine alan; kapsayan; çevreleyen"
+  },
+  {
+    "word": "saniyen",
+    "subword": "sa-ni-yen",
+    "subwordIpa": "saː-niː-jɛn",
+    "phoneticWriting": "saːniːjɛn",
+    "phonemes": [
+      "a",
+      "i",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/9223",
+    "meaning": "İkinci olarak"
+  },
+  {
+    "word": "sarahat",
+    "subword": "sa-ra-hat",
+    "subwordIpa": "sa-ɾaː-hɑt",
+    "phoneticWriting": "saɾaːhɑt",
+    "phonemes": [
+      "a",
+      "a",
+      "ɑ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/9233",
+    "meaning": "Açıklık; netlik; sarihlik; aydınlık"
+  },
+  {
+    "word": "sarfiyat",
+    "subword": "sar-fi-yat",
+    "subwordIpa": "saɾ-fi-jat",
+    "phoneticWriting": "saɾfijat",
+    "phonemes": [
+      "a",
+      "i",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/9241",
+    "meaning": "Harcamalar; giderler"
+  },
+  {
+    "word": "sari",
+    "subword": "sa-ri",
+    "subwordIpa": "sa-ɾi",
+    "phoneticWriting": "saɾi",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/9244",
+    "meaning": "Bulaşan; bulaşıcı"
+  },
+  {
+    "word": "şark",
+    "subword": "şark",
+    "subwordIpa": "ʃaɾk",
+    "phoneticWriting": "ʃaɾk",
+    "phonemes": [
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/9892",
+    "meaning": "doğu"
+  },
+  {
+    "word": "selef",
+    "subword": "se-lef",
+    "subwordIpa": "se-lef",
+    "phoneticWriting": "selef",
+    "phonemes": [
+      "e",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/9358",
+    "meaning": "Önce gelen kimse"
+  },
+  {
+    "word": "semen",
+    "subword": "se-men",
+    "subwordIpa": "se-mɛn",
+    "phoneticWriting": "semɛn",
+    "phonemes": [
+      "e",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/9382",
+    "meaning": "Satış parası; satış sözleşmesinde, satana mal teslimine karşılık olarak ödenecek para"
+  },
+  {
+    "word": "semere",
+    "subword": "se-me-re",
+    "subwordIpa": "se-me-ɾe",
+    "phoneticWriting": "semeɾe",
+    "phonemes": [
+      "e",
+      "e",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/9385",
+    "meaning": "Bir maldan elde edilen ürünler; Tabii Semere"
+  },
+  {
+    "word": "şerait",
+    "subword": "şe-ra-it",
+    "subwordIpa": "ʃe-ɾa-ːit",
+    "phoneticWriting": "ʃeɾaːit",
+    "phonemes": [
+      "e",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/9995",
+    "meaning": "Şartlar; koşullar"
+  },
+  {
+    "word": "şerh",
+    "subword": "şerh",
+    "subwordIpa": "ʃɛɾh",
+    "phoneticWriting": "ʃɛɾh",
+    "phonemes": [
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10004",
+    "meaning": "Kişisel hakların, devir sınırlamalarının ve geçici tescilin, tapu siciline yazılmasını gösteren terim"
+  },
+  {
+    "word": "şerik",
+    "subword": "şe-rik",
+    "subwordIpa": "ʃe-ɾiːk",
+    "phoneticWriting": "ʃeɾiːk",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10011",
+    "meaning": "Ortak; iştirakçi"
+  },
+  {
+    "word": "şimal",
+    "subword": "şi-mal",
+    "subwordIpa": "ʃi-mɑːl",
+    "phoneticWriting": "ʃimɑːl",
+    "phonemes": [
+      "i",
+      "ɑ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10068",
+    "meaning": "kuzey"
+  },
+  {
+    "word": "sirayet",
+    "subword": "si-ra-yet",
+    "subwordIpa": "si-ɾaː-jet",
+    "phoneticWriting": "siɾaːjet",
+    "phonemes": [
+      "i",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/9603",
+    "meaning": "Bulaşma; yayılma; geçme"
+  },
+  {
+    "word": "sirkat",
+    "subword": "sir-kat",
+    "subwordIpa": "siɾ-cɑt",
+    "phoneticWriting": "siɾcɑt",
+    "phonemes": [
+      "i",
+      "ɑ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/9607",
+    "meaning": "Hırsızlık; çalma; çalınma"
+  },
+  {
+    "word": "sudur",
+    "subword": "su-dur",
+    "subwordIpa": "su-duːɾ",
+    "phoneticWriting": "suduːɾ",
+    "phonemes": [
+      "u",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/9699",
+    "meaning": "Verilen ; çıkan"
+  },
+  {
+    "word": "suiniyet",
+    "subword": "su-i-ni-yet",
+    "subwordIpa": "su-i-ni-jet",
+    "phoneticWriting": "suinijet",
+    "phonemes": [
+      "u",
+      "i",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/9691",
+    "meaning": "Kötüniyet"
+  },
+  {
+    "word": "sukut",
+    "subword": "su-kut",
+    "subwordIpa": "su-kuːt",
+    "phoneticWriting": "sukuːt",
+    "phonemes": [
+      "u",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/9707",
+    "meaning": "Düşme; düşüş"
+  },
+  {
+    "word": "şümul",
+    "subword": "şü-mul",
+    "subwordIpa": "ʃy-muːːl",
+    "phoneticWriting": "ʃymuːːl",
+    "phonemes": [
+      "y",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10125",
+    "meaning": "Kapsam; içine alma; kapsama"
+  },
+  {
+    "word": "şüyu",
+    "subword": "şü-yu",
+    "subwordIpa": "ʃy-juː",
+    "phoneticWriting": "ʃyjuː",
+    "phonemes": [
+      "y",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10129",
+    "meaning": "Paydaşlık; hissedarlık"
+  },
+  {
+    "word": "taahhütname",
+    "subword": "ta-ah-hüt-na-me",
+    "subwordIpa": "ta-ah-hyt-naː-me",
+    "phoneticWriting": "taahhytnaːme",
+    "phonemes": [
+      "a",
+      "a",
+      "y",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10134",
+    "meaning": "Kişinin kendi ad ve hesabına, bir gerçek kişi veya tüzel kişiye karşı, sözleşmeli ya da sözleşmesiz olarak, bir işin yapılmasını veya bir şeyin teslimini üstlendiğini gösterir belge."
+  },
+  {
+    "word": "taalluk",
+    "subword": "ta-al-luk",
+    "subwordIpa": "ta-aɫ-luːk",
+    "phoneticWriting": "taaɫluːk",
+    "phonemes": [
+      "a",
+      "a",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10135",
+    "meaning": "İlişiği olma; asılma; ilgi"
+  },
+  {
+    "word": "taayyün",
+    "subword": "ta-ay-yün",
+    "subwordIpa": "ta-aj-jyn",
+    "phoneticWriting": "taajjyn",
+    "phonemes": [
+      "a",
+      "a",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10144",
+    "meaning": "Tayin olunma; belli olma; belirme"
+  },
+  {
+    "word": "tacir",
+    "subword": "ta-cir",
+    "subwordIpa": "taː-d͡ʒiɾ",
+    "phoneticWriting": "taːd͡ʒiɾ",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10176",
+    "meaning": "Ticaretle uğraşan; bir ticari işletmeyi kısmen dahi olsa kendi adına işleten kimsedir."
+  },
+  {
+    "word": "tadil",
+    "subword": "ta-dil",
+    "subwordIpa": "taː-dil",
+    "phoneticWriting": "taːdil",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10180",
+    "meaning": "Değiştirme; değişiklik"
+  },
+  {
+    "word": "tağyir",
+    "subword": "tağ-yir",
+    "subwordIpa": "taː-jiːɾ",
+    "phoneticWriting": "taːjiːɾ",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10190",
+    "meaning": "Başkalaştırma; değiştirme; bozma tahakkuk gerçekleştirme; gerçekleşme"
+  },
+  {
+    "word": "tahavvül",
+    "subword": "ta-hav-vül",
+    "subwordIpa": "ta-hav-vyl",
+    "phoneticWriting": "tahavvyl",
+    "phonemes": [
+      "a",
+      "a",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10203",
+    "meaning": "Değişme; dönme"
+  },
+  {
+    "word": "tahkikat",
+    "subword": "tah-ki-kat",
+    "subwordIpa": "tah-ciː-kat",
+    "phoneticWriting": "tahciːkat",
+    "phonemes": [
+      "a",
+      "i",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10216",
+    "meaning": "Soruşturma"
+  },
+  {
+    "word": "tahliye",
+    "subword": "tah-li-ye",
+    "subwordIpa": "tah-li-je",
+    "phoneticWriting": "tahlije",
+    "phonemes": [
+      "a",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10225",
+    "meaning": "Boşaltma; salıverme; serbest bırakma."
+  },
+  {
+    "word": "tahrip",
+    "subword": "tah-rip",
+    "subwordIpa": "tah-ɾip",
+    "phoneticWriting": "tahɾip",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10236",
+    "meaning": "Harabetme; yıkma; kırma; bozma"
+  },
+  {
+    "word": "tahrir",
+    "subword": "tah-rir",
+    "subwordIpa": "tah-ɾiɾ",
+    "phoneticWriting": "tahɾiɾ",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10239",
+    "meaning": "Yazma; yazım"
+  },
+  {
+    "word": "tahriren",
+    "subword": "tah-ri-ren",
+    "subwordIpa": "tah-ɾiː-ɾɛn",
+    "phoneticWriting": "tahɾiːɾɛn",
+    "phonemes": [
+      "a",
+      "i",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10242",
+    "meaning": "Yazılı olarak"
+  },
+  {
+    "word": "tahsin",
+    "subword": "tah-sin",
+    "subwordIpa": "tah-sin",
+    "phoneticWriting": "tahsin",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10251",
+    "meaning": "Beğenme"
+  },
+  {
+    "word": "tahsis",
+    "subword": "tah-sis",
+    "subwordIpa": "tah-sis",
+    "phoneticWriting": "tahsis",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10252",
+    "meaning": "Emrine verme; özgüleme."
+  },
+  {
+    "word": "taht",
+    "subword": "taht",
+    "subwordIpa": "taht",
+    "phoneticWriting": "taht",
+    "phonemes": [
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10254",
+    "meaning": "Alt; aşağı"
+  },
+  {
+    "word": "tahvil",
+    "subword": "tah-vil",
+    "subwordIpa": "tah-vil",
+    "phoneticWriting": "tahvil",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10260",
+    "meaning": "Değiştirme; değiştirilme; borç senedi"
+  },
+  {
+    "word": "tahvilat",
+    "subword": "tah-vi-lat",
+    "subwordIpa": "tah-viː-lɑːt",
+    "phoneticWriting": "tahviːlɑːt",
+    "phonemes": [
+      "a",
+      "i",
+      "ɑ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10261",
+    "meaning": "Tahviller"
+  },
+  {
+    "word": "takaddüm",
+    "subword": "ta-kad-düm",
+    "subwordIpa": "ta-kad-dym",
+    "phoneticWriting": "takaddym",
+    "phonemes": [
+      "a",
+      "a",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10267",
+    "meaning": "Önce gelme; önde gelme"
+  },
+  {
+    "word": "takas",
+    "subword": "ta-kas",
+    "subwordIpa": "ta-kas",
+    "phoneticWriting": "takas",
+    "phonemes": [
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10271",
+    "meaning": "Vadesi gelmiş, aynı cinsten ve karşılıklı iki alacağın birbirine sayışılması."
+  },
+  {
+    "word": "taksim",
+    "subword": "tak-sim",
+    "subwordIpa": "tak-sim",
+    "phoneticWriting": "taksim",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10309",
+    "meaning": "Ortak mülkiyette bulunan bir malın, ortaklar arasında yapılan bir sözleşmeyle veya dava açmak suretiyle bölüştürülmesi."
+  },
+  {
+    "word": "taksim",
+    "subword": "tak-sim",
+    "subwordIpa": "tak-sim",
+    "phoneticWriting": "taksim",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10309",
+    "meaning": "Ortak mülkiyette bulunan bir malın, ortaklar arasında yapılan bir sözleşmeyle veya dava açmak suretiyle bölüştürülmesi."
+  },
+  {
+    "word": "taksir",
+    "subword": "tak-sir",
+    "subwordIpa": "tak-siɾ",
+    "phoneticWriting": "taksiɾ",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10314",
+    "meaning": "İradi olarak işlenen bir icra ya da ihmal eyleminden, fail tarafından istenmemiş olmalarına rağmen, kanunun cezalandırdığı sonuçların meydana gelmesi hali"
+  },
+  {
+    "word": "tarik",
+    "subword": "ta-rik",
+    "subwordIpa": "taː-ɾɯk",
+    "phoneticWriting": "taːɾɯk",
+    "phonemes": [
+      "a",
+      "ɯ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10401",
+    "meaning": "Yol; yöntem"
+  },
+  {
+    "word": "tasarruf",
+    "subword": "ta-sar-ruf",
+    "subwordIpa": "ta-saɾ-ɾuf",
+    "phoneticWriting": "tasaɾɾuf",
+    "phonemes": [
+      "a",
+      "a",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10410",
+    "meaning": "Bir şeyden yararlanabilme ve o şey üzerinde fiili veya hukuki işlem yapabilme gücü."
+  },
+  {
+    "word": "tashih",
+    "subword": "tas-hih",
+    "subwordIpa": "tas-hiːh",
+    "phoneticWriting": "tashiːh",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10423",
+    "meaning": "Düzeltme; resmi bir kütüğün, bir hukuki işlemin düzeltilmesi"
+  },
+  {
+    "word": "tasnif",
+    "subword": "tas-nif",
+    "subwordIpa": "tas-nif",
+    "phoneticWriting": "tasnif",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10426",
+    "meaning": "Düzen"
+  },
+  {
+    "word": "tavassut",
+    "subword": "ta-vas-sut",
+    "subwordIpa": "ta-vas-sut",
+    "phoneticWriting": "tavassut",
+    "phonemes": [
+      "a",
+      "a",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10450",
+    "meaning": "Aracılık; ara bulma; aracı olma"
+  },
+  {
+    "word": "tavazzuh",
+    "subword": "ta-vaz-zuh",
+    "subwordIpa": "ta-vaz-zuh",
+    "phoneticWriting": "tavazzuh",
+    "phonemes": [
+      "a",
+      "a",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10451",
+    "meaning": "Aydınlanma"
+  },
+  {
+    "word": "tazminat",
+    "subword": "taz-mi-nat",
+    "subwordIpa": "taz-miː-naːt",
+    "phoneticWriting": "tazmiːnaːt",
+    "phonemes": [
+      "a",
+      "i",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10477",
+    "meaning": "Maddi veya manevi zarara karşılık ödenen bedel; zarar ödencesi;hukuka aykırı olarak başkalarına verilen zararların ödetilmesi biçiminde müeyyidedir."
+  },
+  {
+    "word": "teati",
+    "subword": "te-a-ti",
+    "subwordIpa": "te-aː-tiː",
+    "phoneticWriting": "teaːtiː",
+    "phonemes": [
+      "e",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10482",
+    "meaning": "Karşılıklı gönderme"
+  },
+  {
+    "word": "tebdil",
+    "subword": "teb-dil",
+    "subwordIpa": "teb-diːl",
+    "phoneticWriting": "tebdiːl",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10490",
+    "meaning": "Değişme; değiştirilme"
+  },
+  {
+    "word": "tebellüğ",
+    "subword": "te-bel-lüğ",
+    "subwordIpa": "te-beɫ-lyː",
+    "phoneticWriting": "tebeɫlyː",
+    "phonemes": [
+      "e",
+      "e",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10495",
+    "meaning": "Bir tebliği alma; tebliğ edilen bir yazıyı imza ile teslim alma"
+  },
+  {
+    "word": "tebellür",
+    "subword": "te-bel-lür",
+    "subwordIpa": "te-beɫ-lyɾ",
+    "phoneticWriting": "tebeɫlyɾ",
+    "phonemes": [
+      "e",
+      "e",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10496",
+    "meaning": "Netleşme; net olarak ortaya çıkma; aydınlanma"
+  },
+  {
+    "word": "tebeyyün",
+    "subword": "te-bey-yün",
+    "subwordIpa": "te-bej-jyn",
+    "phoneticWriting": "tebejjyn",
+    "phonemes": [
+      "e",
+      "e",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10504",
+    "meaning": "Ortaya çıkmak"
+  },
+  {
+    "word": "tebligat",
+    "subword": "teb-li-gat",
+    "subwordIpa": "tɛb-liː-ɡaːt",
+    "phoneticWriting": "tɛbliːɡaːt",
+    "phonemes": [
+      "ɛ",
+      "i",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10505",
+    "meaning": "Bir hukuki işlemin yetkili makamca, ilgili kişinin bilgisine sunulmak üzere, kanun ve usule uygun olarak yazı veya ilanla bildirilmesi."
+  },
+  {
+    "word": "tecdit",
+    "subword": "tec-dit",
+    "subwordIpa": "ted͡ʒ-diːt",
+    "phoneticWriting": "ted͡ʒdiːt",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10517",
+    "meaning": "Yenileme; tazeleme, açıkça anlaşılacak şekilde önceki borcun, yeni bir borç kurarak ortadan kaldırılması; yenileme."
+  },
+  {
+    "word": "tedarik",
+    "subword": "te-da-rik",
+    "subwordIpa": "te-daː-ɾik",
+    "phoneticWriting": "tedaːɾik",
+    "phonemes": [
+      "e",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10538",
+    "meaning": "Sağlama; temin etme"
+  },
+  {
+    "word": "tedavül",
+    "subword": "te-da-vül",
+    "subwordIpa": "te-daː-vyl",
+    "phoneticWriting": "tedaːvyl",
+    "phonemes": [
+      "e",
+      "a",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10540",
+    "meaning": "Sürüm; elden ele gezme; dolaşma; kullanılma"
+  },
+  {
+    "word": "tedricen",
+    "subword": "ted-ri-cen",
+    "subwordIpa": "ted-ɾiː-d͡ʒɛn",
+    "phoneticWriting": "tedɾiːd͡ʒɛn",
+    "phonemes": [
+      "e",
+      "i",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10549",
+    "meaning": "Azar azar; yavaş yavaş; aşamalı olarak"
+  },
+  {
+    "word": "teehhür",
+    "subword": "te-eh-hür",
+    "subwordIpa": "te-eh-hyɾ",
+    "phoneticWriting": "teehhyɾ",
+    "phonemes": [
+      "e",
+      "e",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10558",
+    "meaning": "Gecikme; sonraya kalma"
+  },
+  {
+    "word": "teessüs",
+    "subword": "te-es-süs",
+    "subwordIpa": "te-es-sys",
+    "phoneticWriting": "teessys",
+    "phonemes": [
+      "e",
+      "e",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10563",
+    "meaning": "Kuruluş; kurulma; yapılma; yapılanma"
+  },
+  {
+    "word": "teferruat",
+    "subword": "te-fer-ru-at",
+    "subwordIpa": "te-feɾ-ɾu-aːt",
+    "phoneticWriting": "tefeɾɾuaːt",
+    "phonemes": [
+      "e",
+      "e",
+      "u",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10569",
+    "meaning": "Ayrıntı; bölgesel töreye (örfe) veya malikin açık isteğine göre, bir şeyin işletilmesi veya korunması veya ondan yararlanılması için sürekli olarak ona tahsis olunan ve kullanışta o şeye bağlı kılınan yada takılan veya onunla birleştirilen taşınır mallar, asıl şeyin teferruatıdır."
+  },
+  {
+    "word": "tefrişat",
+    "subword": "tef-ri-şat",
+    "subwordIpa": "tef-ɾiː-ʃat",
+    "phoneticWriting": "tefɾiːʃat",
+    "phonemes": [
+      "e",
+      "i",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10575",
+    "meaning": "Döşeme araçları; bir yeri döşemek için kullanılan eşya"
+  },
+  {
+    "word": "tekemmül",
+    "subword": "te-kem-mül",
+    "subwordIpa": "te-cɛm-myl",
+    "phoneticWriting": "tecɛmmyl",
+    "phonemes": [
+      "e",
+      "ɛ",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10620",
+    "meaning": "Tamamlanma; olgunlaşma"
+  },
+  {
+    "word": "telif",
+    "subword": "te-lif",
+    "subwordIpa": "teː-lif",
+    "phoneticWriting": "teːlif",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10685",
+    "meaning": "Yazma; uzlaştırma"
+  },
+  {
+    "word": "temellük",
+    "subword": "te-mel-lük",
+    "subwordIpa": "te-mɛɫ-lyk",
+    "phoneticWriting": "temɛɫlyk",
+    "phonemes": [
+      "e",
+      "ɛ",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10716",
+    "meaning": "Mülk edinme; kendine mal etme; sahip olma; sahiplenme; devralma"
+  },
+  {
+    "word": "temettü",
+    "subword": "te-met-tü",
+    "subwordIpa": "te-met-tyː",
+    "phoneticWriting": "temettyː",
+    "phonemes": [
+      "e",
+      "e",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10723",
+    "meaning": "Kâr; kazanç payı; yarar"
+  },
+  {
+    "word": "teminat",
+    "subword": "te-mi-nat",
+    "subwordIpa": "teː-miː-nat",
+    "phoneticWriting": "teːmiːnat",
+    "phonemes": [
+      "e",
+      "i",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10727",
+    "meaning": "Belli bir hukuksal durumu (genellikle borcun ödenmesini) sağlamak için verilen garanti."
+  },
+  {
+    "word": "temlik",
+    "subword": "tem-lik",
+    "subwordIpa": "tem-lik",
+    "phoneticWriting": "temlik",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10730",
+    "meaning": "1-devir 2- Bir malın veya hakkın, bir hukuki işlemle başkasına devredilmesi; mülkiyetin nakli."
+  },
+  {
+    "word": "tenezzül",
+    "subword": "te-nez-zül",
+    "subwordIpa": "te-nez-zyl",
+    "phoneticWriting": "tenezzyl",
+    "phonemes": [
+      "e",
+      "e",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10756",
+    "meaning": "İnme; alçalma; düşme; kendine aykırı gelen bir işi veya durumu kabul etme"
+  },
+  {
+    "word": "tensip",
+    "subword": "ten-sip",
+    "subwordIpa": "ten-sip",
+    "phoneticWriting": "tensip",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10766",
+    "meaning": "Uygun görme"
+  },
+  {
+    "word": "tenzil",
+    "subword": "ten-zil",
+    "subwordIpa": "teŋ-zil",
+    "phoneticWriting": "teŋzil",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10776",
+    "meaning": "İndirtme; azaltma"
+  },
+  {
+    "word": "tertip",
+    "subword": "ter-tip",
+    "subwordIpa": "tɛɾ-tip",
+    "phoneticWriting": "tɛɾtip",
+    "phonemes": [
+      "ɛ",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10838",
+    "meaning": "Sıra; düzen; düzenleme"
+  },
+  {
+    "word": "tescil",
+    "subword": "tes-cil",
+    "subwordIpa": "tes-d͡ʒil",
+    "phoneticWriting": "tesd͡ʒil",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10849",
+    "meaning": "Resmi kütük veya defterlere bir konunun (hakkın) yazılması, kayıt düşülmesi."
+  },
+  {
+    "word": "tesellüm",
+    "subword": "te-sel-lüm",
+    "subwordIpa": "te-sɛɫ-lym",
+    "phoneticWriting": "tesɛɫlym",
+    "phonemes": [
+      "e",
+      "ɛ",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10854",
+    "meaning": "Teslim alma"
+  },
+  {
+    "word": "teşevvüş",
+    "subword": "te-şev-vüş",
+    "subwordIpa": "te-ʃev-vyʃ",
+    "phoneticWriting": "teʃevvyʃ",
+    "phonemes": [
+      "e",
+      "e",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10894",
+    "meaning": "Karışıklık; kargaşalık"
+  },
+  {
+    "word": "tesmiye",
+    "subword": "tes-mi-ye",
+    "subwordIpa": "tes-mi-je",
+    "phoneticWriting": "tesmije",
+    "phonemes": [
+      "e",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10873",
+    "meaning": "Ad koyma; isimlendirme; belirleme"
+  },
+  {
+    "word": "teşrik",
+    "subword": "teş-rik",
+    "subwordIpa": "teʃ-ɾik",
+    "phoneticWriting": "teʃɾik",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10916",
+    "meaning": "yaptığı bir işe ortak almak"
+  },
+  {
+    "word": "tesviye",
+    "subword": "tes-vi-ye",
+    "subwordIpa": "tes-vi-jɛ",
+    "phoneticWriting": "tesvijɛ",
+    "phonemes": [
+      "e",
+      "i",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10882",
+    "meaning": "Sonuca bağlama; çözümleme; gereğini yapma; seviye; düzdüzeltme"
+  },
+  {
+    "word": "tevakkuf",
+    "subword": "te-vak-kuf",
+    "subwordIpa": "te-vak-kuf",
+    "phoneticWriting": "tevakkuf",
+    "phonemes": [
+      "e",
+      "a",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10933",
+    "meaning": "Bağlı olma; durma"
+  },
+  {
+    "word": "teveccüh",
+    "subword": "te-vec-cüh",
+    "subwordIpa": "te-ved͡ʒ-d͡ʒyh",
+    "phoneticWriting": "teved͡ʒd͡ʒyh",
+    "phonemes": [
+      "e",
+      "e",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10944",
+    "meaning": "Yönelme; yakınlık duyma; sevgi"
+  },
+  {
+    "word": "tevellüt",
+    "subword": "te-vel-lüt",
+    "subwordIpa": "te-veɫ-lyt",
+    "phoneticWriting": "teveɫlyt",
+    "phonemes": [
+      "e",
+      "e",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10952",
+    "meaning": "Doğum; doğma"
+  },
+  {
+    "word": "tevfik",
+    "subword": "tev-fik",
+    "subwordIpa": "tev-fik",
+    "phoneticWriting": "tevfik",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10956",
+    "meaning": "Uydurma; uygunlaştırma"
+  },
+  {
+    "word": "tevkif",
+    "subword": "tev-kif",
+    "subwordIpa": "tev-cif",
+    "phoneticWriting": "tevcif",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10963",
+    "meaning": "Tutuklama"
+  },
+  {
+    "word": "tevzi",
+    "subword": "tev-zi",
+    "subwordIpa": "tev-ziː",
+    "phoneticWriting": "tevziː",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10975",
+    "meaning": "Dağıtma"
+  },
+  {
+    "word": "tezyif",
+    "subword": "tez-yif",
+    "subwordIpa": "tez-jiːf",
+    "phoneticWriting": "tezjiːf",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11007",
+    "meaning": "değersiz olarak gösterme, aşağılama"
+  },
+  {
+    "word": "tezyinat",
+    "subword": "tez-yi-nat",
+    "subwordIpa": "tez-jiː-naːt",
+    "phoneticWriting": "tezjiːnaːt",
+    "phonemes": [
+      "e",
+      "i",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11009",
+    "meaning": "Süslemeler"
+  },
+  {
+    "word": "uhde",
+    "subword": "uh-de",
+    "subwordIpa": "uh-de",
+    "phoneticWriting": "uhde",
+    "phonemes": [
+      "u",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11231",
+    "meaning": "Görev; birinin yapmakla yükümlü olduğu iş; bir işin yapılacağına söz verme"
+  },
+  {
+    "word": "ulak",
+    "subword": "u-lak",
+    "subwordIpa": "u-ɫak",
+    "phoneticWriting": "uɫak",
+    "phonemes": [
+      "u",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11245",
+    "meaning": "Haberci; haber götürücü"
+  },
+  {
+    "word": "usul",
+    "subword": "u-sul",
+    "subwordIpa": "u-suːl",
+    "phoneticWriting": "usuːl",
+    "phonemes": [
+      "u",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11282",
+    "meaning": "şekle ilişkin"
+  },
+  {
+    "word": "vabeste",
+    "subword": "va-bes-te",
+    "subwordIpa": "vaː-bes-te",
+    "phoneticWriting": "vaːbeste",
+    "phonemes": [
+      "a",
+      "e",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11360",
+    "meaning": "Bağlı"
+  },
+  {
+    "word": "vakfiye",
+    "subword": "vak-fi-ye",
+    "subwordIpa": "vak-fi-je",
+    "phoneticWriting": "vakfije",
+    "phonemes": [
+      "a",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11399",
+    "meaning": "Vakfedenin vakfa ilişkin bildirimini ve hakimin tescilini kapsayan belge"
+  },
+  {
+    "word": "vakıf",
+    "subword": "va-kıf",
+    "subwordIpa": "va-kɯf",
+    "phoneticWriting": "vakɯf",
+    "phonemes": [
+      "a",
+      "ɯ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11402",
+    "meaning": "Tesis; başlı başına bir varlığı bulunmak üzere bir malın belirli amaca tahsisi"
+  },
+  {
+    "word": "varaka",
+    "subword": "va-ra-ka",
+    "subwordIpa": "va-ɾa-ka",
+    "phoneticWriting": "vaɾaka",
+    "phonemes": [
+      "a",
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11440",
+    "meaning": "Belge; yazılı kağıt"
+  },
+  {
+    "word": "vâris",
+    "subword": "vâris",
+    "subwordIpa": "va-ɾis",
+    "phoneticWriting": "vaɾis",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11445",
+    "meaning": "Mirasçı"
+  },
+  {
+    "word": "vasi",
+    "subword": "va-si",
+    "subwordIpa": "va-siː",
+    "phoneticWriting": "vasiː",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11468",
+    "meaning": "Kanunun öngördüğü durumlarda, küçük veya kısıtlı kişilerin haklarını korumak üzere mahkeme tarafından atanan kanuni temsilci."
+  },
+  {
+    "word": "veçhile",
+    "subword": "veç-hi-le",
+    "subwordIpa": "vet͡ʃ-hi-le",
+    "phoneticWriting": "vet͡ʃhile",
+    "phonemes": [
+      "e",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11506",
+    "meaning": "(bu) yönden; böylece; uyarınca"
+  },
+  {
+    "word": "vedia",
+    "subword": "ve-di-a",
+    "subwordIpa": "ve-di-aː",
+    "phoneticWriting": "vediaː",
+    "phonemes": [
+      "e",
+      "i",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11511",
+    "meaning": "Saklama"
+  },
+  {
+    "word": "vekil",
+    "subword": "ve-kil",
+    "subwordIpa": "ve-cil",
+    "phoneticWriting": "vecil",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11527",
+    "meaning": "Vekalet sözleşmesi gereği, müvekkil tarafından ve onun adına işlem yapmakla yetkilendirilen kişi."
+  },
+  {
+    "word": "veli",
+    "subword": "ve-li",
+    "subwordIpa": "ve-liː",
+    "phoneticWriting": "veliː",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11540",
+    "meaning": "Velayet hakkına sahip bulunan ana ve/veya baba."
+  },
+  {
+    "word": "veli",
+    "subword": "ve-li",
+    "subwordIpa": "ve-liː",
+    "phoneticWriting": "veliː",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11540",
+    "meaning": "Velayet hakkına sahip bulunan ana ve/veya baba."
+  },
+  {
+    "word": "vesait",
+    "subword": "ve-sa-it",
+    "subwordIpa": "ve-sa-ːit",
+    "phoneticWriting": "vesaːit",
+    "phonemes": [
+      "e",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11558",
+    "meaning": "Vasıtalar; araçlar"
+  },
+  {
+    "word": "vesayet",
+    "subword": "ve-sa-yet",
+    "subwordIpa": "ve-saː-jet",
+    "phoneticWriting": "vesaːjet",
+    "phonemes": [
+      "e",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11559",
+    "meaning": "Küçük veya kısıtlıların haklarının korunması amacıyla özel hukuk tarafından düzenlenen ve bir kamu hizmeti niteliğini taşıyan kurum."
+  },
+  {
+    "word": "vikaye",
+    "subword": "vi-ka-ye",
+    "subwordIpa": "vi-kaː-je",
+    "phoneticWriting": "vikaːje",
+    "phonemes": [
+      "i",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11586",
+    "meaning": "Koruma"
+  },
+  {
+    "word": "yabancı",
+    "subword": "ya-ban-cı",
+    "subwordIpa": "ja-ban-d͡ʒɯ",
+    "phoneticWriting": "jaband͡ʒɯ",
+    "phonemes": [
+      "a",
+      "a",
+      "ɯ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11635",
+    "meaning": "Bir devletin ülkesinde oturan ve o devletin uyruğunu iddia etmek hakkı olmayan kimselerdir."
+  },
+  {
+    "word": "yaylak",
+    "subword": "yay-lak",
+    "subwordIpa": "jaj-ɫak",
+    "phoneticWriting": "jajɫak",
+    "phonemes": [
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11710",
+    "meaning": "Bir veya birkaç köy ya da beldeye, ayrı ayrı veya ortak olarak, yaz mevsimini geçirmeleri ve hayvanlarını otlatmaları için tahsis edilen veya öteden beri bu amaçla kullanılagelen arazi. hayvanların yayılıp otlamasına uygun yer; otlak"
+  },
+  {
+    "word": "yed",
+    "subword": "yed",
+    "subwordIpa": "jed",
+    "phoneticWriting": "jed",
+    "phonemes": [
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11714",
+    "meaning": "El ;elinde bulundurma"
+  },
+  {
+    "word": "yediemin",
+    "subword": "ye-di-e-min",
+    "subwordIpa": "je-di-e-min",
+    "phoneticWriting": "jediemin",
+    "phonemes": [
+      "e",
+      "i",
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11716",
+    "meaning": "Uyuşmazlık konusu şeyin saklanması ve idaresi kendisine verilen kişi; güvenilir kişi; yediadl"
+  },
+  {
+    "word": "yekûn",
+    "subword": "yekûn",
+    "subwordIpa": "je-cuːːn",
+    "phoneticWriting": "jecuːːn",
+    "phonemes": [
+      "e",
+      "u"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11742",
+    "meaning": "Toplam"
+  },
+  {
+    "word": "zabıtname",
+    "subword": "za-bıt-na-me",
+    "subwordIpa": "za-bɯt-naː-me",
+    "phoneticWriting": "zabɯtnaːme",
+    "phonemes": [
+      "a",
+      "ɯ",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11812",
+    "meaning": "Tutanak"
+  },
+  {
+    "word": "zahir",
+    "subword": "za-hir",
+    "subwordIpa": "zaː-hiɾ",
+    "phoneticWriting": "zaːhiɾ",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11832",
+    "meaning": "açık"
+  },
+  {
+    "word": "zail",
+    "subword": "za-il",
+    "subwordIpa": "za-ːil",
+    "phoneticWriting": "zaːil",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11809",
+    "meaning": "Zeval bulma; bitme"
+  },
+  {
+    "word": "zeval",
+    "subword": "ze-val",
+    "subwordIpa": "ze-vɑl",
+    "phoneticWriting": "zevɑl",
+    "phonemes": [
+      "e",
+      "ɑ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11964",
+    "meaning": "Son; bitim; nihayet; yok olma"
+  },
+  {
+    "word": "zikretmek",
+    "subword": "zik-ret-mek",
+    "subwordIpa": "zik-ɾet-mek",
+    "phoneticWriting": "zikɾetmek",
+    "phonemes": [
+      "i",
+      "e",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/12031",
+    "meaning": "Anmak; anılmak; bildirmek; belirtmek"
+  },
+  {
+    "word": "zımnında",
+    "subword": "zım-nın-da",
+    "subwordIpa": "zɯm-nɯn-da",
+    "phoneticWriting": "zɯmnɯnda",
+    "phonemes": [
+      "ɯ",
+      "ɯ",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/12001",
+    "meaning": "Dolayısıyla; için; olarak"
+  },
+  {
+    "word": "zinhar",
+    "subword": "zin-har",
+    "subwordIpa": "zin-haːɾ",
+    "phoneticWriting": "zinhaːɾ",
+    "phonemes": [
+      "i",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/12046",
+    "meaning": "sakın, asla"
+  },
+  {
+    "word": "ziya",
+    "subword": "zi-ya",
+    "subwordIpa": "zi-jaː",
+    "phoneticWriting": "zijaː",
+    "phonemes": [
+      "i",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/12058",
+    "meaning": "Kaybetme; yitme"
+  },
+  {
+    "word": "ziyade",
+    "subword": "zi-ya-de",
+    "subwordIpa": "zi-jaː-de",
+    "phoneticWriting": "zijaːde",
+    "phonemes": [
+      "i",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/12060",
+    "meaning": "Fazla; çok; aşırı"
+  }
+]
