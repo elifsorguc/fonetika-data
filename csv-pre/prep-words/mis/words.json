@@ -1,0 +1,28 @@
+[  
+    {
+    "userId": "681546b8f044a87344685e94",
+    "wordId": "6817e9b6b5848a0221d380f9",
+    "phonemesMistaken": {
+      "e": 3
+    },
+    "correctCount": 0,
+    "mistakeFrequency": 0,
+    "lastMistakenDate": "2025-05-04T00:00:00Z",
+    "audioSampleId": "",
+    "correctiveAction": "",
+    "exerciseId": ""
+  },
+  {
+    "userId": "681546b8f044a87344685e94",
+    "wordId": "6817e9b6b5848a0221d380fb",
+    "phonemesMistaken": {
+      "a": 2
+    },
+    "correctCount": 0,
+    "mistakeFrequency": 0,
+    "lastMistakenDate": "2025-05-04T00:00:00Z",
+    "audioSampleId": "",
+    "correctiveAction": "",
+    "exerciseId": ""
+  }
+]

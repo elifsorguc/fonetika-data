@@ -1,0 +1,504 @@
+[
+  {
+    "word": "adaptasyon",
+    "subword": "a-dap-tas-yon",
+    "subwordIpa": "a-dap-tas-jon",
+    "phoneticWriting": "adaptasjon",
+    "phonemes": [
+      "a",
+      "a",
+      "a",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/71"
+  },
+  {
+    "word": "afişe",
+    "subword": "a-fi-şe",
+    "subwordIpa": "a-fi-ʃe",
+    "phoneticWriting": "afiʃe",
+    "phonemes": [
+      "a",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/102"
+  },
+  {
+    "word": "ajitasyon",
+    "subword": "a-ji-tas-yon",
+    "subwordIpa": "a-ʒi-tas-jon",
+    "phoneticWriting": "aʒitasjon",
+    "phonemes": [
+      "a",
+      "i",
+      "a",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/160"
+  },
+  {
+    "word": "aktüalite",
+    "subword": "ak-tü-a-li-te",
+    "subwordIpa": "ak-ty-a-li-te",
+    "phoneticWriting": "aktyalite",
+    "phonemes": [
+      "a",
+      "y",
+      "a",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/195"
+  },
+  {
+    "word": "aktüel",
+    "subword": "ak-tü-el",
+    "subwordIpa": "ak-ty-ɛl",
+    "phoneticWriting": "aktyɛl",
+    "phonemes": [
+      "a",
+      "y",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/196"
+  },
+  {
+    "word": "akustik",
+    "subword": "a-kus-tik",
+    "subwordIpa": "a-kus-tik",
+    "phoneticWriting": "akustik",
+    "phonemes": [
+      "a",
+      "u",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/198"
+  },
+  {
+    "word": "alaturka",
+    "subword": "a-la-tur-ka",
+    "subwordIpa": "a-ɫa-tuɾ-ka",
+    "phoneticWriting": "aɫatuɾka",
+    "phonemes": [
+      "a",
+      "a",
+      "u",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/214"
+  },
+  {
+    "word": "alayiş",
+    "subword": "a-la-yiş",
+    "subwordIpa": "aː-lɑː-jiʃ",
+    "phoneticWriting": "aːlɑːjiʃ",
+    "phonemes": [
+      "a",
+      "ɑ",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/215"
+  },
+  {
+    "word": "alegori",
+    "subword": "a-le-go-ri",
+    "subwordIpa": "a-le-ɡo-ɾi",
+    "phoneticWriting": "aleɡoɾi",
+    "phonemes": [
+      "a",
+      "e",
+      "o",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/218"
+  },
+  {
+    "word": "amatör",
+    "subword": "a-ma-tör",
+    "subwordIpa": "a-ma-tœɾ",
+    "phoneticWriting": "amatœɾ",
+    "phonemes": [
+      "a",
+      "a",
+      "œ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/275"
+  },
+  {
+    "word": "animasyon",
+    "subword": "a-ni-mas-yon",
+    "subwordIpa": "a-ni-mas-jon",
+    "phoneticWriting": "animasjon",
+    "phonemes": [
+      "a",
+      "i",
+      "a",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/336"
+  },
+  {
+    "word": "animatör",
+    "subword": "a-ni-ma-tör",
+    "subwordIpa": "a-ni-ma-tœɾ",
+    "phoneticWriting": "animatœɾ",
+    "phonemes": [
+      "a",
+      "i",
+      "a",
+      "œ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/337"
+  },
+  {
+    "word": "antoloji",
+    "subword": "an-to-lo-ji",
+    "subwordIpa": "an-to-loː-ʒi",
+    "phoneticWriting": "antoloːʒi",
+    "phonemes": [
+      "a",
+      "o",
+      "o",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/358"
+  },
+  {
+    "word": "aranjman",
+    "subword": "a-ranj-man",
+    "subwordIpa": "a-ɾanʒ-man",
+    "phoneticWriting": "aɾanʒman",
+    "phonemes": [
+      "a",
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/381"
+  },
+  {
+    "word": "aranjör",
+    "subword": "a-ran-jör",
+    "subwordIpa": "a-ɾan-ʒœɾ",
+    "phoneticWriting": "aɾanʒœɾ",
+    "phonemes": [
+      "a",
+      "a",
+      "œ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/382"
+  },
+  {
+    "word": "artist",
+    "subword": "ar-tist",
+    "subwordIpa": "aɾ-tist",
+    "phoneticWriting": "aɾtist",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/417"
+  },
+  {
+    "word": "asalak",
+    "subword": "a-sa-lak",
+    "subwordIpa": "a-sa-ɫak",
+    "phoneticWriting": "asaɫak",
+    "phonemes": [
+      "a",
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/436"
+  },
+  {
+    "word": "atölye",
+    "subword": "a-töl-ye",
+    "subwordIpa": "a-tœɫ-je",
+    "phoneticWriting": "atœɫje",
+    "phonemes": [
+      "a",
+      "œ",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/537"
+  },
+  {
+    "word": "balerin",
+    "subword": "ba-le-rin",
+    "subwordIpa": "ba-le-ɾin",
+    "phoneticWriting": "baleɾin",
+    "phonemes": [
+      "a",
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/700"
+  },
+  {
+    "word": "balet",
+    "subword": "ba-let",
+    "subwordIpa": "ba-let",
+    "phoneticWriting": "balet",
+    "phonemes": [
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/701"
+  },
+  {
+    "word": "balo",
+    "subword": "ba-lo",
+    "subwordIpa": "ba-ɫo",
+    "phoneticWriting": "baɫo",
+    "phonemes": [
+      "a",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/706"
+  },
+  {
+    "word": "başrol",
+    "subword": "baş-rol",
+    "subwordIpa": "baʃ-ɾoːl",
+    "phoneticWriting": "baʃɾoːl",
+    "phonemes": [
+      "a",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/750"
+  },
+  {
+    "word": "broşür",
+    "subword": "bro-şür",
+    "subwordIpa": "bɾo-ʃyɾ",
+    "phoneticWriting": "bɾoʃyɾ",
+    "phonemes": [
+      "o",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1077"
+  },
+  {
+    "word": "cemiyet",
+    "subword": "ce-mi-yet",
+    "subwordIpa": "d͡ʒe-mi-jet",
+    "phoneticWriting": "d͡ʒemijet",
+    "phonemes": [
+      "e",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1244"
+  },
+  {
+    "word": "cümle",
+    "subword": "cüm-le",
+    "subwordIpa": "d͡ʒym-le",
+    "phoneticWriting": "d͡ʒymle",
+    "phonemes": [
+      "y",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/12426"
+  },
+  {
+    "word": "didaktik",
+    "subword": "di-dak-tik",
+    "subwordIpa": "di-dak-tik",
+    "phoneticWriting": "didaktik",
+    "phonemes": [
+      "i",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1806"
+  },
+  {
+    "word": "diksiyon",
+    "subword": "dik-si-yon",
+    "subwordIpa": "dik-si-jon",
+    "phoneticWriting": "diksijon",
+    "phonemes": [
+      "i",
+      "i",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1822"
+  },
+  {
+    "word": "dublaj",
+    "subword": "dub-laj",
+    "subwordIpa": "dub-lɑʒ",
+    "phoneticWriting": "dublɑʒ",
+    "phonemes": [
+      "u",
+      "ɑ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1925"
+  },
+  {
+    "word": "düet",
+    "subword": "dü-et",
+    "subwordIpa": "dy-et",
+    "phoneticWriting": "dyet",
+    "phonemes": [
+      "y",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1944"
+  },
+  {
+    "word": "editör",
+    "subword": "e-di-tör",
+    "subwordIpa": "e-di-tœɾ",
+    "phoneticWriting": "editœɾ",
+    "phonemes": [
+      "e",
+      "i",
+      "œ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2036"
+  },
+  {
+    "word": "efekt",
+    "subword": "e-fekt",
+    "subwordIpa": "e-fekt",
+    "phoneticWriting": "efekt",
+    "phonemes": [
+      "e",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2041"
+  },
+  {
+    "word": "efsane",
+    "subword": "ef-sa-ne",
+    "subwordIpa": "ef-saː-ne",
+    "phoneticWriting": "efsaːne",
+    "phonemes": [
+      "e",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2056"
+  },
+  {
+    "word": "egzersiz",
+    "subword": "eg-zer-siz",
+    "subwordIpa": "eɡ-zɛɾ-siz",
+    "phoneticWriting": "eɡzɛɾsiz",
+    "phonemes": [
+      "e",
+      "ɛ",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2064"
+  },
+  {
+    "word": "jargon",
+    "subword": "jar-gon",
+    "subwordIpa": "ʒaɾ-ɡon",
+    "phoneticWriting": "ʒaɾɡon",
+    "phonemes": [
+      "a",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/4805"
+  },
+  {
+    "word": "jenerik",
+    "subword": "je-ne-rik",
+    "subwordIpa": "ʒe-ne-ɾik",
+    "phoneticWriting": "ʒeneɾik",
+    "phonemes": [
+      "e",
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/4813"
+  },
+  {
+    "word": "makale",
+    "subword": "ma-ka-le",
+    "subwordIpa": "ma-kaː-le",
+    "phoneticWriting": "makaːle",
+    "phonemes": [
+      "a",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6172"
+  },
+  {
+    "word": "muhabir",
+    "subword": "mu-ha-bir",
+    "subwordIpa": "mu-haː-biɾ",
+    "phoneticWriting": "muhaːbiɾ",
+    "phonemes": [
+      "u",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7074"
+  },
+  {
+    "word": "röportaj",
+    "subword": "rö-por-taj",
+    "subwordIpa": "ɾœ-poɾ-taʒ",
+    "phoneticWriting": "ɾœpoɾtaʒ",
+    "phonemes": [
+      "œ",
+      "o",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/8992"
+  },
+  {
+    "word": "televizyon",
+    "subword": "te-le-viz-yon",
+    "subwordIpa": "te-le-viz-jon",
+    "phoneticWriting": "televizjon",
+    "phonemes": [
+      "e",
+      "e",
+      "i",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10680"
+  },
+  {
+    "word": "temsil",
+    "subword": "tem-sil",
+    "subwordIpa": "tem-sil",
+    "phoneticWriting": "temsil",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10737"
+  },
+  {
+    "word": "video",
+    "subword": "vi-de-o",
+    "subwordIpa": "vi-de-o",
+    "phoneticWriting": "video",
+    "phonemes": [
+      "i",
+      "e",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11585"
+  },
+  {
+    "word": "yayın",
+    "subword": "ya-yın",
+    "subwordIpa": "ja-jɯn",
+    "phoneticWriting": "jajɯn",
+    "phonemes": [
+      "a",
+      "ɯ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11708"
+  }
+]

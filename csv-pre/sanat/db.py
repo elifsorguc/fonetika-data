@@ -10,10 +10,10 @@ client = MongoClient("mongodb+srv://fonetika:a9Dppy2d.%40JFRRq@fonetika.28eco.mo
 
 # Your database & collection names
 db = client['fonetika_db']             # Change if needed
-collection = db['law_words']                   # Change if needed
+collection = db['art_words']                   # Change if needed
 
 # === Step 3: Insert All Words ===
 result = collection.insert_many(data)
 
-print(f"✅ Successfully inserted {len(result.inserted_ids)} hukuk words into MongoDB Atlas.")
+print(f"✅ Successfully inserted {len(result.inserted_ids)} words into MongoDB Atlas.")
 

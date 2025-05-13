@@ -1,0 +1,90 @@
+[
+    {
+    "word": "kendi",
+    "subword": "cen-di",
+    "subwordIpa": "cen-di",
+    "phoneticWriting": "cendi",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/5260"
+  },
+  {
+    "word": "mühendis",
+    "subword": "my-hen-dis",
+    "subwordIpa": "my-hen-dis",
+    "phoneticWriting": "myhendis",
+    "phonemes": [
+      "y",
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7422"
+  },
+  {
+    "word": "hala",
+    "subword": "ha-ɫa",
+    "subwordIpa": "ha-ɫa",
+    "phoneticWriting": "haɫa",
+    "phonemes": [
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/3247"
+  },
+  {
+    "word": "lazım",
+    "subword": "ɫaː-zɯm",
+    "subwordIpa": "ɫaː-zɯm",
+    "phoneticWriting": "ɫaːzɯm",
+    "phonemes": [
+      "a",
+      "ɯ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/5870"
+  },
+  {
+    "word": "denk",
+    "subword": "denk",
+    "subwordIpa": "denk",
+    "phoneticWriting": "denk",
+    "phonemes": [
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/12556"
+  },
+  {
+    "word": "evlat",
+    "subword": "ev-lɑt",
+    "subwordIpa": "ev-lɑt",
+    "phoneticWriting": "evlɑt",
+    "phonemes": [
+      "e",
+      "ɑ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2376"
+  },
+  {
+    "word": "legal",
+    "subword": "le-ɡɑl",
+    "subwordIpa": "le-ɡɑl",
+    "phoneticWriting": "leɡɑl",
+    "phonemes": [
+      "e",
+      "ɑ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/5886"
+  },
+  {
+    "word": "mendil",
+    "subword": "men-dil",
+    "subwordIpa": "men-dil",
+    "phoneticWriting": "mendil",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6604"
+  }
+]

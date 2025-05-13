@@ -1,0 +1,615 @@
+[
+  {
+    "word": "akademisyen",
+    "subword": "a-ka-de-mis-yen",
+    "subwordIpa": "a-ka-de-mis-jɛn",
+    "phoneticWriting": "akademisjɛn",
+    "phonemes": [
+      "a",
+      "a",
+      "e",
+      "i",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/163",
+    "meaning": "Üniversite düzeyinde araştırma ve eğitim yapan kişi."
+  },
+  {
+    "word": "alfabe",
+    "subword": "al-fa-be",
+    "subwordIpa": "aːɫ-fa-be",
+    "phoneticWriting": "aːɫfabe",
+    "phonemes": [
+      "a",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/246",
+    "meaning": "Harflerin sıralandığı dizgi."
+  },
+  {
+    "word": "analitik",
+    "subword": "a-na-li-tik",
+    "subwordIpa": "a-na-li-tik",
+    "phoneticWriting": "analitik",
+    "phonemes": [
+      "a",
+      "a",
+      "i",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/316",
+    "meaning": "Mantıklı ve çözümlemeye dayalı düşünme."
+  },
+  {
+    "word": "anatomi",
+    "subword": "a-na-to-mi",
+    "subwordIpa": "a-na-to-mi",
+    "phoneticWriting": "anatomi",
+    "phonemes": [
+      "a",
+      "a",
+      "o",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/326",
+    "meaning": "Canlıların yapı ve organlarını inceleyen bilim dalı."
+  },
+  {
+    "word": "anketör",
+    "subword": "an-ke-tör",
+    "subwordIpa": "an-ce-tœɾ",
+    "phoneticWriting": "ancetœɾ",
+    "phonemes": [
+      "a",
+      "e",
+      "œ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/344",
+    "meaning": "Anket uygulayan kişi."
+  },
+  {
+    "word": "aritmetik",
+    "subword": "a-rit-me-tik",
+    "subwordIpa": "a-ɾit-me-tik",
+    "phoneticWriting": "aɾitmetik",
+    "phonemes": [
+      "a",
+      "i",
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/403",
+    "meaning": "Temel sayısal işlemleri içeren matematik dalı."
+  },
+  {
+    "word": "arkeoloji",
+    "subword": "ar-ke-o-lo-ji",
+    "subwordIpa": "aɾ-ce-o-loː-ʒi",
+    "phoneticWriting": "aɾceoloːʒi",
+    "phonemes": [
+      "a",
+      "e",
+      "o",
+      "o",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/408",
+    "meaning": "Kazı çalışmalarıyla eski medeniyetleri inceleyen bilim."
+  },
+  {
+    "word": "atölye",
+    "subword": "a-töl-ye",
+    "subwordIpa": "a-tœɫ-je",
+    "phoneticWriting": "atœɫje",
+    "phonemes": [
+      "a",
+      "œ",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/537",
+    "meaning": "Sanat veya teknik eğitim yapılan yer."
+  },
+  {
+    "word": "bakalorya",
+    "subword": "ba-ka-lor-ya",
+    "subwordIpa": "ba-ka-loːɾ-ja",
+    "phoneticWriting": "bakaloːɾja",
+    "phonemes": [
+      "a",
+      "a",
+      "o",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/677",
+    "meaning": "Lise düzeyinde uluslararası diploma programı."
+  },
+  {
+    "word": "belletmen",
+    "subword": "bel-let-men",
+    "subwordIpa": "beɫ-let-mɛn",
+    "phoneticWriting": "beɫletmɛn",
+    "phonemes": [
+      "e",
+      "e",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/830",
+    "meaning": "Öğrencilere gözetmenlik yapan kişi."
+  },
+  {
+    "word": "bibliyografya",
+    "subword": "bib-li-yog-raf-ya",
+    "subwordIpa": "bib-li-joɡ-ɾaf-ja",
+    "phoneticWriting": "biblijoɡɾafja",
+    "phonemes": [
+      "i",
+      "i",
+      "o",
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/936",
+    "meaning": "Kaynakların listelendiği kitap veya bölüm."
+  },
+  {
+    "word": "bilişim",
+    "subword": "bi-li-şim",
+    "subwordIpa": "bi-li-ʃim",
+    "phoneticWriting": "biliʃim",
+    "phonemes": [
+      "i",
+      "i",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/981",
+    "meaning": "Bilgi teknolojileriyle ilgili alan."
+  },
+  {
+    "word": "biyografi",
+    "subword": "bi-yog-ra-fi",
+    "subwordIpa": "bi-joɡ-ɾa-fi",
+    "phoneticWriting": "bijoɡɾafi",
+    "phonemes": [
+      "i",
+      "o",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1026",
+    "meaning": "Bir kişinin yaşam öyküsünün anlatıldığı yazı türü."
+  },
+  {
+    "word": "biyoloji",
+    "subword": "bi-yo-lo-ji",
+    "subwordIpa": "bi-jo-loː-ʒi",
+    "phoneticWriting": "bijoloːʒi",
+    "phonemes": [
+      "i",
+      "o",
+      "o",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1027",
+    "meaning": "Canlıları inceleyen bilim dalı."
+  },
+  {
+    "word": "broşür",
+    "subword": "bro-şür",
+    "subwordIpa": "bɾo-ʃyɾ",
+    "phoneticWriting": "bɾoʃyɾ",
+    "phonemes": [
+      "o",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1077",
+    "meaning": "Tanıtım amaçlı küçük kitapçık."
+  },
+  {
+    "word": "cetvel",
+    "subword": "cet-vel",
+    "subwordIpa": "d͡ʒet-vɛl",
+    "phoneticWriting": "d͡ʒetvɛl",
+    "phonemes": [
+      "e",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1287",
+    "meaning": "Ölçüm aracı; çizgili ölçü cetveli."
+  },
+  {
+    "word": "coğrafya",
+    "subword": "coğ-raf-ya",
+    "subwordIpa": "d͡ʒoː-ɾaf-ja",
+    "phoneticWriting": "d͡ʒoːɾafja",
+    "phonemes": [
+      "o",
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1378",
+    "meaning": "Yeryüzü ve insan arasındaki ilişkileri inceleyen bilim dalı."
+  },
+  {
+    "word": "cümle",
+    "subword": "cüm-le",
+    "subwordIpa": "d͡ʒym-le",
+    "phoneticWriting": "d͡ʒymle",
+    "phonemes": [
+      "y",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/12426",
+    "meaning": "Anlamlı kelimelerden oluşan söz dizisi."
+  },
+  {
+    "word": "ders",
+    "subword": "ders",
+    "subwordIpa": "dɛɾs",
+    "phoneticWriting": "dɛɾs",
+    "phonemes": [
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1721",
+    "meaning": "Öğretim konusu olan bilgi bütünü."
+  },
+  {
+    "word": "dershane",
+    "subword": "ders-ha-ne",
+    "subwordIpa": "dɛɾs-haː-ne",
+    "phoneticWriting": "dɛɾshaːne",
+    "phonemes": [
+      "ɛ",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1723",
+    "meaning": "Öğrencilere ders verilen özel eğitim kurumu."
+  },
+  {
+    "word": "didaktik",
+    "subword": "di-dak-tik",
+    "subwordIpa": "di-dak-tik",
+    "phoneticWriting": "didaktik",
+    "phonemes": [
+      "i",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1806",
+    "meaning": "Öğretici, bilgi aktarıcı nitelikte olan."
+  },
+  {
+    "word": "diksiyon",
+    "subword": "dik-si-yon",
+    "subwordIpa": "dik-si-jon",
+    "phoneticWriting": "diksijon",
+    "phonemes": [
+      "i",
+      "i",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1822",
+    "meaning": "Doğru, etkili konuşma sanatı."
+  },
+  {
+    "word": "dil",
+    "subword": "dil",
+    "subwordIpa": "dil",
+    "phoneticWriting": "dil",
+    "phonemes": [
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1824",
+    "meaning": "İletişim ve düşünce aracı olan sesli işaret sistemi."
+  },
+  {
+    "word": "dil",
+    "subword": "dil",
+    "subwordIpa": "dil",
+    "phoneticWriting": "dil",
+    "phonemes": [
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1824",
+    "meaning": "İletişim ve düşünce aracı olan sesli işaret sistemi."
+  },
+  {
+    "word": "diploma",
+    "subword": "dip-lo-ma",
+    "subwordIpa": "dip-loː-ma",
+    "phoneticWriting": "diploːma",
+    "phonemes": [
+      "i",
+      "o",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1861",
+    "meaning": "Bir öğrenim programının tamamlandığını belgeleyen belge."
+  },
+  {
+    "word": "dokümantasyon",
+    "subword": "do-kü-man-tas-yon",
+    "subwordIpa": "do-cy-man-tas-jon",
+    "phoneticWriting": "docymantasjon",
+    "phonemes": [
+      "o",
+      "y",
+      "a",
+      "a",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1908",
+    "meaning": "Belge hazırlama işlemi ve süreci."
+  },
+  {
+    "word": "edebiyat",
+    "subword": "e-de-bi-yat",
+    "subwordIpa": "e-de-bi-jat",
+    "phoneticWriting": "edebijat",
+    "phonemes": [
+      "e",
+      "e",
+      "i",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2025",
+    "meaning": "Yazılı veya sözlü güzel sanatlar türü."
+  },
+  {
+    "word": "editör",
+    "subword": "e-di-tör",
+    "subwordIpa": "e-di-tœɾ",
+    "phoneticWriting": "editœɾ",
+    "phonemes": [
+      "e",
+      "i",
+      "œ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2036",
+    "meaning": "Metinleri düzenleyen ve yayına hazırlayan kişi."
+  },
+  {
+    "word": "eğitim",
+    "subword": "e-ği-tim",
+    "subwordIpa": "e-ji-tim",
+    "phoneticWriting": "ejitim",
+    "phonemes": [
+      "e",
+      "i",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2072",
+    "meaning": "Bireylerin bilgi ve becerilerini geliştirme süreci."
+  },
+  {
+    "word": "egzersiz",
+    "subword": "eg-zer-siz",
+    "subwordIpa": "eɡ-zɛɾ-siz",
+    "phoneticWriting": "eɡzɛɾsiz",
+    "phonemes": [
+      "e",
+      "ɛ",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2064",
+    "meaning": "Beden hareketlerine dayalı alıştırma."
+  },
+  {
+    "word": "enstitü",
+    "subword": "ens-ti-tü",
+    "subwordIpa": "ens-ti-ty",
+    "phoneticWriting": "enstity",
+    "phonemes": [
+      "e",
+      "i",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2236",
+    "meaning": "Bilimsel araştırma ve eğitim kurumu."
+  },
+  {
+    "word": "makale",
+    "subword": "ma-ka-le",
+    "subwordIpa": "ma-kaː-le",
+    "phoneticWriting": "makaːle",
+    "phonemes": [
+      "a",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6172",
+    "meaning": "Araştırmaya dayalı akademik yazı."
+  },
+  {
+    "word": "müderris",
+    "subword": "mü-der-ris",
+    "subwordIpa": "my-deɾ-ɾis",
+    "phoneticWriting": "mydeɾɾis",
+    "phonemes": [
+      "y",
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7381",
+    "meaning": "Osmanlı döneminde ders veren öğretmen."
+  },
+  {
+    "word": "müdire",
+    "subword": "mü-di-re",
+    "subwordIpa": "my-diː-ɾe",
+    "phoneticWriting": "mydiːɾe",
+    "phonemes": [
+      "y",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7383",
+    "meaning": "Okul ve kurum yöneticisi (kadın)."
+  },
+  {
+    "word": "müdür",
+    "subword": "mü-dür",
+    "subwordIpa": "my-dyɾ",
+    "phoneticWriting": "mydyɾ",
+    "phonemes": [
+      "y",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7384",
+    "meaning": "Okul ve kurum yöneticisi (erkek)."
+  },
+  {
+    "word": "müellif",
+    "subword": "mü-el-lif",
+    "subwordIpa": "my-eɫ-lif",
+    "phoneticWriting": "myeɫlif",
+    "phonemes": [
+      "y",
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7392",
+    "meaning": "Bir eserin yazarı."
+  },
+  {
+    "word": "müessese",
+    "subword": "mü-es-se-se",
+    "subwordIpa": "my-es-se-se",
+    "phoneticWriting": "myessese",
+    "phonemes": [
+      "y",
+      "e",
+      "e",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7396",
+    "meaning": "Kurum, kuruluş."
+  },
+  {
+    "word": "müfredat",
+    "subword": "müf-re-dat",
+    "subwordIpa": "myf-ɾe-dat",
+    "phoneticWriting": "myfɾedat",
+    "phonemes": [
+      "y",
+      "e",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7415",
+    "meaning": "Ders programı ve içeriği."
+  },
+  {
+    "word": "mühendis",
+    "subword": "mü-hen-dis",
+    "subwordIpa": "my-hen-dis",
+    "phoneticWriting": "myhendis",
+    "phonemes": [
+      "y",
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7422",
+    "meaning": "Teknik bilgiyle çalışan tasarımcı ve uygulayıcı uzman."
+  },
+  {
+    "word": "talim",
+    "subword": "ta-lim",
+    "subwordIpa": "taː-lim",
+    "phoneticWriting": "taːlim",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10337",
+    "meaning": "Eğitim, öğretim."
+  },
+  {
+    "word": "talimgâh",
+    "subword": "ta-limgâh",
+    "subwordIpa": "taː-lim-ɡɑːh",
+    "phoneticWriting": "taːlimɡɑːh",
+    "phonemes": [
+      "a",
+      "i",
+      "ɑ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10340",
+    "meaning": "Eğitim yapılan yer."
+  },
+  {
+    "word": "tarif",
+    "subword": "ta-rif",
+    "subwordIpa": "taː-ɾif",
+    "phoneticWriting": "taːɾif",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10394",
+    "meaning": "Bir şeyin nasıl yapıldığını anlatan tanım."
+  },
+  {
+    "word": "tarih",
+    "subword": "ta-rih",
+    "subwordIpa": "taː-ɾih",
+    "phoneticWriting": "taːɾih",
+    "phonemes": [
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10398",
+    "meaning": "Geçmişteki olayları inceleyen bilim dalı."
+  },
+  {
+    "word": "tecrübe",
+    "subword": "tec-rü-be",
+    "subwordIpa": "ted͡ʒ-ɾy-be",
+    "phoneticWriting": "ted͡ʒɾybe",
+    "phonemes": [
+      "e",
+      "y",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10530",
+    "meaning": "Yaşanarak kazanılan bilgi, deneyim."
+  },
+  {
+    "word": "tedris",
+    "subword": "ted-ris",
+    "subwordIpa": "ted-ɾis",
+    "phoneticWriting": "tedɾis",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10552",
+    "meaning": "Öğretim işi."
+  },
+  {
+    "word": "tedrisat",
+    "subword": "ted-ri-sat",
+    "subwordIpa": "ted-ɾiː-saːt",
+    "phoneticWriting": "tedɾiːsaːt",
+    "phonemes": [
+      "e",
+      "i",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10553",
+    "meaning": "Eğitim işleri, öğretim süreci."
+  },
+  {
+    "word": "tedrisi",
+    "subword": "ted-ri-si",
+    "subwordIpa": "ted-ɾiː-siː",
+    "phoneticWriting": "tedɾiːsiː",
+    "phonemes": [
+      "e",
+      "i",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10554",
+    "meaning": "Öğretime dair olan."
+  }
+]

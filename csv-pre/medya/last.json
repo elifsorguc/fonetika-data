@@ -1,0 +1,505 @@
+[
+  {
+    "word": "ajanda",
+    "subword": "a-jan-da",
+    "subwordIpa": "a-ʒan-da",
+    "phoneticWriting": "aʒanda",
+    "phonemes": [
+      "a",
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/158",
+    "meaning": "Günlük notların alındığı defter."
+  },
+  {
+    "word": "ajans",
+    "subword": "a-jans",
+    "subwordIpa": "a-ʒans",
+    "phoneticWriting": "aʒans",
+    "phonemes": [
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/159",
+    "meaning": "Haber veya reklam sağlayan kuruluş."
+  },
+  {
+    "word": "ajitasyon",
+    "subword": "a-ji-tas-yon",
+    "subwordIpa": "a-ʒi-tas-jon",
+    "phoneticWriting": "aʒitasjon",
+    "phonemes": [
+      "a",
+      "i",
+      "a",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/160",
+    "meaning": "Duygusal kışkırtma."
+  },
+  {
+    "word": "aktüalite",
+    "subword": "ak-tü-a-li-te",
+    "subwordIpa": "ak-ty-a-li-te",
+    "phoneticWriting": "aktyalite",
+    "phonemes": [
+      "a",
+      "y",
+      "a",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/195",
+    "meaning": "Güncellik durumu."
+  },
+  {
+    "word": "aktüel",
+    "subword": "ak-tü-el",
+    "subwordIpa": "ak-ty-ɛl",
+    "phoneticWriting": "aktyɛl",
+    "phonemes": [
+      "a",
+      "y",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/196",
+    "meaning": "Güncel, çağdaş olan."
+  },
+  {
+    "word": "analitik",
+    "subword": "a-na-li-tik",
+    "subwordIpa": "a-na-li-tik",
+    "phoneticWriting": "analitik",
+    "phonemes": [
+      "a",
+      "a",
+      "i",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/316",
+    "meaning": "Çözümleyici ve mantıklı düşünmeye dayalı."
+  },
+  {
+    "word": "animasyon",
+    "subword": "a-ni-mas-yon",
+    "subwordIpa": "a-ni-mas-jon",
+    "phoneticWriting": "animasjon",
+    "phonemes": [
+      "a",
+      "i",
+      "a",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/336",
+    "meaning": "Canlandırma tekniğiyle yapılan görsel sunum."
+  },
+  {
+    "word": "anketör",
+    "subword": "an-ke-tör",
+    "subwordIpa": "an-ce-tœɾ",
+    "phoneticWriting": "ancetœɾ",
+    "phonemes": [
+      "a",
+      "e",
+      "œ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/344",
+    "meaning": "Anket yapan kişi."
+  },
+  {
+    "word": "broşür",
+    "subword": "bro-şür",
+    "subwordIpa": "bɾo-ʃyɾ",
+    "phoneticWriting": "bɾoʃyɾ",
+    "phonemes": [
+      "o",
+      "y"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1077",
+    "meaning": "Tanıtıcı basılı küçük kitapçık."
+  },
+  {
+    "word": "cenaze",
+    "subword": "ce-na-ze",
+    "subwordIpa": "d͡ʒe-naː-ze",
+    "phoneticWriting": "d͡ʒenaːze",
+    "phonemes": [
+      "e",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1252",
+    "meaning": "Ölünün defniyle ilgili tören."
+  },
+  {
+    "word": "coğrafya",
+    "subword": "coğ-raf-ya",
+    "subwordIpa": "d͡ʒoː-ɾaf-ja",
+    "phoneticWriting": "d͡ʒoːɾafja",
+    "phonemes": [
+      "o",
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1378",
+    "meaning": "Yeryüzü şekilleri ve insanla ilişkisini inceleyen bilim."
+  },
+  {
+    "word": "defter",
+    "subword": "def-ter",
+    "subwordIpa": "def-tɛɾ",
+    "phoneticWriting": "deftɛɾ",
+    "phonemes": [
+      "e",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1641",
+    "meaning": "Yazıların yazıldığı kitap."
+  },
+  {
+    "word": "demeç",
+    "subword": "de-meç",
+    "subwordIpa": "de-met͡ʃ",
+    "phoneticWriting": "demet͡ʃ",
+    "phonemes": [
+      "e",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1679",
+    "meaning": "Basına verilen resmi açıklama."
+  },
+  {
+    "word": "dergi",
+    "subword": "der-gi",
+    "subwordIpa": "dɛɾ-ɡi",
+    "phoneticWriting": "dɛɾɡi",
+    "phonemes": [
+      "ɛ",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1709",
+    "meaning": "Belirli konularda yazıların yer aldığı periyodik yayın."
+  },
+  {
+    "word": "derlem",
+    "subword": "der-lem",
+    "subwordIpa": "dɛɾ-lɛm",
+    "phoneticWriting": "dɛɾlɛm",
+    "phonemes": [
+      "ɛ",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1714",
+    "meaning": "Bir konuya ilişkin derlenmiş metinler bütünü."
+  },
+  {
+    "word": "didaktik",
+    "subword": "di-dak-tik",
+    "subwordIpa": "di-dak-tik",
+    "phoneticWriting": "didaktik",
+    "phonemes": [
+      "i",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1806",
+    "meaning": "Öğretici nitelikte olan."
+  },
+  {
+    "word": "dijital",
+    "subword": "di-ji-tal",
+    "subwordIpa": "di-ʒi-tɑl",
+    "phoneticWriting": "diʒitɑl",
+    "phonemes": [
+      "i",
+      "i",
+      "ɑ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1818",
+    "meaning": "Sayısal teknolojilere ait."
+  },
+  {
+    "word": "diksiyon",
+    "subword": "dik-si-yon",
+    "subwordIpa": "dik-si-jon",
+    "phoneticWriting": "diksijon",
+    "phonemes": [
+      "i",
+      "i",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1822",
+    "meaning": "Doğru ve anlaşılır konuşma sanatı."
+  },
+  {
+    "word": "dokümantasyon",
+    "subword": "do-kü-man-tas-yon",
+    "subwordIpa": "do-cy-man-tas-jon",
+    "phoneticWriting": "docymantasjon",
+    "phonemes": [
+      "o",
+      "y",
+      "a",
+      "a",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/1908",
+    "meaning": "Belge hazırlama süreci."
+  },
+  {
+    "word": "editör",
+    "subword": "e-di-tör",
+    "subwordIpa": "e-di-tœɾ",
+    "phoneticWriting": "editœɾ",
+    "phonemes": [
+      "e",
+      "i",
+      "œ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2036",
+    "meaning": "Yayına hazırlayan kişi."
+  },
+  {
+    "word": "eğitim",
+    "subword": "e-ği-tim",
+    "subwordIpa": "e-ji-tim",
+    "phoneticWriting": "ejitim",
+    "phonemes": [
+      "e",
+      "i",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2072",
+    "meaning": "Öğretim süreci."
+  },
+  {
+    "word": "egzersiz",
+    "subword": "eg-zer-siz",
+    "subwordIpa": "eɡ-zɛɾ-siz",
+    "phoneticWriting": "eɡzɛɾsiz",
+    "phonemes": [
+      "e",
+      "ɛ",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/2064",
+    "meaning": "Beden hareketleriyle yapılan alıştırma."
+  },
+  {
+    "word": "haber",
+    "subword": "ha-ber",
+    "subwordIpa": "ha-bɛɾ",
+    "phoneticWriting": "habɛɾ",
+    "phonemes": [
+      "a",
+      "ɛ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/3116",
+    "meaning": "Bilgilendirme amacıyla verilen haber."
+  },
+  {
+    "word": "jargon",
+    "subword": "jar-gon",
+    "subwordIpa": "ʒaɾ-ɡon",
+    "phoneticWriting": "ʒaɾɡon",
+    "phonemes": [
+      "a",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/4805",
+    "meaning": "Mesleki özel dil."
+  },
+  {
+    "word": "jenerik",
+    "subword": "je-ne-rik",
+    "subwordIpa": "ʒe-ne-ɾik",
+    "phoneticWriting": "ʒeneɾik",
+    "phonemes": [
+      "e",
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/4813",
+    "meaning": "Dizi veya filmlerin açılış-kapanış müziği ve yazıları."
+  },
+  {
+    "word": "kamera",
+    "subword": "ka-me-ra",
+    "subwordIpa": "ka-me-ɾa",
+    "phoneticWriting": "kameɾa",
+    "phonemes": [
+      "a",
+      "e",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/4978",
+    "meaning": "Görüntü kaydedici araç."
+  },
+  {
+    "word": "magazin",
+    "subword": "ma-ga-zin",
+    "subwordIpa": "ma-ɡa-zin",
+    "phoneticWriting": "maɡazin",
+    "phonemes": [
+      "a",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6064",
+    "meaning": "Haber, magazin içerikli yayın."
+  },
+  {
+    "word": "makale",
+    "subword": "ma-ka-le",
+    "subwordIpa": "ma-kaː-le",
+    "phoneticWriting": "makaːle",
+    "phonemes": [
+      "a",
+      "a",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6172",
+    "meaning": "Araştırmaya dayalı yazı."
+  },
+  {
+    "word": "mikrofon",
+    "subword": "mik-ro-fon",
+    "subwordIpa": "mik-ɾo-fon",
+    "phoneticWriting": "mikɾofon",
+    "phonemes": [
+      "i",
+      "o",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/6908",
+    "meaning": "Ses kaydedici araç."
+  },
+  {
+    "word": "muhabir",
+    "subword": "mu-ha-bir",
+    "subwordIpa": "mu-haː-biɾ",
+    "phoneticWriting": "muhaːbiɾ",
+    "phonemes": [
+      "u",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/7074",
+    "meaning": "Haber toplayıp ileten kişi."
+  },
+  {
+    "word": "röportaj",
+    "subword": "rö-por-taj",
+    "subwordIpa": "ɾœ-poɾ-taʒ",
+    "phoneticWriting": "ɾœpoɾtaʒ",
+    "phonemes": [
+      "œ",
+      "o",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/8992",
+    "meaning": "Görüşme yoluyla yapılan haber."
+  },
+  {
+    "word": "sayfa",
+    "subword": "say-fa",
+    "subwordIpa": "saj-fa",
+    "phoneticWriting": "sajfa",
+    "phonemes": [
+      "a",
+      "a"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/9272",
+    "meaning": "Kitap, dergi vb. bölümleri."
+  },
+  {
+    "word": "televizyon",
+    "subword": "te-le-viz-yon",
+    "subwordIpa": "te-le-viz-jon",
+    "phoneticWriting": "televizjon",
+    "phonemes": [
+      "e",
+      "e",
+      "i",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10680",
+    "meaning": "Görüntülü yayın aracı."
+  },
+  {
+    "word": "tematik",
+    "subword": "te-ma-tik",
+    "subwordIpa": "te-ma-tik",
+    "phoneticWriting": "tematik",
+    "phonemes": [
+      "e",
+      "a",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10703",
+    "meaning": "Belirli bir temaya sahip olan."
+  },
+  {
+    "word": "temsil",
+    "subword": "tem-sil",
+    "subwordIpa": "tem-sil",
+    "phoneticWriting": "temsil",
+    "phonemes": [
+      "e",
+      "i"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/10737",
+    "meaning": "Bir kişi ya da kuruluşu temsil etme işi."
+  },
+  {
+    "word": "video",
+    "subword": "vi-de-o",
+    "subwordIpa": "vi-de-o",
+    "phoneticWriting": "video",
+    "phonemes": [
+      "i",
+      "e",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11585",
+    "meaning": "Görüntülü kayıt."
+  },
+  {
+    "word": "vizite",
+    "subword": "vi-zi-te",
+    "subwordIpa": "vi-zi-te",
+    "phoneticWriting": "vizite",
+    "phonemes": [
+      "i",
+      "i",
+      "e"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11610",
+    "meaning": "Doktor muayenesi için yapılan ziyaret."
+  },
+  {
+    "word": "vizyon",
+    "subword": "viz-yon",
+    "subwordIpa": "viz-jon",
+    "phoneticWriting": "vizjon",
+    "phonemes": [
+      "i",
+      "o"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11611",
+    "meaning": "Geleceğe dair bakış açısı."
+  },
+  {
+    "word": "yayın",
+    "subword": "ya-yın",
+    "subwordIpa": "ja-jɯn",
+    "phoneticWriting": "jajɯn",
+    "phonemes": [
+      "a",
+      "ɯ"
+    ],
+    "audioPath": "https://sozluk.rtuk.gov.tr/Home/SesKelime/11708",
+    "meaning": "Her türlü basılı ya da dijital bilgi iletimi."
+  }
+]
