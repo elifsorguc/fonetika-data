@@ -16,6 +16,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Init submodules
+        run: git submodule update --init --recursive
+
       - name: Post initial comment indicating checking for similar issues
         run: |
           curl -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
