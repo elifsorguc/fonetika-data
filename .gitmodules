@@ -1,6 +1,3 @@
 [submodule "dupligit-bot"]
 	path = dupligit-bot
 	url = https://github.com/CS453-Group4/Dupligit.git
-[submodule "dupligit-bot-1"]
-	path = dupligit-bot-1
-	url = https://github.com/CS453-Group4/Dupligit.git
