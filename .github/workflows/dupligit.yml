@@ -41,7 +41,6 @@ jobs:
           python -m pip install --upgrade pip
            pip install -r dupligit-bot/backend/requirements.txt  # ✅ Güncel yol
 
-      
       - name: Run duplicate checker
         run: python dupligit-bot/.github/scripts/check_duplicate.py
         env:
