@@ -18,6 +18,8 @@ jobs:
           issue-title: ${{ github.event.issue.title }}
           issue-number: ${{ github.event.issue.number }}
           repo: ${{ github.repository }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # ✅ Add this line
 
   mark-duplicate:
     if: |
@@ -33,3 +35,5 @@ jobs:
           issue-number: ${{ github.event.issue.number }}
           comment-author: ${{ github.event.comment.user.login }}
           repo: ${{ github.repository }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # ✅ Add this line
