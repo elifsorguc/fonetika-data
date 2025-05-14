@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run Dupligit Check
-        uses: CS453-Group4/Dupligit@v1.0.8
+        uses: CS453-Group4/Dupligit@v1.0.11
         with:
           mode: check
           issue-title: ${{ github.event.issue.title }}
@@ -33,7 +33,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run Dupligit Mark
-        uses: CS453-Group4/Dupligit@v1.0.8
+        uses: CS453-Group4/Dupligit@v1.0.11
         with:
           mode: mark
           issue-body: ${{ github.event.comment.body }}
